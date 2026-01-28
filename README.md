@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A curated list of **219** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **218** AI agent skill repositories and frameworks (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -42,7 +42,7 @@
 
 ## 📊 Statistics
 
-- **Total Repositories**: 219
+- **Total Repositories**: 218
 - **Total Categories**: 19
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
@@ -1021,9 +1021,6 @@ Specialized domain skills.
 2. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
    - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 
-3. [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - ⭐ 2,435
-   - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
-
 ### All Projects
 
 1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
@@ -1032,25 +1029,22 @@ Specialized domain skills.
 2. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
    - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 
-3. [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - ⭐ 2,435
-   - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
-
-4. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
+3. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
    - n8n skillset for Claude Code to build flawless n8n workflows
 
-5. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
+4. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
    - Homebrew for AI Agent Skills.
 
-6. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
+5. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
    - The ultimate meta-skill for generating best-in-class Claude Code skills.
 
-7. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
+6. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
    - wooyun-legacy skill for claude code
 
-8. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
+7. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
    - SkillsBench evaluates how well skills work and how effective agents are at using them
 
-9. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
+8. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
    - Claude Skill to do your tasks with subagents in Git worktrees
 
 ---

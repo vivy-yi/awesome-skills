@@ -204,12 +204,6 @@
     "url": "https://github.com/glitternetwork/pinme"
   },
   {
-    "name": "BAAI-Agents/Cradle",
-    "stars": 2435,
-    "desc": "The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.",
-    "url": "https://github.com/BAAI-Agents/Cradle"
-  },
-  {
     "name": "davepoon/buildwithclaude",
     "stars": 2322,
     "desc": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code",
