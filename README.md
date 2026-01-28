@@ -25,6 +25,7 @@
 - [🎨 UI/UX & Design](#-uiux--design)
 - [🔌 MCP & Integrations](#-mcp--integrations)
 - [📝 Content Creation](#-content-creation)
+- [💼 Marketing & Operations](#-marketing--operations)
 - [🎬 Video & Audio](#-video--audio)
 - [🤖 Browser & Automation](#-browser--automation)
 - [🔬 Scientific Tools](#-scientific-tools)
@@ -41,7 +42,7 @@
 ## 📊 Statistics
 
 - **Total Repositories**: 222
-- **Total Categories**: 17
+- **Total Categories**: 18
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -757,6 +758,40 @@ Content generation, documentation, and writing tools (NotebookLM, Obsidian, etc.
 
 ---
 
+## 💼 Marketing & Operations
+
+Marketing, operations, CRO, SEO, copywriting, analytics, and growth engineering tools.
+
+### 🔥 Top Projects
+
+1. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
+   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+2. [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - ⭐ 623
+   - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
+
+3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
+   - Collection of Amp AI coding agent skills for marketing, content, and development workflows
+
+### All Projects
+
+1. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
+   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+
+2. [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - ⭐ 623
+   - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
+
+3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
+   - Collection of Amp AI coding agent skills for marketing, content, and development workflows
+
+4. [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - ⭐ 359
+   - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.
+
+5. [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - ⭐ 319
+   - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
+
+---
+
 ## 🎬 Video & Audio
 
 Video editing, audio processing, and multimedia tools (Remotion, YouTube, etc.).
@@ -945,45 +980,42 @@ Specialized domain skills.
 
 ### 🔥 Top Projects
 
-1. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-2. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
+1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
    - Give Cursor Agent an AI Team and Advanced Skills
 
-3. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
+2. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
    - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
+
+3. [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - ⭐ 2,435
+   - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
 
 ### All Projects
 
-1. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
-   - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-
-2. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
+1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
    - Give Cursor Agent an AI Team and Advanced Skills
 
-3. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
+2. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
    - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 
-4. [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - ⭐ 2,435
+3. [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - ⭐ 2,435
    - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
 
-5. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
+4. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
    - n8n skillset for Claude Code to build flawless n8n workflows
 
-6. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
+5. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
    - Homebrew for AI Agent Skills.
 
-7. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
+6. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
    - The ultimate meta-skill for generating best-in-class Claude Code skills.
 
-8. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
-   - wooyun-legacy skill for claude code 
+7. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
+   - wooyun-legacy skill for claude code
 
-9. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
+8. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
    - SkillsBench evaluates how well skills work and how effective agents are at using them
 
-10. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
+9. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
    - Claude Skill to do your tasks with subagents in Git worktrees
 
 ---
