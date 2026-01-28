@@ -751,37 +751,40 @@ Content generation, documentation, and writing tools (NotebookLM, Obsidian, etc.
 
 ## 🎬 Video & Audio
 
-Video editing, audio processing, and multimedia tools (YouTube, remotion, etc.).
+Video editing, audio processing, and multimedia tools (Remotion, YouTube, etc.).
 
 ### 🔥 Top Projects
 
-1. [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) - ⭐ 783
+1. [remotion-dev/skills](https://github.com/remotion-dev/skills) - ⭐ 1,020
+   - Agent Skills
+
+2. [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) - ⭐ 783
    - YouTube video clipper skill for extracting and editing video segments
 
-2. [abdullahtarek/tennis_analysis](https://github.com/abdullahtarek/tennis_analysis) - ⭐ 780
+3. [abdullahtarek/tennis_analysis](https://github.com/abdullahtarek/tennis_analysis) - ⭐ 780
    - This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints. This hands on project is perfect for polishing your machine learning, and computer vision skills.
-
-3. [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) - ⭐ 606
-   - 用 Claude Code Skills 做的视频剪辑 Agent
 
 ### All Projects
 
-1. [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) - ⭐ 783
+1. [remotion-dev/skills](https://github.com/remotion-dev/skills) - ⭐ 1,020
+   - Agent Skills
+
+2. [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) - ⭐ 783
    - YouTube video clipper skill for extracting and editing video segments
 
-2. [abdullahtarek/tennis_analysis](https://github.com/abdullahtarek/tennis_analysis) - ⭐ 780
+3. [abdullahtarek/tennis_analysis](https://github.com/abdullahtarek/tennis_analysis) - ⭐ 780
    - This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints. This hands on project is perfect for polishing your machine learning, and computer vision skills.
 
-3. [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) - ⭐ 606
+4. [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) - ⭐ 606
    - 用 Claude Code Skills 做的视频剪辑 Agent
 
-4. [michalparkola/tapestry-skills-for-claude-code](https://github.com/michalparkola/tapestry-skills-for-claude-code) - ⭐ 183
+5. [michalparkola/tapestry-skills-for-claude-code](https://github.com/michalparkola/tapestry-skills-for-claude-code) - ⭐ 183
    - Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)
 
-5. [zarazhangrui/youtube-to-ebook](https://github.com/zarazhangrui/youtube-to-ebook) - ⭐ 160
+6. [zarazhangrui/youtube-to-ebook](https://github.com/zarazhangrui/youtube-to-ebook) - ⭐ 160
    - Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly
 
-6. [MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill) - ⭐ 133
+7. [MapleShaw/yt-dlp-downloader-skill](https://github.com/MapleShaw/yt-dlp-downloader-skill) - ⭐ 133
    - Cursor Agent Skill for downloading videos using yt-dlp
 
 ---
@@ -882,48 +885,45 @@ Platform-specific skills (AWS, Azure, WordPress, etc.).
 
 ### 🔥 Top Projects
 
-1. [remotion-dev/skills](https://github.com/remotion-dev/skills) - ⭐ 1,020
-   - Agent Skills
-
-2. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
+1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
    - AWS Skills for Agents
 
-3. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
+2. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
    - Agent Skills to help developers using AI agents with Supabase
+
+3. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
+   - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 
 ### All Projects
 
-1. [remotion-dev/skills](https://github.com/remotion-dev/skills) - ⭐ 1,020
-   - Agent Skills
-
-2. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
+1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
    - AWS Skills for Agents
 
-3. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
+2. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
    - Agent Skills to help developers using AI agents with Supabase
 
-4. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
+3. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
    - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 
-5. [hyf0/vue-skills](https://github.com/hyf0/vue-skills) - ⭐ 753
+4. [hyf0/vue-skills](https://github.com/hyf0/vue-skills) - ⭐ 753
    - Agent skills for Vue 3 development
 
-6. [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 288
+5. [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 288
    - Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.
 
-7. [scraperai/scraperai](https://github.com/scraperai/scraperai) - ⭐ 243
+6. [scraperai/scraperai](https://github.com/scraperai/scraperai) - ⭐ 243
    - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
 
-8. [vueuse/skills](https://github.com/vueuse/skills) - ⭐ 231
+7. [vueuse/skills](https://github.com/vueuse/skills) - ⭐ 231
    - Agent Skills for VueUse
 
-9. [Automattic/agent-skills](https://github.com/Automattic/agent-skills) - ⭐ 155
+8. [Automattic/agent-skills](https://github.com/Automattic/agent-skills) - ⭐ 155
    - Agent Skills for WordPress - folders of instructions, scripts, and resources
 
-10. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
+9. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
    - Agent Skills for Angular Developers
 
-11. [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - ⭐ 109
+10. [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - ⭐ 109
    - 
 
 ---
