@@ -612,12 +612,6 @@
     "url": "https://github.com/0xranx/OpenContext"
   },
   {
-    "name": "Code-and-Sorts/awesome-copilot-agents",
-    "stars": 350,
-    "desc": "✨ A curated list of awesome GitHub instructions, prompt, skills and agent markdown files for enhancing your GitHub Copilot AI experience.",
-    "url": "https://github.com/Code-and-Sorts/awesome-copilot-agents"
-  },
-  {
     "name": "instavm/open-skills",
     "stars": 340,
     "desc": "OpenSkills: Run Claude Skills Locally using any LLM",
