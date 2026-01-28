@@ -71,9 +71,11 @@ Choose the most appropriate category for your contribution:
 - **📝 内容创作 & 文档** - Content generation skills
 - **🎨 UI/UX & 设计** - Design and frontend skills
 - **🔌 MCP 服务器 & 集成** - API integrations and MCP servers
-- **🌐 多智能体系统** - Multi-agent coordination
 - **🤖 浏览器 & 自动化** - Web automation skills
 - **🔬 科学 & 研究工具** - Scientific computing skills
+- **🔒 安全 & 审计** - Security and audit tools
+- **🌐 多智能体系统** - Multi-agent coordination
+- **🤖 Bot Skills** - Bot framework skills (Moltbot, etc.)
 - **🎯 特定领域工具** - Specialized domain skills
 
 ## Style Guidelines

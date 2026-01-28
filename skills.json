@@ -1,5 +1,17 @@
 [
   {
+    "name": "moltbot/skills",
+    "stars": 0,
+    "desc": "Official Moltbot skills repository - Bot framework capabilities and integrations",
+    "url": "https://github.com/moltbot/skills"
+  },
+  {
+    "name": "VoltAgent/awesome-moltbot-skills",
+    "stars": 2267,
+    "desc": "The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)",
+    "url": "https://github.com/VoltAgent/awesome-moltbot-skills"
+  },
+  {
     "name": "SkillsMP",
     "stars": 0,
     "desc": "Centralized marketplace for discovering and managing AI agent skills with 40,000+ skills across platforms",

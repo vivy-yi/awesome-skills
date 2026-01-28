@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **232** AI-related GitHub repositories with "skills" in name or description (100+ stars)
+> A curated list of **234** AI-related GitHub repositories with "skills" in name or description (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -26,6 +26,7 @@
 - [🔬 科学 & 研究工具](#-科学--研究工具)
 - [🔒 安全 & 审计](#-安全--审计)
 - [🌐 多智能体系统](#-多智能体系统)
+- [🤖 Bot Skills](#-bot-skills)
 - [🎯 特定领域工具](#-特定领域工具)
 - [Complete Dataset](#-complete-dataset)
 
@@ -167,13 +168,10 @@
 5. [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - ⭐ 4,292
    - A curated list of Claude Skills.
 
-6. [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) - ⭐ 2,267
-   - The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
-
-7. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
+6. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
    - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
 
-8. [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - ⭐ 1,630
+7. [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - ⭐ 1,630
    - This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.
 
 9. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
@@ -479,6 +477,18 @@
 
 ---
 
+## 🤖 Bot Skills
+
+### 🔥 Top Projects
+
+1. **[moltbot/skills](https://github.com/moltbot/skills)** - ⭐ N/A
+   - Official Moltbot skills repository - Bot framework capabilities and integrations
+
+2. **[VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)** - ⭐ 2,267
+   - The awesome collection of Moltbot Skills (Clawdbot has officially been renamed to Moltbot)
+
+---
+
 ## 🎯 特定领域工具
 
 ### 🔥 Top Projects
@@ -581,7 +591,7 @@
 
 | File | Description | Records |
 |------|-------------|---------|
-| **skills.json** | Complete dataset with metadata | 232 |
+| **skills.json** | Complete dataset with metadata | 234 |
 
 </div>
 
@@ -613,15 +623,15 @@ This collection is curated from GitHub repositories using the following methodol
 | Metric | Count |
 |--------|-------|
 | **Total Repositories** | 753 |
-| **Filtered AI Skills** | 232 |
-| **Featured in README** | 155 |
+| **Filtered AI Skills** | 234 |
+| **Featured in README** | 157 |
 | **Web Platforms** | 3 |
-| **Categories** | 12 |
+| **Categories** | 13 |
 | **Last Updated** | 2026-01-28 |
 
 #### Data Files
 
-- **`skills.json`**: Complete dataset with metadata for all 232 repositories
+- **`skills.json`**: Complete dataset with metadata for all 234 repositories
   - Format: JSON array with `name`, `stars`, `desc`, `url` fields
   - Use for automation, analysis, and programmatic access
 
