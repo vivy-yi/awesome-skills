@@ -588,41 +588,53 @@
 
 </div>
 
-### Data Source
+### Data Source & Methodology
 
-- **Source**: GitHub Search API
-- **Filter**: Repositories with "skills" in name/description
-- **Minimum Stars**: 100+
-- **Total Found**: 753 repositories
-- **AI Skills**: 233 (after filtering)
-- **Last Updated**: 2026-01-28
+#### Collection Process
+
+This collection is curated from GitHub repositories using the following methodology:
+
+1. **Initial Search**
+   - **Source**: GitHub Search API
+   - **Query**: Repositories with "skills" in name or description
+   - **Total Found**: 753 repositories (100+ stars)
+
+2. **Filtering Criteria**
+   - ✅ **AI Agent Skills**: Capabilities for AI agents (Claude, GPT, etc.)
+   - ✅ **Minimum Stars**: 100+ GitHub stars
+   - ✅ **Active Maintenance**: Updated within the last 6 months
+   - ✅ **Clear Documentation**: Has README with usage instructions
+   - ❌ **Excluded**: Human learning resources (tutorials, courses, coding challenges)
+
+3. **Categorization**
+   - Repositories organized into 12 categories based on primary function
+   - Focus on practical, production-ready skills for AI agents
+   - Emphasis on Claude Code ecosystem and agent frameworks
+
+#### Dataset Statistics
+
+| Metric | Count |
+|--------|-------|
+| **Total Repositories** | 753 |
+| **Filtered AI Skills** | 233 |
+| **Featured in README** | 156 |
+| **Web Platforms** | 3 |
+| **Categories** | 12 |
+| **Last Updated** | 2026-01-28 |
+
+#### Data Files
+
+- **`skills.json`**: Complete dataset with metadata for all 233 repositories
+  - Format: JSON array with `name`, `stars`, `desc`, `url` fields
+  - Use for automation, analysis, and programmatic access
 
 ---
 
 <div align="center">
 
-## 🎯 Quick Stats
+## 🤝 Contributing
 
-> 📊 **Note**: This table shows projects **featured in README**. Complete dataset (233 repos) available in `skills.json`.
-
-| Category | Featured | % of Featured |
-|----------|----------|---------------|
-| 🌐 Skills Web | 3 | 2% |
-| 🤖 Claude Code 生态 | 30 | 19% |
-| 🔧 Agent 框架 & 工具 | 30 | 19% |
-| 🎯 特定领域工具 | 30 | 19% |
-| 📚 Awesome Lists & 资源集合 | 26 | 16% |
-| 🎨 UI/UX & 设计 | 17 | 11% |
-| 🔌 MCP 服务器 & 集成 | 10 | 6% |
-| 📝 内容创作 & 文档 | 3 | 2% |
-| 🤖 浏览器 & 自动化 | 3 | 2% |
-| 🔬 科学 & 研究工具 | 2 | 1% |
-| 🔒 安全 & 审计 | 1 | 0% |
-| 🌐 多智能体系统 | 1 | 0% |
-| **Featured Total** | **156** | **100%** |
-| **Complete Dataset** | **233** | - |
-
----
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
