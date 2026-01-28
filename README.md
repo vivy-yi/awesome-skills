@@ -74,8 +74,8 @@ Foundational infrastructure and major frameworks for building AI agent skills.
 2. [obra/superpowers](https://github.com/obra/superpowers) - ⭐ 38,315
    - An agentic skills framework & software development methodology that works.
 
-3. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17,249
-   - Vercel's official collection of agent skills
+3. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,276
+   - Universal skills loader for AI coding agents - npm i -g openskills
 
 ### All Projects
 
@@ -85,25 +85,22 @@ Foundational infrastructure and major frameworks for building AI agent skills.
 2. [obra/superpowers](https://github.com/obra/superpowers) - ⭐ 38,315
    - An agentic skills framework & software development methodology that works.
 
-3. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17,249
-   - Vercel's official collection of agent skills
-
-4. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,276
+3. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,276
    - Universal skills loader for AI coding agents - npm i -g openskills
 
-5. [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) - ⭐ 6,487
+4. [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) - ⭐ 6,487
    - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
 
-6. [vercel-labs/skills](https://github.com/vercel-labs/skills) - ⭐ 2,864
+5. [vercel-labs/skills](https://github.com/vercel-labs/skills) - ⭐ 2,864
    - The open agent skills tool - npx skills
 
-7. [openai/skills](https://github.com/openai/skills) - ⭐ 2,115
+6. [openai/skills](https://github.com/openai/skills) - ⭐ 2,115
    - Skills Catalog for Codex
 
-8. [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - ⭐ 989
+7. [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - ⭐ 989
    - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 
-9. [instavm/open-skills](https://github.com/instavm/open-skills) - ⭐ 340
+8. [instavm/open-skills](https://github.com/instavm/open-skills) - ⭐ 340
    - OpenSkills: Run Claude Skills Locally using any LLM
 
 ---
@@ -654,43 +651,46 @@ Image processing, presentations (PPT), charts, icons, and visual content tools.
 
 ## 🎨 UI/UX & Design
 
-Design and frontend skills.
+UI/UX design, frontend development, and web interface skills.
 
 ### 🔥 Top Projects
 
 1. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - ⭐ 24,171
    - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-2. [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - ⭐ 975
-   - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
+2. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17,249
+   - Vercel's official collection of agent skills
 
-3. [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - ⭐ 922
-   - A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+3. [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - ⭐ 975
+   - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
 
 ### All Projects
 
 1. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - ⭐ 24,171
    - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-2. [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - ⭐ 975
+2. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17,249
+   - Vercel's official collection of agent skills
+
+3. [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - ⭐ 975
    - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
 
-3. [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - ⭐ 922
+4. [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - ⭐ 922
    - A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 
-4. [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - ⭐ 697
+5. [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - ⭐ 697
    - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
 
-5. [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - ⭐ 678
+6. [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - ⭐ 678
    - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
 
-6. [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - ⭐ 359
+7. [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - ⭐ 359
    - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.
 
-7. [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - ⭐ 207
+8. [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - ⭐ 207
    - Agent skills for redesigned-pancake
 
-8. [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - ⭐ 119
+9. [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - ⭐ 119
    - Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude
 
 ---
