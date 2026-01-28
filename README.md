@@ -149,49 +149,46 @@ Claude Code ecosystem tools and configurations.
 7. [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - ⭐ 7,879
    - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-8. [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - ⭐ 7,300
-   - A set of ready to use scientific skills for Claude
-
-9. [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - ⭐ 6,094
+8. [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - ⭐ 6,094
    - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 
-10. [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - ⭐ 5,124
+9. [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - ⭐ 5,124
    - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-11. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
+10. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
    - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
-12. [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - ⭐ 4,382
+11. [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - ⭐ 4,382
    - The awesome collection of Claude Skills and resources.
 
-13. [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - ⭐ 4,292
+12. [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - ⭐ 4,292
    - A curated list of Claude Skills.
 
-14. [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - ⭐ 3,225
+13. [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - ⭐ 3,225
    - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
 
-15. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - ⭐ 3,152
+14. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - ⭐ 3,152
    - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve.
 
-16. [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - ⭐ 2,322
+15. [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - ⭐ 2,322
    - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code
 
-17. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1,483
+16. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1,483
    - All powerful skills of ClaudeKit.cc!
 
-18. [blader/Claudeception](https://github.com/blader/Claudeception) - ⭐ 1,475
+17. [blader/Claudeception](https://github.com/blader/Claudeception) - ⭐ 1,475
    - A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
 
-19. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 1,426
+18. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 1,426
    - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 
-20. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1,214
+19. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1,214
    - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
 
-21. [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - ⭐ 1,094
+20. [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - ⭐ 1,094
    - Hundreds of Claude Code plugins with embedded AI skills. Learn via interactive Jupyter tutorials.
 
-22. [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - ⭐ 884
+21. [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - ⭐ 884
    - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 
 23. [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) - ⭐ 506
@@ -919,13 +916,16 @@ Scientific computing and research tools.
 
 ### 🔥 Top Projects
 
-1. [zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs) - ⭐ 1,660
+1. [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - ⭐ 7,300
+   - A set of ready to use scientific skills for Claude
+
+2. [zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs) - ⭐ 1,660
    - Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.
 
-2. [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) - ⭐ 147
+3. [GPTomics/bioSkills](https://github.com/GPTomics/bioSkills) - ⭐ 147
    - a set of SKILLS.md for doing bioinformatics with agents like claude code
 
-3. [luwill/research-skills](https://github.com/luwill/research-skills) - ⭐ 122
+4. [luwill/research-skills](https://github.com/luwill/research-skills) - ⭐ 122
    - Some commonly used research experiences and processes are encapsulated into Agent skills.
 
 ---
