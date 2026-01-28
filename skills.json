@@ -200,7 +200,7 @@
   {
     "name": "JimLiu/baoyu-skills",
     "stars": 2962,
-    "desc": "",
+    "desc": "宝鱼技能 - Baoyu Skills. Chinese AI agent skills collection with various capabilities.",
     "url": "https://github.com/JimLiu/baoyu-skills"
   },
   {
@@ -394,12 +394,6 @@
     "stars": 922,
     "desc": "A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
     "url": "https://github.com/louisfb01/start-llms"
-  },
-  {
-    "name": "simonw/claude-skills",
-    "stars": 910,
-    "desc": "The contents of /mnt/skills in Claude's code interpreter environment",
-    "url": "https://github.com/simonw/claude-skills"
   },
   {
     "name": "google-labs-code/stitch-skills",

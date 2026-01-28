@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A curated list of **226** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **225** AI agent skill repositories and frameworks (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -40,7 +40,7 @@
 
 ## 📊 Statistics
 
-- **Total Repositories**: 226
+- **Total Repositories**: 225
 - **Total Categories**: 17
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
@@ -64,7 +64,7 @@ Web platforms and marketplaces for discovering AI agent skills.
 
 ## 🏗️ Core Frameworks
 
-Foundational infrastructure and major frameworks for building AI agent skills.
+Foundational infrastructure, specifications, and major frameworks for building AI agent skills.
 
 ### 🔥 Top Projects
 
@@ -74,8 +74,8 @@ Foundational infrastructure and major frameworks for building AI agent skills.
 2. [obra/superpowers](https://github.com/obra/superpowers) - ⭐ 38,315
    - An agentic skills framework & software development methodology that works.
 
-3. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,276
-   - Universal skills loader for AI coding agents - npm i -g openskills
+3. [agentskills/agentskills](https://github.com/agentskills/agentskills) - ⭐ 7,599
+   - Specification and documentation for Agent Skills
 
 ### All Projects
 
@@ -85,22 +85,25 @@ Foundational infrastructure and major frameworks for building AI agent skills.
 2. [obra/superpowers](https://github.com/obra/superpowers) - ⭐ 38,315
    - An agentic skills framework & software development methodology that works.
 
-3. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,276
+3. [agentskills/agentskills](https://github.com/agentskills/agentskills) - ⭐ 7,599
+   - Specification and documentation for Agent Skills
+
+4. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,276
    - Universal skills loader for AI coding agents - npm i -g openskills
 
-4. [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) - ⭐ 6,487
+5. [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) - ⭐ 6,487
    - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
 
-5. [vercel-labs/skills](https://github.com/vercel-labs/skills) - ⭐ 2,864
+6. [vercel-labs/skills](https://github.com/vercel-labs/skills) - ⭐ 2,864
    - The open agent skills tool - npx skills
 
-6. [openai/skills](https://github.com/openai/skills) - ⭐ 2,115
+7. [openai/skills](https://github.com/openai/skills) - ⭐ 2,115
    - Skills Catalog for Codex
 
-7. [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - ⭐ 989
+8. [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - ⭐ 989
    - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 
-8. [instavm/open-skills](https://github.com/instavm/open-skills) - ⭐ 340
+9. [instavm/open-skills](https://github.com/instavm/open-skills) - ⭐ 340
    - OpenSkills: Run Claude Skills Locally using any LLM
 
 ---
@@ -747,8 +750,8 @@ Content generation, documentation, and writing tools (NotebookLM, Obsidian, etc.
 2. [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) - ⭐ 2,796
    - Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base.
 
-3. [simonw/claude-skills](https://github.com/simonw/claude-skills) - ⭐ 910
-   - The contents of /mnt/skills in Claude's code interpreter environment
+3. [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) - ⭐ 506
+   - Claude Code skill for publishing Markdown articles to X (Twitter) Articles
 
 ### All Projects
 
@@ -758,13 +761,10 @@ Content generation, documentation, and writing tools (NotebookLM, Obsidian, etc.
 2. [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) - ⭐ 2,796
    - Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base.
 
-3. [simonw/claude-skills](https://github.com/simonw/claude-skills) - ⭐ 910
-   - The contents of /mnt/skills in Claude's code interpreter environment
-
-4. [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) - ⭐ 506
+3. [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) - ⭐ 506
    - Claude Code skill for publishing Markdown articles to X (Twitter) Articles
 
-5. [joeseesun/anything-to-notebooklm](https://github.com/joeseesun/anything-to-notebooklm) - ⭐ 269
+4. [joeseesun/anything-to-notebooklm](https://github.com/joeseesun/anything-to-notebooklm) - ⭐ 269
    - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 
 ---
@@ -954,48 +954,45 @@ Specialized domain skills.
 
 ### 🔥 Top Projects
 
-1. [agentskills/agentskills](https://github.com/agentskills/agentskills) - ⭐ 7,599
-   - Specification and documentation for Agent Skills
-
-2. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
+1. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
    - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-3. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
+2. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
    - Give Cursor Agent an AI Team and Advanced Skills
+
+3. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
+   - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 
 ### All Projects
 
-1. [agentskills/agentskills](https://github.com/agentskills/agentskills) - ⭐ 7,599
-   - Specification and documentation for Agent Skills
-
-2. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
+1. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
    - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-3. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
+2. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
    - Give Cursor Agent an AI Team and Advanced Skills
 
-4. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
+3. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
    - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 
-5. [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - ⭐ 2,435
+4. [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) - ⭐ 2,435
    - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
 
-6. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
+5. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
    - n8n skillset for Claude Code to build flawless n8n workflows
 
-7. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
+6. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
    - Homebrew for AI Agent Skills.
 
-8. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
+7. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
    - The ultimate meta-skill for generating best-in-class Claude Code skills.
 
-9. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
+8. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
    - wooyun-legacy skill for claude code 
 
-10. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
+9. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
    - SkillsBench evaluates how well skills work and how effective agents are at using them
 
-11. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
+10. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
    - Claude Skill to do your tasks with subagents in Git worktrees
 
 ---
@@ -1030,6 +1027,7 @@ The complete dataset is available in [`skills.json`](skills.json).
 - Human learning resources (tutorials, courses, workshops)
 - Traditional skill development materials
 - Non-AI agent projects
+- Test projects or sandbox environments
 
 ### Categorization
 
