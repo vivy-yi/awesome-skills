@@ -110,9 +110,6 @@ Foundational infrastructure, specifications, and major frameworks for building A
 8. [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - ⭐ 989
    - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 
-9. [instavm/open-skills](https://github.com/instavm/open-skills) - ⭐ 340
-   - OpenSkills: Run Claude Skills Locally using any LLM
-
 ---
 
 ## 🤖 Claude Code 生态
