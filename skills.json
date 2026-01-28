@@ -294,12 +294,6 @@
     "url": "https://github.com/libukai/awesome-agent-skills"
   },
   {
-    "name": "Tebmer/Awesome-Knowledge-Distillation-of-LLMs",
-    "stars": 1244,
-    "desc": "This repository collects papers for \"A Survey on Knowledge Distillation of Large Language Models\". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.",
-    "url": "https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs"
-  },
-  {
     "name": "mvanhorn/last30days-skill",
     "stars": 1237,
     "desc": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts",

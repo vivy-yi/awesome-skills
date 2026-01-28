@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A curated list of **221** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **220** AI agent skill repositories and frameworks (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -42,7 +42,7 @@
 
 ## 📊 Statistics
 
-- **Total Repositories**: 221
+- **Total Repositories**: 220
 - **Total Categories**: 19
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
@@ -309,9 +309,6 @@ Curated resource collections.
 2. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
    - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
 
-3. [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - ⭐ 1,244
-   - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.
-
 ### All Projects
 
 1. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
@@ -320,19 +317,16 @@ Curated resource collections.
 2. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
    - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
 
-3. [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - ⭐ 1,244
-   - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.
-
-4. [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - ⭐ 767
+3. [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - ⭐ 767
    - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
 
-5. [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) - ⭐ 350
+4. [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) - ⭐ 350
    - ✨ A curated list of awesome GitHub instructions, prompt, skills and agent markdown files for enhancing your GitHub Copilot AI experience.
 
-6. [littleben/awesomeAgentskills](https://github.com/littleben/awesomeAgentskills) - ⭐ 128
+5. [littleben/awesomeAgentskills](https://github.com/littleben/awesomeAgentskills) - ⭐ 128
    - A curated collection of skills for Claude Code and other AI agents | 精选的 Claude Code 和其他 AI 智能体技能集合
 
-7. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
+6. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
    - A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development (Kotlin, Jetpack Compose, etc.).
 
 ---
@@ -816,28 +810,25 @@ GitHub repository management, Git automation, fork operations, and repository co
 3. [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - ⭐ 1,630
    - This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools
 
-4. [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - ⭐ 1,244
-   - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". With GitHub stars, this repository has become an awesome list.
-
-5. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
+4. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
    - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command
 
-6. [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) - ⭐ 350
+5. [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) - ⭐ 350
    - ✨ A curated list of awesome GitHub instructions, prompt, skills and agent markdown files for enhancing GitHub Copilot
 
-7. [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - ⭐ 277
+6. [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - ⭐ 277
    - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
 
-8. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
+7. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
    - Claude Skill to do your tasks with subagents in Git worktrees
 
-9. [YuJunZhiXue/github-skill-forge](https://github.com/YuJunZhiXue/github-skill-forge) - ⭐ 240
+8. [YuJunZhiXue/github-skill-forge](https://github.com/YuJunZhiXue/github-skill-forge) - ⭐ 240
    - 一个"制造技能的技能"。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。
 
-10. [disler/fork-repository-skill](https://github.com/disler/fork-repository-skill) - ⭐ 124
+9. [disler/fork-repository-skill](https://github.com/disler/fork-repository-skill) - ⭐ 124
     - Take your current agent running in your terminal and fork it N times to smoothly branch your engineering workflows
 
-11. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
+10. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
     - A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development
 
 ---
