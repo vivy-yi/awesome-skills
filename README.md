@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A curated list of **222** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **221** AI agent skill repositories and frameworks (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -42,7 +42,7 @@
 
 ## 📊 Statistics
 
-- **Total Repositories**: 222
+- **Total Repositories**: 221
 - **Total Categories**: 19
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
@@ -329,13 +329,10 @@ Curated resource collections.
 5. [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) - ⭐ 350
    - ✨ A curated list of awesome GitHub instructions, prompt, skills and agent markdown files for enhancing your GitHub Copilot AI experience.
 
-6. [avifenesh/awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 275
-   - Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.
-
-7. [littleben/awesomeAgentskills](https://github.com/littleben/awesomeAgentskills) - ⭐ 128
+6. [littleben/awesomeAgentskills](https://github.com/littleben/awesomeAgentskills) - ⭐ 128
    - A curated collection of skills for Claude Code and other AI agents | 精选的 Claude Code 和其他 AI 智能体技能集合
 
-8. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
+7. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
    - A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development (Kotlin, Jetpack Compose, etc.).
 
 ---

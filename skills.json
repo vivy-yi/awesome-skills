@@ -690,12 +690,6 @@
     "url": "https://github.com/runkids/skillshare"
   },
   {
-    "name": "avifenesh/awesome-slash",
-    "stars": 275,
-    "desc": "Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.",
-    "url": "https://github.com/avifenesh/awesome-slash"
-  },
-  {
     "name": "gotalab/skillport",
     "stars": 273,
     "desc": "Bring Agent Skills to Any AI Agent and Coding Agent — via CLI or MCP. Manage once, serve anywhere.",
