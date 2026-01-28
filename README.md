@@ -27,6 +27,7 @@
 - [📝 Content Creation](#-content-creation)
 - [📰 Daily News](#-daily-news)
 - [🔍 Search](#-search)
+- [🤖 Agent Platforms](#-agent-platforms)
 - [💼 Marketing & Operations](#-marketing--operations)
 - [🔄 AI Workflow](#-ai-workflow)
 - [🔧 GitHub & Repository Management](#-github--repository-management)
@@ -46,7 +47,7 @@
 ## 📊 Statistics
 
 - **Total Repositories**: 218
-- **Total Categories**: 22
+- **Total Categories**: 23
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -157,22 +158,19 @@ Claude Code ecosystem tools and configurations.
 9. [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - ⭐ 5,124
    - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 
-10. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
-   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-
-11. [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - ⭐ 4,382
+10. [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - ⭐ 4,382
    - The awesome collection of Claude Skills and resources.
 
-12. [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - ⭐ 4,292
+11. [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - ⭐ 4,292
    - A curated list of Claude Skills.
 
-13. [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - ⭐ 3,225
+12. [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - ⭐ 3,225
    - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
 
-14. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - ⭐ 3,152
+13. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - ⭐ 3,152
    - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve.
 
-15. [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - ⭐ 2,322
+14. [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - ⭐ 2,322
    - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code
 
 16. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1,483
@@ -770,6 +768,43 @@ Search engines, semantic search, information retrieval, and Azure Search tools.
 
 1. [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - ⭐ 623
    - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
+
+---
+
+## 🤖 Agent Platforms
+
+Agent platform integrations for Cursor, Amp, Copilot, and other AI coding environments.
+
+### 🔥 Top Projects
+
+1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
+   - Give Cursor Agent an AI Team and Advanced Skills
+
+2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
+   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents
+
+3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
+   - Collection of Amp AI coding agent skills for marketing, content, and development workflows
+
+4. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
+   - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command
+
+### All Projects
+
+1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
+   - Give Cursor Agent an AI Team and Advanced Skills
+
+2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
+   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents
+
+3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
+   - Collection of Amp AI coding agent skills for marketing, content, and development workflows
+
+4. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
+   - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command
+
+5. [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) - ⭐ 164
+   - AI Agent Orchestrator with Skills System - Give Claude Code agents superpowers: memory search, code graph queries, agent-to-agent messaging
 
 ---
 
