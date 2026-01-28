@@ -55,7 +55,8 @@ Skills should meet the following criteria:
 
 ### ❌ What We Exclude
 
-- **Human Learning Resources**: Tutorials, courses, coding challenges
+- **Human Learning Resources**: Tutorials, courses, coding challenges, workshops
+  - Examples: ML courses, DevOps roadmaps, educational workshops
 - **Abandoned Projects**: No updates in 6+ months
 - **Poor Documentation**: No clear usage instructions
 - **Non-AI Skills**: Skills meant for human learning only
@@ -65,18 +66,20 @@ Skills should meet the following criteria:
 Choose the most appropriate category for your contribution:
 
 - **🌐 Skills Web** - Web platforms and marketplaces for AI agent skills
+- **🏗️ Core Frameworks** - Foundational infrastructure and major frameworks
 - **🤖 Claude Code 生态** - Claude Code ecosystem tools and configurations
-- **📚 Awesome Lists & 资源集合** - Curated resource collections
-- **🔧 Agent Skills & Tools** - Development utilities and tools
-- **📝 内容创作 & 文档** - Content generation skills
-- **🎨 UI/UX & 设计** - Design and frontend skills
-- **🔌 MCP 服务器 & 集成** - API integrations and MCP servers
-- **🤖 浏览器 & 自动化** - Web automation skills
-- **🔬 科学 & 研究工具** - Scientific computing skills
-- **🔒 安全 & 审计** - Security and audit tools
-- **🌐 多智能体系统** - Multi-agent coordination
-- **🤖 Bot Skills** - Bot framework skills (Moltbot, etc.)
-- **🎯 特定领域工具** - Specialized domain skills
+- **📚 Awesome Lists** - Curated resource collections
+- **🔧 Development Tools** - Development utilities and tools
+- **🎨 UI/UX & Design** - Design and frontend skills
+- **🔌 MCP & Integrations** - MCP servers and API integrations
+- **📝 Content Creation** - Content generation and documentation skills
+- **🤖 Browser & Automation** - Web automation and browsing tools
+- **🔬 Scientific Tools** - Scientific computing and research tools
+- **🔒 Security & Audit** - Security analysis and audit tools
+- **🌐 Multi-Agent Systems** - Multi-agent coordination systems
+- **🤖 Bot Frameworks** - Bot framework skills
+- **📦 Platform-Specific** - Platform-specific skills (AWS, Azure, WordPress, etc.)
+- **🎯 Domain-Specific** - Specialized domain skills
 
 ## Style Guidelines
 
