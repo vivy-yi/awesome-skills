@@ -110,6 +110,9 @@ Foundational infrastructure, specifications, and major frameworks for building A
 8. [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - ⭐ 989
    - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 
+9. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
+   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+
 ---
 
 ## 🤖 Claude Code 生态
