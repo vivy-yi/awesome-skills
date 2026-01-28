@@ -26,6 +26,7 @@
 - [🔌 MCP & Integrations](#-mcp--integrations)
 - [📝 Content Creation](#-content-creation)
 - [💼 Marketing & Operations](#-marketing--operations)
+- [🔧 GitHub & Repository Management](#-github--repository-management)
 - [🎬 Video & Audio](#-video--audio)
 - [🤖 Browser & Automation](#-browser--automation)
 - [🔬 Scientific Tools](#-scientific-tools)
@@ -42,7 +43,7 @@
 ## 📊 Statistics
 
 - **Total Repositories**: 222
-- **Total Categories**: 18
+- **Total Categories**: 19
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -789,6 +790,58 @@ Marketing, operations, CRO, SEO, copywriting, analytics, and growth engineering 
 
 5. [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - ⭐ 319
    - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
+
+---
+
+## 🔧 GitHub & Repository Management
+
+GitHub repository management, Git automation, fork operations, and repository conversion tools.
+
+### 🔥 Top Projects
+
+1. [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - ⭐ 8,243
+   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic categorization
+
+2. [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - ⭐ 5,124
+   - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub workflows
+
+3. [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - ⭐ 1,630
+   - This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools
+
+### All Projects
+
+1. [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - ⭐ 8,243
+   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic categorization
+
+2. [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - ⭐ 5,124
+   - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub workflows
+
+3. [GuDaStudio/skills](https://github.com/GuDaStudio/skills) - ⭐ 1,630
+   - This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools
+
+4. [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - ⭐ 1,244
+   - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". With GitHub stars, this repository has become an awesome list.
+
+5. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
+   - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command
+
+6. [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) - ⭐ 350
+   - ✨ A curated list of awesome GitHub instructions, prompt, skills and agent markdown files for enhancing GitHub Copilot
+
+7. [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - ⭐ 277
+   - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
+
+8. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
+   - Claude Skill to do your tasks with subagents in Git worktrees
+
+9. [YuJunZhiXue/github-skill-forge](https://github.com/YuJunZhiXue/github-skill-forge) - ⭐ 240
+   - 一个"制造技能的技能"。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。
+
+10. [disler/fork-repository-skill](https://github.com/disler/fork-repository-skill) - ⭐ 124
+    - Take your current agent running in your terminal and fork it N times to smoothly branch your engineering workflows
+
+11. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
+    - A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development
 
 ---
 
