@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A curated list of **225** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **222** AI agent skill repositories and frameworks (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -40,7 +40,7 @@
 
 ## 📊 Statistics
 
-- **Total Repositories**: 225
+- **Total Repositories**: 222
 - **Total Categories**: 17
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
@@ -598,15 +598,6 @@ Utilities and tools for building agent skills.
 81. [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - ⭐ 103
    - Claude Agent Skills for AWS
 
-82. [SkillsMP](https://skillsmp.com/) - ⭐ 0
-   - Centralized marketplace for discovering and managing AI agent skills with 40,000+ skills across platforms
-
-83. [AgentSkills.in](https://www.agentskills.in/) - ⭐ 0
-   - The premier website for AI agent skills and resources. Central hub for discovering, managing, and deploying agent skills across platforms
-
-84. [AgentSkills.io](https://agentskills.io/) - ⭐ 0
-   - Open specification and standard for Agent Skills. Progressive disclosure pattern for efficient AI agent context management
-
 ---
 
 ## 🖼️ Visual & Image
@@ -619,7 +610,7 @@ Image processing, presentations (PPT), charts, icons, and visual content tools.
    - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 
 2. [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - ⭐ 2,962
-   - 
+   - 宝鱼技能 - Baoyu Skills. Chinese AI agent skills collection with various capabilities.
 
 3. [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - ⭐ 1,039
    - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
@@ -630,7 +621,7 @@ Image processing, presentations (PPT), charts, icons, and visual content tools.
    - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 
 2. [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - ⭐ 2,962
-   - 
+   - 宝鱼技能 - Baoyu Skills. Chinese AI agent skills collection with various capabilities.
 
 3. [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - ⭐ 1,039
    - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
@@ -1028,6 +1019,7 @@ The complete dataset is available in [`skills.json`](skills.json).
 - Traditional skill development materials
 - Non-AI agent projects
 - Test projects or sandbox environments
+- Web platforms (listed separately in Skills Web section)
 
 ### Categorization
 

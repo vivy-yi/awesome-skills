@@ -12,24 +12,6 @@
     "url": "https://github.com/VoltAgent/awesome-moltbot-skills"
   },
   {
-    "name": "SkillsMP",
-    "stars": 0,
-    "desc": "Centralized marketplace for discovering and managing AI agent skills with 40,000+ skills across platforms",
-    "url": "https://skillsmp.com/"
-  },
-  {
-    "name": "AgentSkills.in",
-    "stars": 0,
-    "desc": "The premier website for AI agent skills and resources. Central hub for discovering, managing, and deploying agent skills across platforms",
-    "url": "https://www.agentskills.in/"
-  },
-  {
-    "name": "AgentSkills.io",
-    "stars": 0,
-    "desc": "Open specification and standard for Agent Skills. Progressive disclosure pattern for efficient AI agent context management",
-    "url": "https://agentskills.io/"
-  },
-  {
     "name": "anthropics/skills",
     "stars": 56124,
     "desc": "Public repository for Agent Skills",
