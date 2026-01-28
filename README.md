@@ -26,6 +26,7 @@
 - [🔌 MCP & Integrations](#-mcp--integrations)
 - [📝 Content Creation](#-content-creation)
 - [📰 Daily News](#-daily-news)
+- [🔍 Search](#-search)
 - [💼 Marketing & Operations](#-marketing--operations)
 - [🔄 AI Workflow](#-ai-workflow)
 - [🔧 GitHub & Repository Management](#-github--repository-management)
@@ -45,7 +46,7 @@
 ## 📊 Statistics
 
 - **Total Repositories**: 218
-- **Total Categories**: 21
+- **Total Categories**: 22
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -386,10 +387,7 @@ Utilities and tools for building agent skills.
 14. [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - ⭐ 735
    - A collection of agent-optimized React Native skills for AI coding assistants.
 
-15. [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - ⭐ 623
-   - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
-
-16. [iannuttall/dotagents](https://github.com/iannuttall/dotagents) - ⭐ 558
+15. [iannuttall/dotagents](https://github.com/iannuttall/dotagents) - ⭐ 558
    - One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.
 
 17. [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex) - ⭐ 507
@@ -759,6 +757,22 @@ Daily news aggregation, AI information curation, and automated reporting tools.
 
 ---
 
+## 🔍 Search
+
+Search engines, semantic search, information retrieval, and Azure Search tools.
+
+### 🔥 Top Projects
+
+1. [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - ⭐ 623
+   - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
+
+### All Projects
+
+1. [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - ⭐ 623
+   - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
+
+---
+
 ## 💼 Marketing & Operations
 
 Marketing, operations, CRO, SEO, copywriting, analytics, and growth engineering tools.
@@ -768,10 +782,7 @@ Marketing, operations, CRO, SEO, copywriting, analytics, and growth engineering 
 1. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
    - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-2. [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - ⭐ 623
-   - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
-
-3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
+2. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
    - Collection of Amp AI coding agent skills for marketing, content, and development workflows
 
 ### All Projects
@@ -779,16 +790,13 @@ Marketing, operations, CRO, SEO, copywriting, analytics, and growth engineering 
 1. [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - ⭐ 5,021
    - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-2. [microsoft/cookiecutter-spacy-fastapi](https://github.com/microsoft/cookiecutter-spacy-fastapi) - ⭐ 623
-   - Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker
-
-3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
+2. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
    - Collection of Amp AI coding agent skills for marketing, content, and development workflows
 
-4. [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - ⭐ 359
+3. [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - ⭐ 359
    - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.
 
-5. [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - ⭐ 319
+4. [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - ⭐ 319
    - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
 
 ---
