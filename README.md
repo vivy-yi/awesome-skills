@@ -28,6 +28,7 @@
 - [📰 Daily News](#-daily-news)
 - [🔍 Search](#-search)
 - [🤖 Agent Platforms](#-agent-platforms)
+- [☁️ Cloud Platforms](#-cloud-platforms)
 - [💼 Marketing & Operations](#-marketing--operations)
 - [🔄 AI Workflow](#-ai-workflow)
 - [🔧 GitHub & Repository Management](#-github--repository-management)
@@ -47,7 +48,7 @@
 ## 📊 Statistics
 
 - **Total Repositories**: 218
-- **Total Categories**: 23
+- **Total Categories**: 24
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -805,6 +806,40 @@ Agent platform integrations for Cursor, Amp, Copilot, and other AI coding enviro
 
 5. [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) - ⭐ 164
    - AI Agent Orchestrator with Skills System - Give Claude Code agents superpowers: memory search, code graph queries, agent-to-agent messaging
+
+---
+
+## ☁️ Cloud Platforms
+
+Cloud platform integrations for AWS, Azure, GCP, and other cloud services.
+
+### 🔥 Top Projects
+
+1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
+   - AWS Skills for Agents
+
+2. [microsoft/AISkillsForWindows](https://github.com/microsoft/AISkillsForWindows) - ⭐ 170
+   - Contains samples for implementing Windows Skills by extending the preview base API
+
+3. [microsoft/AzureSuperpowers](https://github.com/microsoft/AzureSuperpowers) - ⭐ 136
+   - The Azure Superpowers workshop focusses on the prerequisite skills and technologies needed to succeed with Azure DevOps
+
+### All Projects
+
+1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
+   - AWS Skills for Agents
+
+2. [microsoft/AISkillsForWindows](https://github.com/microsoft/AISkillsForWindows) - ⭐ 170
+   - Contains samples for implementing Windows Skills by extending the preview base API
+
+3. [microsoft/AzureSuperpowers](https://github.com/microsoft/AzureSuperpowers) - ⭐ 136
+   - The Azure Superpowers workshop focusses on the prerequisite skills and technologies needed to succeed with Azure DevOps
+
+4. [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - ⭐ 103
+   - Claude Agent Skills for AWS
+
+5. [paulotruta/alexa-skill-llm-intent](https://github.com/paulotruta/alexa-skill-llm-intent) - ⭐ 152
+   - Alexa Skill that provides turn based conversations with an AI LLM. Bringing AI to your Alexa
 
 ---
 
