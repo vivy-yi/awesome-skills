@@ -25,6 +25,7 @@
 - [🎨 UI/UX & Design](#-uiux--design)
 - [🔌 MCP & Integrations](#-mcp--integrations)
 - [📝 Content Creation](#-content-creation)
+- [📰 Daily News](#-daily-news)
 - [💼 Marketing & Operations](#-marketing--operations)
 - [🔄 AI Workflow](#-ai-workflow)
 - [🔧 GitHub & Repository Management](#-github--repository-management)
@@ -44,7 +45,7 @@
 ## 📊 Statistics
 
 - **Total Repositories**: 218
-- **Total Categories**: 20
+- **Total Categories**: 21
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -520,28 +521,25 @@ Utilities and tools for building agent skills.
 59. [drewocarr/generate-shortcuts-skill](https://github.com/drewocarr/generate-shortcuts-skill) - ⭐ 139
    - a little skill that explains the shortcuts plist format to claude
 
-60. [geekjourneyx/ai-daily-skill](https://github.com/geekjourneyx/ai-daily-skill) - ⭐ 138
-   - AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯
-
-61. [microsoft/AzureSuperpowers](https://github.com/microsoft/AzureSuperpowers) - ⭐ 136
+60. [microsoft/AzureSuperpowers](https://github.com/microsoft/AzureSuperpowers) - ⭐ 136
    - The Azure Superpowers workshop focusses on the prerequisite skills and technologies needed to succeed with Azure DevOps as the preferred method for deploying applications into Azure.
 
-62. [julianromli/ai-skills](https://github.com/julianromli/ai-skills) - ⭐ 134
+61. [julianromli/ai-skills](https://github.com/julianromli/ai-skills) - ⭐ 134
    - Claude Code, Droid, etc. Skills Ability
 
-63. [coleam00/second-brain-skills](https://github.com/coleam00/second-brain-skills) - ⭐ 133
+62. [coleam00/second-brain-skills](https://github.com/coleam00/second-brain-skills) - ⭐ 133
    - A collection of Claude Skills to turn Claude Code into a Second Brain
 
-64. [Agent-3-7/agent37-skills-collection](https://github.com/Agent-3-7/agent37-skills-collection) - ⭐ 130
+63. [Agent-3-7/agent37-skills-collection](https://github.com/Agent-3-7/agent37-skills-collection) - ⭐ 130
    - Collection of useful Claude AI skills and commands
 
-65. [MassLab-SII/open-agent-skills](https://github.com/MassLab-SII/open-agent-skills) - ⭐ 129
+64. [MassLab-SII/open-agent-skills](https://github.com/MassLab-SII/open-agent-skills) - ⭐ 129
    - We are dedicated to building a set of open agent skills that deliver superior performance, higher determinism, and greater consistency on targeted tasks, while operating at a lower cost and with reduced context usage.
 
-66. [timedomain-tech/open-creator](https://github.com/timedomain-tech/open-creator) - ⭐ 128
+65. [timedomain-tech/open-creator](https://github.com/timedomain-tech/open-creator) - ⭐ 128
    - An open-source LLM tool for extracting repeatable tasks from your conversations, and saving them into a customized skill library for retrieval.
 
-67. [Th0rgal/openagent](https://github.com/Th0rgal/openagent) - ⭐ 125
+66. [Th0rgal/openagent](https://github.com/Th0rgal/openagent) - ⭐ 125
    - Self-hosted orchestrator for AI autonomous agents. Run Claude Code & Open Code in isolated linux workspaces. Manage your skills, configs and encrypted secrets with a git repo.
 
 68. [disler/fork-repository-skill](https://github.com/disler/fork-repository-skill) - ⭐ 124
@@ -742,6 +740,22 @@ Content generation, documentation, and writing tools (NotebookLM, Obsidian, etc.
 
 4. [joeseesun/anything-to-notebooklm](https://github.com/joeseesun/anything-to-notebooklm) - ⭐ 269
    - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
+
+---
+
+## 📰 Daily News
+
+Daily news aggregation, AI information curation, and automated reporting tools.
+
+### 🔥 Top Projects
+
+1. [geekjourneyx/ai-daily-skill](https://github.com/geekjourneyx/ai-daily-skill) - ⭐ 138
+   - AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯
+
+### All Projects
+
+1. [geekjourneyx/ai-daily-skill](https://github.com/geekjourneyx/ai-daily-skill) - ⭐ 138
+   - AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯
 
 ---
 
