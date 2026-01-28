@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A curated list of **227** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **226** AI agent skill repositories and frameworks (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -39,7 +39,7 @@
 
 ## 📊 Statistics
 
-- **Total Repositories**: 227
+- **Total Repositories**: 226
 - **Total Categories**: 16
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
@@ -306,45 +306,39 @@ Curated resource collections.
 
 ### 🔥 Top Projects
 
-1. [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) - ⭐ 2,267
-   - The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
-
-2. [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) - ⭐ 2,267
-   - The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
-
-3. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
+1. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
    - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+
+2. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
+   - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
+
+3. [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - ⭐ 1,244
+   - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.
 
 ### All Projects
 
-1. [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) - ⭐ 2,267
-   - The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
-
-2. [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) - ⭐ 2,267
-   - The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
-
-3. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
+1. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
    - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
 
-4. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
+2. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
    - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
 
-5. [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - ⭐ 1,244
+3. [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) - ⭐ 1,244
    - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.
 
-6. [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - ⭐ 767
+4. [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - ⭐ 767
    - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
 
-7. [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) - ⭐ 350
+5. [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) - ⭐ 350
    - ✨ A curated list of awesome GitHub instructions, prompt, skills and agent markdown files for enhancing your GitHub Copilot AI experience.
 
-8. [avifenesh/awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 275
+6. [avifenesh/awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 275
    - Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.
 
-9. [littleben/awesomeAgentskills](https://github.com/littleben/awesomeAgentskills) - ⭐ 128
+7. [littleben/awesomeAgentskills](https://github.com/littleben/awesomeAgentskills) - ⭐ 128
    - A curated collection of skills for Claude Code and other AI agents | 精选的 Claude Code 和其他 AI 智能体技能集合
 
-10. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
+8. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
    - A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development (Kotlin, Jetpack Compose, etc.).
 
 ---
@@ -867,14 +861,17 @@ Multi-agent coordination systems.
 
 ## 🤖 Bot Frameworks
 
-Bot framework skills.
+Bot framework skills (Moltbot, Clawdbot, etc.).
 
 ### 🔥 Top Projects
 
-1. [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - ⭐ 118
+1. [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills) - ⭐ 2,267
+   - The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
+
+2. [jdrhyne/agent-skills](https://github.com/jdrhyne/agent-skills) - ⭐ 118
    - A collection of AI agent skills for Clawdbot, Claude Code, Codex
 
-2. [moltbot/skills](https://github.com/moltbot/skills) - ⭐ 0
+3. [moltbot/skills](https://github.com/moltbot/skills) - ⭐ 0
    - Official Moltbot skills repository - Bot framework capabilities and integrations
 
 ---

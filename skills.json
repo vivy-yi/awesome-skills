@@ -234,12 +234,6 @@
     "url": "https://github.com/davepoon/buildwithclaude"
   },
   {
-    "name": "VoltAgent/awesome-moltbot-skills",
-    "stars": 2267,
-    "desc": "The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)",
-    "url": "https://github.com/VoltAgent/awesome-moltbot-skills"
-  },
-  {
     "name": "czlonkowski/n8n-skills",
     "stars": 2236,
     "desc": "n8n skillset for Claude Code to build flawless n8n workflows",
