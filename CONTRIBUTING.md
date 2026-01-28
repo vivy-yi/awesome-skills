@@ -67,7 +67,7 @@ Choose the most appropriate category for your contribution:
 - **🌐 Skills Web** - Web platforms and marketplaces for AI agent skills
 - **🤖 Claude Code 生态** - Claude Code ecosystem tools and configurations
 - **📚 Awesome Lists & 资源集合** - Curated resource collections
-- **🔧 Agent 框架 & 工具** - Development utilities and tools
+- **🔧 Agent Skills & Tools** - Development utilities and tools
 - **📝 内容创作 & 文档** - Content generation skills
 - **🎨 UI/UX & 设计** - Design and frontend skills
 - **🔌 MCP 服务器 & 集成** - API integrations and MCP servers

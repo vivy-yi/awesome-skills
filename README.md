@@ -18,7 +18,7 @@
 - [🌐 Skills Web](#-skills-web)
 - [🤖 Claude Code 生态](#-claude-code-生态)
 - [📚 Awesome Lists & 资源集合](#-awesome-lists--资源集合)
-- [🔧 Agent 框架 & 工具](#-agent-框架--工具)
+- [🔧 Agent Skills & Tools](#-agent-skills--tools)
 - [🎨 UI/UX & 设计](#-uiux--设计)
 - [🔌 MCP 服务器 & 集成](#-mcp-服务器--集成)
 - [📝 内容创作 & 文档](#-内容创作--文档)
@@ -229,7 +229,7 @@
 
 ---
 
-## 🔧 Agent 框架 & 工具
+## 🔧 Agent Skills & Tools
 
 ### 🔥 Top Projects
 
