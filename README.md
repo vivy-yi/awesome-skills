@@ -26,6 +26,7 @@
 - [🔌 MCP & Integrations](#-mcp--integrations)
 - [📝 Content Creation](#-content-creation)
 - [💼 Marketing & Operations](#-marketing--operations)
+- [🔄 AI Workflow](#-ai-workflow)
 - [🔧 GitHub & Repository Management](#-github--repository-management)
 - [🎬 Video & Audio](#-video--audio)
 - [🤖 Browser & Automation](#-browser--automation)
@@ -43,7 +44,7 @@
 ## 📊 Statistics
 
 - **Total Repositories**: 218
-- **Total Categories**: 19
+- **Total Categories**: 20
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -781,6 +782,34 @@ Marketing, operations, CRO, SEO, copywriting, analytics, and growth engineering 
 
 ---
 
+## 🔄 AI Workflow
+
+AI workflow automation, orchestration, n8n integration, and pipeline management tools.
+
+### 🔥 Top Projects
+
+1. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
+   - n8n skillset for Claude Code to build flawless n8n workflows
+
+2. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1,214
+   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
+
+3. [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) - ⭐ 164
+   - Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite
+
+### All Projects
+
+1. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
+   - n8n skillset for Claude Code to build flawless n8n workflows
+
+2. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1,214
+   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
+
+3. [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) - ⭐ 164
+   - Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite
+
+---
+
 ## 🔧 GitHub & Repository Management
 
 GitHub repository management, Git automation, fork operations, and repository conversion tools.
@@ -1029,22 +1058,19 @@ Specialized domain skills.
 2. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
    - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 
-3. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
-   - n8n skillset for Claude Code to build flawless n8n workflows
-
-4. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
+3. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
    - Homebrew for AI Agent Skills.
 
-5. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
+4. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
    - The ultimate meta-skill for generating best-in-class Claude Code skills.
 
-6. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
+5. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
    - wooyun-legacy skill for claude code
 
-7. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
+6. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
    - SkillsBench evaluates how well skills work and how effective agents are at using them
 
-8. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
+7. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
    - Claude Skill to do your tasks with subagents in Git worktrees
 
 ---
