@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **233** AI-related GitHub repositories with "skills" in name or description (100+ stars)
+> A curated list of **232** AI-related GitHub repositories with "skills" in name or description (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -337,10 +337,7 @@
 1. **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** - ⭐ 24,171
    - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-2. **[Genesis-Embodied-AI/RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen)** - ⭐ 1,136
-   - A generative and self-guided robotic agent that endlessly propose and master new skills.
-
-3. **[louisfb01/start-llms](https://github.com/louisfb01/start-llms)** - ⭐ 922
+2. **[louisfb01/start-llms](https://github.com/louisfb01/start-llms)** - ⭐ 922
    - A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 
 ### All Projects
@@ -584,7 +581,7 @@
 
 | File | Description | Records |
 |------|-------------|---------|
-| **skills.json** | Complete dataset with metadata | 233 |
+| **skills.json** | Complete dataset with metadata | 232 |
 
 </div>
 
@@ -616,15 +613,15 @@ This collection is curated from GitHub repositories using the following methodol
 | Metric | Count |
 |--------|-------|
 | **Total Repositories** | 753 |
-| **Filtered AI Skills** | 233 |
-| **Featured in README** | 156 |
+| **Filtered AI Skills** | 232 |
+| **Featured in README** | 155 |
 | **Web Platforms** | 3 |
 | **Categories** | 12 |
 | **Last Updated** | 2026-01-28 |
 
 #### Data Files
 
-- **`skills.json`**: Complete dataset with metadata for all 233 repositories
+- **`skills.json`**: Complete dataset with metadata for all 232 repositories
   - Format: JSON array with `name`, `stars`, `desc`, `url` fields
   - Use for automation, analysis, and programmatic access
 

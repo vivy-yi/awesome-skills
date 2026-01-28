@@ -336,12 +336,6 @@
     "url": "https://github.com/CloudAI-X/claude-workflow-v2"
   },
   {
-    "name": "Genesis-Embodied-AI/RoboGen",
-    "stars": 1136,
-    "desc": "A generative and self-guided robotic agent that endlessly propose and master new skills.",
-    "url": "https://github.com/Genesis-Embodied-AI/RoboGen"
-  },
-  {
     "name": "jeremylongshore/claude-code-plugins-plus-skills",
     "stars": 1094,
     "desc": "Hundreds of Claude Code plugins with embedded AI skills. Learn via interactive Jupyter tutorials.",
