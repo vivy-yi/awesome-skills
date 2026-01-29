@@ -56,7 +56,15 @@
 - [🌐 Multi-Agent Systems](#-multi-agent-systems)
 - [🤖 Bot Frameworks](#-bot-frameworks)
 - [📦 Platform-Specific](#-platform-specific)
+  - [☁️ Cloud Platforms](#-cloud-platforms)
+  - [🗄️ Backend & Database](#-backend--database)
+  - [🎨 Frontend Frameworks](#-frontend-frameworks)
+  - [☕ Java & JVM](#-java--jvm)
+  - [🌐 Specialized Platforms](#-specialized-platforms)
 - [🎯 Domain-Specific](#-domain-specific)
+  - [🚀 Development Tools](#-development-tools-1)
+  - [🔒 Security](#-security)
+  - [📊 Testing & Benchmarking](#-testing--benchmarking)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -1145,69 +1153,72 @@ Bot framework skills (Moltbot, Clawdbot, etc.).
 
 Platform-specific skills (AWS, Azure, WordPress, etc.).
 
-### 🔥 Top Projects
+### ☁️ Cloud Platforms
+
+Cloud platform integrations and infrastructure tools.
 
 1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
    - AWS Skills for Agents
 
-2. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
-   - Agent Skills to help developers using AI agents with Supabase
-
-3. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
-   - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
-
-### All Projects
-
-1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
-   - AWS Skills for Agents
-
-2. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
-   - Agent Skills to help developers using AI agents with Supabase
-
-3. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
-   - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
-
-4. [hyf0/vue-skills](https://github.com/hyf0/vue-skills) - ⭐ 753
-   - Agent skills for Vue 3 development
-
-5. [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 288
-   - Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.
-
-6. [scraperai/scraperai](https://github.com/scraperai/scraperai) - ⭐ 243
-   - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
-
-7. [vueuse/skills](https://github.com/vueuse/skills) - ⭐ 231
-   - Agent Skills for VueUse
-
-8. [Automattic/agent-skills](https://github.com/Automattic/agent-skills) - ⭐ 155
-   - Agent Skills for WordPress - folders of instructions, scripts, and resources
-
-9. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
-   - Agent Skills for Angular Developers
-
-10. [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - ⭐ 109
-   - 
-
+2. [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - ⭐ 109
 ---
 
+### 🗄️ Backend & Database
+
+Backend services, databases, and infrastructure tools.
+
+1. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
+   - Agent Skills to help developers using AI agents with Supabase
+
+2. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
+   - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+---
+
+### 🎨 Frontend Frameworks
+
+Frontend framework specific skills.
+
+1. [hyf0/vue-skills](https://github.com/hyf0/vue-skills) - ⭐ 753
+   - Agent skills for Vue 3 development
+
+2. [vueuse/skills](https://github.com/vueuse/skills) - ⭐ 231
+   - Agent Skills for VueUse
+
+3. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
+   - Agent Skills for Angular Developers
+---
+
+### ☕ Java & JVM
+
+Java and JVM framework integrations.
+
+1. [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 288
+   - Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.
+---
+
+### 🌐 Specialized Platforms
+
+Specialized platform and tool integrations.
+
+1. [scraperai/scraperai](https://github.com/scraperai/scraperai) - ⭐ 243
+   - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
+
+2. [Automattic/agent-skills](https://github.com/Automattic/agent-skills) - ⭐ 155
+   - Agent Skills for WordPress - folders of instructions, scripts, and resources
+
+---
 ## 🎯 Domain-Specific
 
 Specialized domain skills.
 
-### 🔥 Top Projects
+### 🚀 Development Tools
 
-1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
+Developer tools and productivity enhancements.
+
+1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4684
    - Give Cursor Agent an AI Team and Advanced Skills
 
-2. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
-   - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
-
-### All Projects
-
-1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
-   - Give Cursor Agent an AI Team and Advanced Skills
-
-2. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2,643
+2. [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - ⭐ 2643
    - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
 
 3. [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - ⭐ 629
@@ -1216,17 +1227,26 @@ Specialized domain skills.
 4. [tripleyak/SkillForge](https://github.com/tripleyak/SkillForge) - ⭐ 488
    - The ultimate meta-skill for generating best-in-class Claude Code skills.
 
-5. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
-   - wooyun-legacy skill for claude code
-
-6. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
-   - SkillsBench evaluates how well skills work and how effective agents are at using them
-
-7. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
+5. [zippoxer/subtask](https://github.com/zippoxer/subtask) - ⭐ 270
    - Claude Skill to do your tasks with subagents in Git worktrees
-
 ---
 
+### 🔒 Security
+
+Security testing and analysis tools.
+
+1. [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - ⭐ 471
+   - wooyun-legacy skill for claude code 
+---
+
+### 📊 Testing & Benchmarking
+
+Skills evaluation and benchmarking tools.
+
+1. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
+   - SkillsBench evaluates how well skills work and how effective agents are at using them
+
+---
 ## Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
