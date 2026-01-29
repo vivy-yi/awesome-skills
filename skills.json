@@ -368,7 +368,7 @@
   {
     "name": "google-labs-code/stitch-skills",
     "stars": 907,
-    "desc": "",
+    "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
     "url": "https://github.com/google-labs-code/stitch-skills"
   },
   {

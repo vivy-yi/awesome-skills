@@ -366,7 +366,7 @@ Utilities and tools for building agent skills.
    - 这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制
 
 8. [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - ⭐ 907
-   - 
+   - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. 
 
 9. [SynaLinks/synalinks-skills](https://github.com/SynaLinks/synalinks-skills) - ⭐ 894
    - Claude skills for Synalinks
