@@ -119,183 +119,203 @@ Foundational infrastructure, specifications, and major frameworks for building A
 
 Claude Code ecosystem tools and configurations.
 
-### 🔥 Top Projects
+### 📚 Awesome Lists
 
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - ⭐ 32,880
+Curated collections and resource lists.
+
+1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - ⭐ 32880
    - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 
-2. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - ⭐ 27,053
+2. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - ⭐ 27053
    - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-3. [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - ⭐ 22,083
+3. [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - ⭐ 22083
    - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
-### All Projects
-
-1. [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - ⭐ 32,880
-   - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-
-2. [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - ⭐ 27,053
-   - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-
-3. [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - ⭐ 22,083
-   - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
-
-4. [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - ⭐ 11,616
-   - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-
-5. [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - ⭐ 8,654
-   - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
-
-6. [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - ⭐ 8,243
-   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-
-7. [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - ⭐ 7,879
-   - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-
-8. [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - ⭐ 6,094
+4. [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - ⭐ 6094
    - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 
-9. [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - ⭐ 5,124
-   - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
-
-10. [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - ⭐ 4,382
+5. [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - ⭐ 4382
    - The awesome collection of Claude Skills and resources.
 
-11. [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - ⭐ 4,292
+6. [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - ⭐ 4292
    - A curated list of Claude Skills.
 
-12. [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - ⭐ 3,225
-   - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
-
-13. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - ⭐ 3,152
-   - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve.
-
-14. [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - ⭐ 2,322
-   - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code
-
-16. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1,483
-   - All powerful skills of ClaudeKit.cc!
-
-17. [blader/Claudeception](https://github.com/blader/Claudeception) - ⭐ 1,475
-   - A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
-
-18. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 1,426
-   - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
-
-19. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1,214
-   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
-
-20. [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - ⭐ 1,094
-   - Hundreds of Claude Code plugins with embedded AI skills. Learn via interactive Jupyter tutorials.
-
-21. [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - ⭐ 884
-   - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
-
-23. [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) - ⭐ 506
-   - Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
-
-24. [obra/superpowers-skills](https://github.com/obra/superpowers-skills) - ⭐ 491
-   - Community-editable skills for Claude Code's superpowers plugin
-
-25. [alirezarezvani/claude-code-tresor](https://github.com/alirezarezvani/claude-code-tresor) - ⭐ 459
-   - A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow
-
-26. [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - ⭐ 406
-   - A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.
-
-27. [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) - ⭐ 394
-   - Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.
-
-28. [Kamalnrf/claude-plugins](https://github.com/Kamalnrf/claude-plugins) - ⭐ 392
-   - Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent.
-
-29. [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - ⭐ 383
-   - My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.
-
-30. [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) - ⭐ 290
-   - MCP server for searching and retrieving Claude Agent Skills using vector search
-
-31. [ailabs-393/ai-labs-claude-skills](https://github.com/ailabs-393/ai-labs-claude-skills) - ⭐ 286
-   - This package is use to remove the hustle of finding claudeskills and shift them into any of the user project. This project become a bridge between user's usage and claude skills 
-
-32. [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - ⭐ 277
-   - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
-
-33. [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - ⭐ 270
-   - A Claude skill for developing WebGPU applications with Three.js
-
-34. [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) - ⭐ 250
-   - The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands
-
-35. [iamzhihuix/happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) - ⭐ 241
-   - 
-
-36. [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) - ⭐ 225
-   - Claude Code skill to supercharge and manage all Home Assistant workflows
-
-37. [jezweb/claude-skills](https://github.com/jezweb/claude-skills) - ⭐ 223
-   - Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.
-
-38. [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) - ⭐ 218
-   - BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment.
-
-39. [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - ⭐ 196
-   - A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.
-
-40. [YYH211/Claude-meta-skill](https://github.com/YYH211/Claude-meta-skill) - ⭐ 190
-   - A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.
-
-41. [liangdabiao/Claude-Code-Deep-Research-main](https://github.com/liangdabiao/Claude-Code-Deep-Research-main) - ⭐ 184
-   - 利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现这个deep research，就知道哪个框架才是真厉害。
-
-42. [Mng-dev-ai/claudex](https://github.com/Mng-dev-ai/claudex) - ⭐ 184
-   - Your own Claude Code UI, local/e2b/modal sandbox, in-browser VS Code, terminal, multi-provider support (Max, Z.AI, OpenRouter), custom skills, and MCP servers.
-
-43. [rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) - ⭐ 169
-   - A curated collection of Agent Skills for Google Antigravity
-
-44. [JayZeeDesign/awesome-claude-skills](https://github.com/JayZeeDesign/awesome-claude-skills) - ⭐ 160
-   - 
-
-45. [spences10/svelte-claude-skills](https://github.com/spences10/svelte-claude-skills) - ⭐ 150
-   - 
-
-46. [abracadabra50/claude-code-voice-skill](https://github.com/abracadabra50/claude-code-voice-skill) - ⭐ 149
-   - Skill to talk to Claude about your projects over the phone
-
-47. [whawkinsiv/claude-code-superpowers](https://github.com/whawkinsiv/claude-code-superpowers) - ⭐ 140
-   - Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
-
-48. [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz) - ⭐ 135
-   - Random Claude skills for common, simple programming tasks
-
-49. [hancengiz/claude-code-prompt-coach-skill](https://github.com/hancengiz/claude-code-prompt-coach-skill) - ⭐ 130
-   - 
-
-50. [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - ⭐ 128
-   - A comprehensive collection of Claude Skills for Search Engine Optimization (SEO) and Generative Engine Optimization (GEO), organized around a proven methodology framework.
-
-51. [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - ⭐ 127
-   - 65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-
-52. [fleurytian/awesome-claude-skills](https://github.com/fleurytian/awesome-claude-skills) - ⭐ 115
-   - Claude Skills developed for brain-workers. Dev by Fleury, an Ex-McKinsey and now AI product manager. 小红书/RedNote@如宝｜AI&Anlalytics. Email me @fleurytian@gmail.com
-
-53. [staruhub/ClaudeSkills](https://github.com/staruhub/ClaudeSkills) - ⭐ 113
-   - Some sharing on Claude Skills
-
-54. [VCnoC/Claude-Code-Zen-mcp-Skill-Work](https://github.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work) - ⭐ 112
-   - 关于这个事，我简单说两句，你明白就行，总而言之，这个事呢，现在就是这个情况，具体的呢，大家也都看得到，也得出来说那么几句，可能，你听的不是很明白，但是意思就是那么个意思，不知道的你也不用去猜，这种事情见得多了，我只想说懂得都懂，不懂的我也不多解释，毕竟自己知道就好，细细品吧。
-
-55. [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) - ⭐ 112
-   - An unappealing collection of Claude Skills and resources.
-
-56. [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - ⭐ 102
-   - This is a "skill" for claude to use FFUF.
-
+7. [JayZeeDesign/awesome-claude-skills](https://github.com/JayZeeDesign/awesome-claude-skills) - ⭐ 160
 ---
 
+### ⚙️ Configuration Collections
+
+Complete configuration setups and examples.
+
+1. [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) - ⭐ 8654
+   - Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents
+
+2. [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - ⭐ 5124
+   - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+
+3. [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - ⭐ 884
+   - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
+
+4. [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) - ⭐ 383
+   - My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.
+---
+
+### 📖 Guides & Learning
+
+Educational resources and mastery guides.
+
+1. [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - ⭐ 3225
+   - Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
+
+2. [TheDecipherist/claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery) - ⭐ 250
+   - The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands
+---
+
+### 🔄 Workflow & Orchestration
+
+Multi-agent workflows and orchestration systems.
+
+1. [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - ⭐ 11616
+   - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+
+2. [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - ⭐ 3152
+   - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve.
+
+3. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1214
+   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
+
+4. [whawkinsiv/claude-code-superpowers](https://github.com/whawkinsiv/claude-code-superpowers) - ⭐ 140
+   - Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
+---
+
+### 🛠️ Skills Collections
+
+Collections of specialized Claude Code skills.
+
+1. [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - ⭐ 7879
+   - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+
+2. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1483
+   - All powerful skills of ClaudeKit.cc!
+
+3. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 1426
+   - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
+
+4. [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - ⭐ 1094
+   - Hundreds of Claude Code plugins with embedded AI skills. Learn via interactive Jupyter tutorials.
+
+5. [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - ⭐ 127
+   - 65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+
+6. [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz) - ⭐ 135
+   - Random Claude skills for common, simple programming tasks
+
+7. [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) - ⭐ 112
+   - An unappealing collection of Claude Skills and resources.
+
+8. [staruhub/ClaudeSkills](https://github.com/staruhub/ClaudeSkills) - ⭐ 113
+   - Some sharing on Claude Skills
+---
+
+### 🏭 Skill Development Tools
+
+Tools for creating and managing Claude Code skills.
+
+1. [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - ⭐ 8243
+   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+
+2. [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) - ⭐ 394
+   - Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.
+
+3. [YYH211/Claude-meta-skill](https://github.com/YYH211/Claude-meta-skill) - ⭐ 190
+   - A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.
+
+4. [blader/Claudeception](https://github.com/blader/Claudeception) - ⭐ 1475
+   - A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.
+---
+
+### 🏪 Marketplaces & Directories
+
+Skill marketplaces and discovery platforms.
+
+1. [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) - ⭐ 2322
+   - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code
+
+2. [Kamalnrf/claude-plugins](https://github.com/Kamalnrf/claude-plugins) - ⭐ 392
+   - Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent.
+
+3. [daymade/claude-code-skills](https://github.com/daymade/claude-code-skills) - ⭐ 506
+   - Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.
+
+4. [mhattingpete/claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - ⭐ 277
+   - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
+---
+
+### 🎯 Specific Purpose Skills
+
+Skills for specific domains and use cases.
+
+1. [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) - ⭐ 290
+   - MCP server for searching and retrieving Claude Agent Skills using vector search
+
+2. [ailabs-393/ai-labs-claude-skills](https://github.com/ailabs-393/ai-labs-claude-skills) - ⭐ 286
+   - This package is use to remove the hustle of finding claudeskills and shift them into any of the user project. This project become a bridge between user's usage and claude skills 
+
+3. [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) - ⭐ 270
+   - A Claude skill for developing WebGPU applications with Three.js
+
+4. [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) - ⭐ 225
+   - Claude Code skill to supercharge and manage all Home Assistant workflows
+
+5. [coffeefuelbump/csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - ⭐ 196
+   - A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.
+
+6. [liangdabiao/Claude-Code-Deep-Research-main](https://github.com/liangdabiao/Claude-Code-Deep-Research-main) - ⭐ 184
+   - 利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现这个deep research，就知道哪个框架才是真厉害。
+
+7. [abracadabra50/claude-code-voice-skill](https://github.com/abracadabra50/claude-code-voice-skill) - ⭐ 149
+   - Skill to talk to Claude about your projects over the phone
+
+8. [hancengiz/claude-code-prompt-coach-skill](https://github.com/hancengiz/claude-code-prompt-coach-skill) - ⭐ 130
+
+9. [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) - ⭐ 128
+   - A comprehensive collection of Claude Skills for Search Engine Optimization (SEO) and Generative Engine Optimization (GEO), organized around a proven methodology framework.
+
+10. [fleurytian/awesome-claude-skills](https://github.com/fleurytian/awesome-claude-skills) - ⭐ 115
+   - Claude Skills developed for brain-workers. Dev by Fleury, an Ex-McKinsey and now AI product manager. 小红书/RedNote@如宝｜AI&Anlalytics. Email me @fleurytian@gmail.com
+
+11. [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill) - ⭐ 102
+   - This is a "skill" for claude to use FFUF.
+---
+
+### 🔗 Platform Integrations
+
+Integrations with other platforms and tools.
+
+1. [rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) - ⭐ 169
+   - A curated collection of Agent Skills for Google Antigravity
+
+2. [Mng-dev-ai/claudex](https://github.com/Mng-dev-ai/claudex) - ⭐ 184
+   - Your own Claude Code UI, local/e2b/modal sandbox, in-browser VS Code, terminal, multi-provider suppo...
+
+3. [obra/superpowers-skills](https://github.com/obra/superpowers-skills) - ⭐ 491
+   - Community-editable skills for Claude Code's superpowers plugin
+
+4. [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) - ⭐ 218
+   - BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform C...
+
+5. [spences10/svelte-claude-skills](https://github.com/spences10/svelte-claude-skills) - ⭐ 150
+
+6. [jezweb/claude-skills](https://github.com/jezweb/claude-skills) - ⭐ 223
+   - Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integration...
+
+7. [iamzhihuix/happy-claude-skills](https://github.com/iamzhihuix/happy-claude-skills) - ⭐ 241
+
+8. [VCnoC/Claude-Code-Zen-mcp-Skill-Work](https://github.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work) - ⭐ 112
+   - 关于这个事，我简单说两句，你明白就行，总而言之，这个事呢，现在就是这个情况，具体的呢，大家也都看得到，也得出来说那么几句，可能，你听的不是很明白，但是意思就是那么个意思，不知道的你也不用去猜，这种事情...
+
+---
 ## 📚 Awesome Lists
 
 Curated resource collections.
