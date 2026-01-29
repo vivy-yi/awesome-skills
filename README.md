@@ -39,9 +39,23 @@
   - [🔌 Integration Tools](#-integration-tools)
   - [⚙️ Utilities](#-utilities)
 - [🖼️ Visual & Image](#-visual--image)
+  - [📊 Charts & Data Visualization](#-charts--data-visualization)
+  - [📄 Presentations & Documents](#-presentations--documents)
+  - [🎨 Icons & Assets](#-icons--assets)
 - [🎨 UI/UX & Design](#-uiux--design)
+  - [🎨 Design Skills](#-design-skills)
+  - [🍎 iOS & Swift](#-ios--swift)
+  - [🤖 Chatbot & Visual Tools](#-chatbot--visual-tools)
+  - [📚 Learning Resources](#-learning-resources)
+  - [🔧 Tools & Utilities](#-tools--utilities-1)
 - [🔌 MCP & Integrations](#-mcp--integrations)
+  - [🗄️ Database & Data](#-database--data)
+  - [🌐 Browser & Automation](#-browser--automation)
+  - [🔄 Skill Management](#-skill-management)
+  - [🎯 Specialized Tools](#-specialized-tools)
 - [📝 Content Creation](#-content-creation)
+  - [📝 Documentation & Notes](#-documentation--notes)
+  - [📢 Publishing Tools](#-publishing-tools)
 - [📰 Daily News](#-daily-news)
 - [🔍 Search](#-search)
 - [🤖 Agent Platforms](#-agent-platforms)
@@ -652,162 +666,169 @@ General utilities and helper tools.
 
 Image processing, presentations (PPT), charts, icons, and visual content tools.
 
-### 🔥 Top Projects
+### 📊 Charts & Data Visualization
 
-1. [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - ⭐ 3,582
-   - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
+Charts, graphs, and data visualization tools.
 
-2. [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - ⭐ 2,962
-   - 宝鱼技能 - Baoyu Skills. Chinese AI agent skills collection with various capabilities.
+1. [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - ⭐ 3582
+   - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using f...
 
-3. [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - ⭐ 1,039
-   - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
+2. [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - ⭐ 2962
+   - 宝鱼技能 - Baoyu Skills. Chinese AI agent skills collection with various capabilitie...
 
-### All Projects
-
-1. [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - ⭐ 3,582
-   - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
-
-2. [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - ⭐ 2,962
-   - 宝鱼技能 - Baoyu Skills. Chinese AI agent skills collection with various capabilities.
-
-3. [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - ⭐ 1,039
-   - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
-
-4. [op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) - ⭐ 1,024
-   - NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放
-
-5. [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - ⭐ 238
-   - Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts.
-
-6. [tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills) - ⭐ 218
-   - Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support
-
-7. [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - ⭐ 174
-   - An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.
-
-8. [alonw0/web-asset-generator](https://github.com/alonw0/web-asset-generator) - ⭐ 171
-   - Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.
-
+3. [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - ⭐ 1039
+   - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagra...
 ---
 
+### 📄 Presentations & Documents
+
+Presentation and document generation tools.
+
+1. [op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) - ⭐ 1024
+   - NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放
+
+2. [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - ⭐ 238
+   - Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts...
+
+3. [tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills) - ⭐ 218
+   - Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, ...
+
+4. [bowenliang123/md_exporter](https://github.com/bowenliang123/md_exporter) - ⭐ 174
+   - An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLS...
+---
+
+### 🎨 Icons & Assets
+
+Icon generation and visual asset creation tools.
+
+1. [alonw0/web-asset-generator](https://github.com/alonw0/web-asset-generator) - ⭐ 171
+   - Claude skill to generate favicons, app icons, and social media images from logos...
+
+---
 ## 🎨 UI/UX & Design
 
 UI/UX design, frontend development, and web interface skills.
 
-### 🔥 Top Projects
+### 🎨 Design Skills
 
-1. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - ⭐ 24,171
+Professional UI/UX design intelligence and skills.
+
+1. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - ⭐ 24171
    - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-2. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17,249
-   - Vercel's official collection of agent skills
-
-3. [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - ⭐ 975
-   - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
-
-### All Projects
-
-1. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - ⭐ 24,171
-   - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-2. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17,249
-   - Vercel's official collection of agent skills
-
-3. [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - ⭐ 975
-   - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.
-
-4. [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - ⭐ 922
-   - A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
-
-5. [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - ⭐ 697
-   - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
-
-6. [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - ⭐ 678
-   - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
-
-7. [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - ⭐ 359
-   - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.
-
-8. [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - ⭐ 207
-   - Agent skills for redesigned-pancake
-
-9. [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - ⭐ 119
+2. [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - ⭐ 119
    - Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude
-
 ---
 
+### 🍎 iOS & Swift
+
+Swift, SwiftUI, and iOS development skills.
+
+1. [AvdLee/Swift-Concurrency-Agent-Skill](https://github.com/AvdLee/Swift-Concurrency-Agent-Skill) - ⭐ 697
+   - Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.
+
+2. [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - ⭐ 678
+   - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
+---
+
+### 🤖 Chatbot & Visual Tools
+
+Visual chatbot builders and automation tools.
+
+1. [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - ⭐ 975
+   - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsa...
+
+2. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17249
+   - Vercel's official collection of agent skills
+---
+
+### 📚 Learning Resources
+
+Educational content and guides.
+
+1. [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - ⭐ 922
+   - A complete guide to start and improve your LLM skills in 2026 with little backgr...
+---
+
+### 🔧 Tools & Utilities
+
+Agent skill collections and tools.
+
+1. [0xranx/OpenContext](https://github.com/0xranx/OpenContext) - ⭐ 359
+   - A personal context store for AI agents and assistants—reuse your existing coding...
+
+2. [Sfedfcv/redesigned-pancake](https://github.com/Sfedfcv/redesigned-pancake) - ⭐ 207
+   - Agent skills for redesigned-pancake
+
+---
 ## 🔌 MCP & Integrations
 
 MCP servers and API integrations.
 
-### 🔥 Top Projects
+### 🗄️ Database & Data
 
-1. [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - ⭐ 1,454
+Database and data integration tools.
+
+1. [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - ⭐ 1454
    - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-
-2. [browserwing/browserwing](https://github.com/browserwing/browserwing) - ⭐ 621
-   - BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.
-
-3. [intellectronica/skillz](https://github.com/intellectronica/skillz) - ⭐ 338
-   - An MCP server for loading skills (shim for non-claude clients).
-
-### All Projects
-
-1. [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - ⭐ 1,454
-   - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-
-2. [browserwing/browserwing](https://github.com/browserwing/browserwing) - ⭐ 621
-   - BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.
-
-3. [intellectronica/skillz](https://github.com/intellectronica/skillz) - ⭐ 338
-   - An MCP server for loading skills (shim for non-claude clients).
-
-4. [better-auth/better-icons](https://github.com/better-auth/better-icons) - ⭐ 338
-   - Skill and MCP server for searching and retrieving icons
-
-5. [gotalab/skillport](https://github.com/gotalab/skillport) - ⭐ 273
-   - Bring Agent Skills to Any AI Agent and Coding Agent — via CLI or MCP. Manage once, serve anywhere.
-
-6. [Hmbown/aleph](https://github.com/Hmbown/aleph) - ⭐ 120
-   - Skill + MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.
-
-7. [GBSOSS/-mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter) - ⭐ 112
-   -    Convert any MCP server into a Claude Skill with 90% context savings
-
 ---
 
+### 🌐 Browser & Automation
+
+Browser automation and web interaction tools.
+
+1. [browserwing/browserwing](https://github.com/browserwing/browserwing) - ⭐ 621
+   - BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowi...
+---
+
+### 🔄 Skill Management
+
+Tools for managing and converting skills.
+
+1. [intellectronica/skillz](https://github.com/intellectronica/skillz) - ⭐ 338
+   - An MCP server for loading skills (shim for non-claude clients).
+
+2. [gotalab/skillport](https://github.com/gotalab/skillport) - ⭐ 273
+   - Bring Agent Skills to Any AI Agent and Coding Agent — via CLI or MCP. Manage onc...
+
+3. [GBSOSS/-mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter) - ⭐ 112
+   -    Convert any MCP server into a Claude Skill with 90% context savings
+---
+
+### 🎯 Specialized Tools
+
+Specialized MCP servers for specific use cases.
+
+1. [better-auth/better-icons](https://github.com/better-auth/better-icons) - ⭐ 338
+   - Skill and MCP server for searching and retrieving icons
+
+2. [Hmbown/aleph](https://github.com/Hmbown/aleph) - ⭐ 120
+   - Skill + MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.
+
+---
 ## 📝 Content Creation
 
 Content generation, documentation, and writing tools (NotebookLM, Obsidian, etc.).
 
-### 🔥 Top Projects
+### 📝 Documentation & Notes
 
-1. [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - ⭐ 8,415
+Documentation and note-taking tool integrations.
+
+1. [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - ⭐ 8415
    - Agent skills for Obsidian
 
-2. [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) - ⭐ 2,796
-   - Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base.
-
-3. [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) - ⭐ 506
-   - Claude Code skill for publishing Markdown articles to X (Twitter) Articles
-
-### All Projects
-
-1. [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - ⭐ 8,415
-   - Agent skills for Obsidian
-
-2. [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) - ⭐ 2,796
-   - Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base.
-
-3. [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) - ⭐ 506
-   - Claude Code skill for publishing Markdown articles to X (Twitter) Articles
-
-4. [joeseesun/anything-to-notebooklm](https://github.com/joeseesun/anything-to-notebooklm) - ⭐ 269
-   - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
-
+2. [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) - ⭐ 2796
+   - Use this skill to enable Claude Code to communicate directly with your Google No...
 ---
 
+### 📢 Publishing Tools
+
+Content publishing and distribution tools.
+
+1. [wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill) - ⭐ 506
+   - Claude Code skill for publishing Markdown articles to X (Twitter) Articles
+
+---
 ## 📰 Daily News
 
 Daily news aggregation, AI information curation, and automated reporting tools.
