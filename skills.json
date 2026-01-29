@@ -348,12 +348,6 @@
     "url": "https://github.com/itsmostafa/aws-agent-skills"
   },
   {
-    "name": "guidone/node-red-contrib-chatbot",
-    "stars": 975,
-    "desc": "Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required.",
-    "url": "https://github.com/guidone/node-red-contrib-chatbot"
-  },
-  {
     "name": "huangserva/skill-prompt-generator",
     "stars": 946,
     "desc": "这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制",

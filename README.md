@@ -9,7 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **218** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **217** AI agent skill repositories and frameworks (100+ stars)
 >
 > 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** Weekly
 
@@ -61,7 +61,6 @@
 - [🎨 UI/UX & Design](#-uiux--design)
   - [🎨 Design Skills](#-design-skills)
   - [🍎 iOS & Swift](#-ios--swift)
-  - [🤖 Chatbot & Visual Tools](#-chatbot--visual-tools)
   - [📚 Learning Resources](#-learning-resources)
   - [🔧 Tools & Utilities](#-tools--utilities-1)
 - [🔌 MCP & Integrations](#-mcp--integrations)
@@ -91,7 +90,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 218
+- **Total Repositories**: 217
 - **Total Categories**: 21
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
@@ -818,7 +817,10 @@ Professional UI/UX design intelligence and skills.
 1. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - ⭐ 24171
    - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-2. [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - ⭐ 119
+2. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17249
+   - Vercel's official collection of agent skills
+
+3. [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - ⭐ 119
    - Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude
 ---
 
@@ -831,17 +833,6 @@ Swift, SwiftUI, and iOS development skills.
 
 2. [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) - ⭐ 678
    - Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
----
-
-### 🤖 Chatbot & Visual Tools
-
-Visual chatbot builders and automation tools.
-
-1. [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - ⭐ 975
-   - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsa...
-
-2. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17249
-   - Vercel's official collection of agent skills
 ---
 
 ### 📚 Learning Resources
