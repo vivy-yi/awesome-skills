@@ -774,6 +774,12 @@
     "url": "https://github.com/vueuse/skills"
   },
   {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "stars": 230,
+    "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
     "name": "vstorm-co/pydantic-deepagents",
     "stars": 229,
     "desc": "Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.",

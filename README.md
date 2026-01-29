@@ -9,7 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **217** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **218** AI agent skill repositories and frameworks (100+ stars)
 >
 > 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** Weekly
 
@@ -91,7 +91,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 217
+- **Total Repositories**: 218
 - **Total Categories**: 21
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
@@ -424,6 +424,9 @@ Workflow automation and orchestration tools (n8n, pipelines, etc.).
 
 3. [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) - ⭐ 164
    - Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.
+
+4. [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - ⭐ 230
+   - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 ---
 
 
