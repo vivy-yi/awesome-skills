@@ -2,14 +2,22 @@
 
 <div align="center">
 
+**The Ultimate Collection of 200+ AI Agent Skills & Frameworks**
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
+[![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
 > A curated list of **217** AI agent skill repositories and frameworks (100+ stars)
+>
+> 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** Weekly
 
 **[⬆ Back to Top](#awesome-skills)**
 
 </div>
+
+---
 
 ---
 
@@ -72,6 +80,12 @@
   - [📊 Testing & Benchmarking](#-testing--benchmarking)
 - [Contributing](#contributing)
 - [License](#license)
+
+---
+
+## 🔑 Keywords
+
+AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, artificial intelligence, LLM agents, GPT agents, automation tools, development skills, agent marketplace, coding assistants, agent orchestration, AI development tools, machine learning agents
 
 ---
 
