@@ -1,4 +1,4 @@
-# Awesome AI Skills
+# awesome skills
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 > A curated list of **217** AI agent skill repositories and frameworks (100+ stars)
 
-**[⬆ Back to Top](#awesome-ai-skills)**
+**[⬆ Back to Top](#awesome-skills)**
 
 </div>
 
@@ -1038,6 +1038,6 @@ Repositories are organized into **17 categories** based on their primary purpose
 
 <div align="center">
 
-**[⬆ Back to Top](#awesome-ai-skills)**
+**[⬆ Back to Top](#awesome-skills)**
 
 </div>
