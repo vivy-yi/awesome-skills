@@ -37,14 +37,9 @@
   - [🏪 Marketplaces & Directories](#-marketplaces--directories)
   - [🎯 Specific Purpose Skills](#-specific-purpose-skills)
   - [🔗 Platform Integrations](#-platform-integrations)
-- [🤖 Agent Client & Server](#-agent-client--server)
+- [🤖 Agentic Client & Servers](#-agentic-client--servers)
   - [🎯 Cursor & AI IDEs](#-cursor--ai-ides)
   - [🔄 Workflow Automation](#-workflow-automation)
-  - [☁️ Cloud Platforms](#-cloud-platforms)
-  - [🗄️ Backend & Database](#-backend--database)
-  - [🎨 Frontend Frameworks](#-frontend-frameworks)
-  - [☕ Java & JVM](#-java--jvm)
-  - [🌐 Specialized Platforms](#-specialized-platforms)
 - [🔧 Development Tools](#-development-tools)
   - [🎯 Framework-Specific](#-framework-specific)
   - [📱 Mobile & Platform](#-mobile--platform)
@@ -54,6 +49,11 @@
   - [📝 Content & Research](#-content--research)
   - [🔌 Integration Tools](#-integration-tools)
   - [⚙️ Utilities](#-utilities)
+  - [☁️ Cloud Platforms](#-cloud-platforms)
+  - [🗄️ Backend & Database](#-backend--database)
+  - [🎨 Frontend Frameworks](#-frontend-frameworks)
+  - [☕ Java & JVM](#-java--jvm)
+  - [🌐 Specialized Platforms](#-specialized-platforms)
 - [🖼️ Visual & Image](#-visual--image)
   - [📊 Charts & Data Visualization](#-charts--data-visualization)
   - [📄 Presentations & Documents](#-presentations--documents)
@@ -391,9 +391,9 @@ Integrations with other platforms and tools.
    - 关于这个事，我简单说两句，你明白就行，总而言之，这个事呢，现在就是这个情况，具体的呢，大家也都看得到，也得出来说那么几句，可能，你听的不是很明白，但是意思就是那么个意思，不知道的你也不用去猜，这种事情...
 
 ---
-## 🤖 Agent Client & Server
+## 🤖 Agentic Client & Servers
 
-Agent platforms, clients, servers, and workflow automation tools for AI coding environments.
+Autonomous AI agents with planning and execution capabilities for coding environments.
 
 ### 🎯 Cursor & AI IDEs
 
@@ -430,63 +430,6 @@ Workflow automation and orchestration tools (n8n, pipelines, etc.).
 ---
 
 
-
-### 📦 Platform-Specific
-
-Platform-specific skills (AWS, Azure, WordPress, etc.).
-
-### ☁️ Cloud Platforms
-
-Cloud platform integrations and infrastructure tools.
-
-1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
-   - AWS Skills for Agents
-
-2. [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - ⭐ 109
----
-
-### 🗄️ Backend & Database
-
-Backend services, databases, and infrastructure tools.
-
-1. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
-   - Agent Skills to help developers using AI agents with Supabase
-
-2. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
-   - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
----
-
-### 🎨 Frontend Frameworks
-
-Frontend framework specific skills.
-
-1. [hyf0/vue-skills](https://github.com/hyf0/vue-skills) - ⭐ 753
-   - Agent skills for Vue 3 development
-
-2. [vueuse/skills](https://github.com/vueuse/skills) - ⭐ 231
-   - Agent Skills for VueUse
-
-3. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
-   - Agent Skills for Angular Developers
----
-
-### ☕ Java & JVM
-
-Java and JVM framework integrations.
-
-1. [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 288
-   - Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.
----
-
-### 🌐 Specialized Platforms
-
-Specialized platform and tool integrations.
-
-1. [scraperai/scraperai](https://github.com/scraperai/scraperai) - ⭐ 243
-   - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
-
-2. [Automattic/agent-skills](https://github.com/Automattic/agent-skills) - ⭐ 155
-   - Agent Skills for WordPress - folders of instructions, scripts, and resources
 
 ---
 ## 🔧 Development Tools
@@ -765,6 +708,62 @@ General utilities and helper tools.
    - Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 
 ---
+
+Platform-specific skills (AWS, Azure, WordPress, etc.).
+
+### ☁️ Cloud Platforms
+
+Cloud platform integrations and infrastructure tools.
+
+1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
+   - AWS Skills for Agents
+
+2. [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - ⭐ 109
+---
+
+### 🗄️ Backend & Database
+
+Backend services, databases, and infrastructure tools.
+
+1. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
+   - Agent Skills to help developers using AI agents with Supabase
+
+2. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
+   - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+---
+
+### 🎨 Frontend Frameworks
+
+Frontend framework specific skills.
+
+1. [hyf0/vue-skills](https://github.com/hyf0/vue-skills) - ⭐ 753
+   - Agent skills for Vue 3 development
+
+2. [vueuse/skills](https://github.com/vueuse/skills) - ⭐ 231
+   - Agent Skills for VueUse
+
+3. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
+   - Agent Skills for Angular Developers
+---
+
+### ☕ Java & JVM
+
+Java and JVM framework integrations.
+
+1. [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 288
+   - Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.
+---
+
+### 🌐 Specialized Platforms
+
+Specialized platform and tool integrations.
+
+1. [scraperai/scraperai](https://github.com/scraperai/scraperai) - ⭐ 243
+   - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
+
+2. [Automattic/agent-skills](https://github.com/Automattic/agent-skills) - ⭐ 155
+   - Agent Skills for WordPress - folders of instructions, scripts, and resources
+
 ## 🖼️ Visual & Image
 
 Image processing, presentations (PPT), charts, icons, and visual content tools.
