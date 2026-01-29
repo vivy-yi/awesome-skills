@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> A curated list of **218** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **217** AI agent skill repositories and frameworks (100+ stars)
 
 **[⬆ Back to Top](#awesome-ai-skills)**
 
@@ -67,7 +67,6 @@
 - [🤖 Browser & Automation](#-browser--automation)
 - [🔬 Scientific Tools](#-scientific-tools)
 - [🔒 Security & Audit](#-security--audit)
-- [🌐 Multi-Agent Systems](#-multi-agent-systems)
 - [🤖 Bot Frameworks](#-bot-frameworks)
 - [📦 Platform-Specific](#-platform-specific)
   - [☁️ Cloud Platforms](#-cloud-platforms)
@@ -86,8 +85,8 @@
 
 ## 📊 Statistics
 
-- **Total Repositories**: 218
-- **Total Categories**: 24
+- **Total Repositories**: 217
+- **Total Categories**: 23
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -1139,17 +1138,6 @@ Security analysis and audit tools.
 
 4. [fr33d3m0n/skill-threat-modeling](https://github.com/fr33d3m0n/skill-threat-modeling) - ⭐ 121
    - Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment
-
----
-
-## 🌐 Multi-Agent Systems
-
-Multi-agent coordination systems.
-
-### 🔥 Top Projects
-
-1. [011235813/hierarchical-marl](https://github.com/011235813/hierarchical-marl) - ⭐ 110
-   - Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery
 
 ---
 

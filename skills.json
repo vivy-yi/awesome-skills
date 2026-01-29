@@ -1254,12 +1254,6 @@
     "url": "https://github.com/feiskyer/codex-settings"
   },
   {
-    "name": "011235813/hierarchical-marl",
-    "stars": 110,
-    "desc": "Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery",
-    "url": "https://github.com/011235813/hierarchical-marl"
-  },
-  {
     "name": "hashicorp/agent-skills",
     "stars": 109,
     "desc": "",
