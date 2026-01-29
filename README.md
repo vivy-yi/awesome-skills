@@ -58,10 +58,12 @@
   - [📢 Publishing Tools](#-publishing-tools)
 - [📰 Daily News](#-daily-news)
 - [🔍 Search](#-search)
-- [🤖 Agent Platforms](#-agent-platforms)
+- [🤖 Agent Client & Server](#-agent-client--server)
+  - [🎯 Cursor & AI IDEs](#-cursor--ai-ides)
+  - [🔄 Workflow Automation](#-workflow-automation)
+  - [🔧 Agent Management](#-agent-management)
 - [☁️ Cloud Platforms](#-cloud-platforms)
 - [💼 Marketing & Operations](#-marketing--operations)
-- [🔄 AI Workflow](#-ai-workflow)
 - [🔧 GitHub & Repository Management](#-github--repository-management)
 - [🎬 Video & Audio](#-video--audio)
 - [🤖 Browser & Automation](#-browser--automation)
@@ -86,7 +88,7 @@
 ## 📊 Statistics
 
 - **Total Repositories**: 217
-- **Total Categories**: 23
+- **Total Categories**: 22
 - **Minimum Stars**: 100
 - **Last Updated**: 2025-01-28
 
@@ -860,43 +862,49 @@ Search engines, semantic search, information retrieval, and Azure Search tools.
 
 ---
 
-## 🤖 Agent Platforms
+## 🤖 Agent Client & Server
 
-Agent platform integrations for Cursor, Amp, Copilot, and other AI coding environments.
+Agent platforms, clients, servers, and workflow automation tools for AI coding environments.
 
-### 🔥 Top Projects
+### 🎯 Cursor & AI IDEs
 
-1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
+Agent platform integrations for Cursor, Antigravity, Copilot, and other AI coding environments.
+
+1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4684
    - Give Cursor Agent an AI Team and Advanced Skills
 
-2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
-   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents
+2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4554
+   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
 
 3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
    - Collection of Amp AI coding agent skills for marketing, content, and development workflows
 
 4. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
-   - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command
-
-### All Projects
-
-1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4,684
-   - Give Cursor Agent an AI Team and Advanced Skills
-
-2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
-   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents
-
-3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
-   - Collection of Amp AI coding agent skills for marketing, content, and development workflows
-
-4. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
-   - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command
-
-5. [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) - ⭐ 164
-   - AI Agent Orchestrator with Skills System - Give Claude Code agents superpowers: memory search, code graph queries, agent-to-agent messaging
-
+   - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single...
 ---
 
+### 🔄 Workflow Automation
+
+Workflow automation and orchestration tools (n8n, pipelines, etc.).
+
+1. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2236
+   - n8n skillset for Claude Code to build flawless n8n workflows
+
+2. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1214
+   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
+
+3. [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) - ⭐ 164
+   - Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.
+---
+
+### 🔧 Agent Management
+
+Agent orchestration, management, and coordination tools.
+
+1. [23blocks-OS/ai-maestro](https://github.com/23blocks-OS/ai-maestro) - ⭐ 164
+   - AI Agent Orchestrator with Skills System - Give Claude Code agents superpowers: memory search, code ...
+
+---
 ## ☁️ Cloud Platforms
 
 Cloud platform integrations for AWS, Azure, GCP, and other cloud services.
@@ -956,34 +964,6 @@ Marketing, operations, CRO, SEO, copywriting, analytics, and growth engineering 
 
 4. [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - ⭐ 319
    - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
-
----
-
-## 🔄 AI Workflow
-
-AI workflow automation, orchestration, n8n integration, and pipeline management tools.
-
-### 🔥 Top Projects
-
-1. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
-   - n8n skillset for Claude Code to build flawless n8n workflows
-
-2. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1,214
-   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
-
-3. [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) - ⭐ 164
-   - Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite
-
-### All Projects
-
-1. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2,236
-   - n8n skillset for Claude Code to build flawless n8n workflows
-
-2. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1,214
-   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
-
-3. [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) - ⭐ 164
-   - Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite
 
 ---
 
