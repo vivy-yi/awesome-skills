@@ -29,6 +29,11 @@
   - [🏪 Marketplaces & Directories](#-marketplaces--directories)
   - [🎯 Specific Purpose Skills](#-specific-purpose-skills)
   - [🔗 Platform Integrations](#-platform-integrations)
+- [🤖 Agent Client & Server](#-agent-client--server)
+  - [🎯 Cursor & AI IDEs](#-cursor--ai-ides)
+  - [🔄 Workflow Automation](#-workflow-automation)
+  - [🤖 Bot Frameworks](#-bot-frameworks)
+  - [🔧 Agent Management](#-agent-management)
 - [🔧 Development Tools](#-development-tools)
   - [🎯 Framework-Specific](#-framework-specific)
   - [📱 Mobile & Platform](#-mobile--platform)
@@ -58,11 +63,6 @@
   - [📢 Publishing Tools](#-publishing-tools)
 - [📰 Daily News](#-daily-news)
 - [🔍 Search](#-search)
-- [🤖 Agent Client & Server](#-agent-client--server)
-  - [🎯 Cursor & AI IDEs](#-cursor--ai-ides)
-  - [🔄 Workflow Automation](#-workflow-automation)
-  - [🤖 Bot Frameworks](#-bot-frameworks)
-  - [🔧 Agent Management](#-agent-management)
 - [☁️ Cloud Platforms](#-cloud-platforms)
 - [💼 Marketing & Operations](#-marketing--operations)
 - [🔧 GitHub & Repository Management](#-github--repository-management)
@@ -385,6 +385,101 @@ Integrations with other platforms and tools.
 
 8. [VCnoC/Claude-Code-Zen-mcp-Skill-Work](https://github.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work) - ⭐ 112
    - 关于这个事，我简单说两句，你明白就行，总而言之，这个事呢，现在就是这个情况，具体的呢，大家也都看得到，也得出来说那么几句，可能，你听的不是很明白，但是意思就是那么个意思，不知道的你也不用去猜，这种事情...
+
+---
+## 🤖 Agent Client & Server
+
+Agent platforms, clients, servers, and workflow automation tools for AI coding environments.
+
+### 🎯 Cursor & AI IDEs
+
+Agent platform integrations for Cursor, Antigravity, Copilot, and other AI coding environments.
+
+1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4684
+   - Give Cursor Agent an AI Team and Advanced Skills
+
+2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4554
+   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
+
+3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
+   - Collection of Amp AI coding agent skills for marketing, content, and development workflows
+
+4. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
+   - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single...
+---
+
+### 🔄 Workflow Automation
+
+Workflow automation and orchestration tools (n8n, pipelines, etc.).
+
+1. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2236
+   - n8n skillset for Claude Code to build flawless n8n workflows
+
+2. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1214
+   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
+
+3. [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) - ⭐ 164
+   - Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.
+---
+
+
+
+### 📦 Platform-Specific
+
+Platform-specific skills (AWS, Azure, WordPress, etc.).
+
+### ☁️ Cloud Platforms
+
+Cloud platform integrations and infrastructure tools.
+
+1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
+   - AWS Skills for Agents
+
+2. [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - ⭐ 109
+---
+
+### 🗄️ Backend & Database
+
+Backend services, databases, and infrastructure tools.
+
+1. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
+   - Agent Skills to help developers using AI agents with Supabase
+
+2. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
+   - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+---
+
+### 🎨 Frontend Frameworks
+
+Frontend framework specific skills.
+
+1. [hyf0/vue-skills](https://github.com/hyf0/vue-skills) - ⭐ 753
+   - Agent skills for Vue 3 development
+
+2. [vueuse/skills](https://github.com/vueuse/skills) - ⭐ 231
+   - Agent Skills for VueUse
+
+3. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
+   - Agent Skills for Angular Developers
+---
+
+### ☕ Java & JVM
+
+Java and JVM framework integrations.
+
+1. [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 288
+   - Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.
+---
+
+### 🌐 Specialized Platforms
+
+Specialized platform and tool integrations.
+
+1. [scraperai/scraperai](https://github.com/scraperai/scraperai) - ⭐ 243
+   - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
+
+2. [Automattic/agent-skills](https://github.com/Automattic/agent-skills) - ⭐ 155
+   - Agent Skills for WordPress - folders of instructions, scripts, and resources
 
 ---
 ## 🔧 Development Tools
@@ -862,101 +957,6 @@ Search engines, semantic search, information retrieval, and Azure Search tools.
 
 ---
 
-## 🤖 Agent Client & Server
-
-Agent platforms, clients, servers, and workflow automation tools for AI coding environments.
-
-### 🎯 Cursor & AI IDEs
-
-Agent platform integrations for Cursor, Antigravity, Copilot, and other AI coding environments.
-
-1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4684
-   - Give Cursor Agent an AI Team and Advanced Skills
-
-2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4554
-   - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
-
-3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
-   - Collection of Amp AI coding agent skills for marketing, content, and development workflows
-
-4. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
-   - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single...
----
-
-### 🔄 Workflow Automation
-
-Workflow automation and orchestration tools (n8n, pipelines, etc.).
-
-1. [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - ⭐ 2236
-   - n8n skillset for Claude Code to build flawless n8n workflows
-
-2. [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - ⭐ 1214
-   - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
-
-3. [haunchen/n8n-skills](https://github.com/haunchen/n8n-skills) - ⭐ 164
-   - Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.
----
-
-
-
-### 📦 Platform-Specific
-
-Platform-specific skills (AWS, Azure, WordPress, etc.).
-
-### ☁️ Cloud Platforms
-
-Cloud platform integrations and infrastructure tools.
-
-1. [itsmostafa/aws-agent-skills](https://github.com/itsmostafa/aws-agent-skills) - ⭐ 978
-   - AWS Skills for Agents
-
-2. [hashicorp/agent-skills](https://github.com/hashicorp/agent-skills) - ⭐ 109
----
-
-### 🗄️ Backend & Database
-
-Backend services, databases, and infrastructure tools.
-
-1. [supabase/agent-skills](https://github.com/supabase/agent-skills) - ⭐ 816
-   - Agent Skills to help developers using AI agents with Supabase
-
-2. [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - ⭐ 787
-   - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
----
-
-### 🎨 Frontend Frameworks
-
-Frontend framework specific skills.
-
-1. [hyf0/vue-skills](https://github.com/hyf0/vue-skills) - ⭐ 753
-   - Agent skills for Vue 3 development
-
-2. [vueuse/skills](https://github.com/vueuse/skills) - ⭐ 231
-   - Agent Skills for VueUse
-
-3. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
-   - Agent Skills for Angular Developers
----
-
-### ☕ Java & JVM
-
-Java and JVM framework integrations.
-
-1. [opensolon/solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 288
-   - Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.
----
-
-### 🌐 Specialized Platforms
-
-Specialized platform and tool integrations.
-
-1. [scraperai/scraperai](https://github.com/scraperai/scraperai) - ⭐ 243
-   - ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.
-
-2. [Automattic/agent-skills](https://github.com/Automattic/agent-skills) - ⭐ 155
-   - Agent Skills for WordPress - folders of instructions, scripts, and resources
-
----
 ## 🎯 Domain-Specific
 
 Specialized domain skills.
