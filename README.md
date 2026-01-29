@@ -90,10 +90,10 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 217
+- **Total Repositories**: 215
 - **Total Categories**: 21
 - **Minimum Stars**: 100
-- **Last Updated**: 2025-01-28
+- **Last Updated**: 2025-01-29
 
 ## 🌐 Skills Web
 
@@ -141,19 +141,13 @@ Foundational infrastructure, specifications, and major frameworks for building A
 4. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,276
    - Universal skills loader for AI coding agents - npm i -g openskills
 
-5. [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) - ⭐ 6,487
-   - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
-
-6. [vercel-labs/skills](https://github.com/vercel-labs/skills) - ⭐ 2,864
+5. [vercel-labs/skills](https://github.com/vercel-labs/skills) - ⭐ 2,864
    - The open agent skills tool - npx skills
 
-7. [openai/skills](https://github.com/openai/skills) - ⭐ 2,115
+6. [openai/skills](https://github.com/openai/skills) - ⭐ 2,115
    - Skills Catalog for Codex
 
-8. [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - ⭐ 989
-   - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
-
-9. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
+7. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
    - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 
 ---
