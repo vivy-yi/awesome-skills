@@ -18,6 +18,7 @@
 - [Statistics](#-statistics)
 - [🌐 Skills Web](#-skills-web)
 - [🏗️ Core Frameworks](#-core-frameworks)
+- [📚 Awesome Lists](#-awesome-lists)
 - [🤖 Claude Code 生态](#-claude-code-生态)
   - [📚 Awesome Lists](#-awesome-lists)
   - [⚙️ Configuration Collections](#-configuration-collections)
@@ -28,7 +29,6 @@
   - [🏪 Marketplaces & Directories](#-marketplaces--directories)
   - [🎯 Specific Purpose Skills](#-specific-purpose-skills)
   - [🔗 Platform Integrations](#-platform-integrations)
-- [📚 Awesome Lists](#-awesome-lists)
 - [🔧 Development Tools](#-development-tools)
   - [🎯 Framework-Specific](#-framework-specific)
   - [📱 Mobile & Platform](#-mobile--platform)
@@ -152,6 +152,37 @@ Foundational infrastructure, specifications, and major frameworks for building A
 
 9. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4,554
    - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+
+---
+
+## 📚 Awesome Lists
+
+Curated resource collections.
+
+### 🔥 Top Projects
+
+1. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
+   - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+
+2. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
+   - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
+
+### All Projects
+
+1. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
+   - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
+
+2. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
+   - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
+
+3. [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - ⭐ 767
+   - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
+
+4. [littleben/awesomeAgentskills](https://github.com/littleben/awesomeAgentskills) - ⭐ 128
+   - A curated collection of skills for Claude Code and other AI agents | 精选的 Claude Code 和其他 AI 智能体技能集合
+
+5. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
+   - A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development (Kotlin, Jetpack Compose, etc.).
 
 ---
 
@@ -356,37 +387,6 @@ Integrations with other platforms and tools.
    - 关于这个事，我简单说两句，你明白就行，总而言之，这个事呢，现在就是这个情况，具体的呢，大家也都看得到，也得出来说那么几句，可能，你听的不是很明白，但是意思就是那么个意思，不知道的你也不用去猜，这种事情...
 
 ---
-## 📚 Awesome Lists
-
-Curated resource collections.
-
-### 🔥 Top Projects
-
-1. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
-   - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
-
-2. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
-   - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
-
-### All Projects
-
-1. [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - ⭐ 1,750
-   - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)
-
-2. [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - ⭐ 1,309
-   - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
-
-3. [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - ⭐ 767
-   - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
-
-4. [littleben/awesomeAgentskills](https://github.com/littleben/awesomeAgentskills) - ⭐ 128
-   - A curated collection of skills for Claude Code and other AI agents | 精选的 Claude Code 和其他 AI 智能体技能集合
-
-5. [new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills) - ⭐ 106
-   - A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development (Kotlin, Jetpack Compose, etc.).
-
----
-
 ## 🔧 Development Tools
 
 Utilities and tools for building agent skills.
