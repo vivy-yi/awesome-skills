@@ -892,6 +892,9 @@ Specialized MCP servers for specific use cases.
 2. [Hmbown/aleph](https://github.com/Hmbown/aleph) - ⭐ 120
    - Skill + MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.
 
+3. [heeyo-life/skillboss-skills](https://github.com/heeyo-life/skillboss-skills) - ⭐ 40
+   - Unified Skills for 100+ AI services through OpenAI-compatible API. LLMs (Claude, GPT, Gemini, DeepSeek), image generation (DALL-E, Midjourney, Flux), video (Runway, Kling), and audio (ElevenLabs). One API key for all services.
+
 ---
 ## 📝 Content Creation
 
