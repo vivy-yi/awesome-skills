@@ -91,7 +91,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 241
+- **Total Repositories**: 237
 - **Total Categories**: 21
 - **Minimum Stars**: 100
 - **Last Updated**: 2026-03-28
@@ -436,10 +436,8 @@ Workflow automation and orchestration tools (n8n, pipelines, etc.).
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio ⭐ 42K stars
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - 1,326+ agentic skills ⭐ 27K stars
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Awesome Claude Code ⭐ 33K stars
-- [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的AI资源大全 ⭐ 10K stars
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - 字节跳动 Context Database ⭐ 19K stars
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - Natural Language to SQL ⭐ 14K stars
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI research across platforms ⭐ 12K stars
 
 ---
 

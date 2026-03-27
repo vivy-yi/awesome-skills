@@ -288,12 +288,6 @@
     "url": "https://github.com/libukai/awesome-agent-skills"
   },
   {
-    "name": "mvanhorn/last30days-skill",
-    "stars": 1237,
-    "desc": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts",
-    "url": "https://github.com/mvanhorn/last30days-skill"
-  },
-  {
     "name": "CloudAI-X/claude-workflow-v2",
     "stars": 1214,
     "desc": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands",
@@ -1414,24 +1408,6 @@
     "stars": 74399,
     "desc": "The ultimate space for work and life - multi-agent collaboration",
     "url": "https://github.com/lobehub/lobehub"
-  },
-  {
-    "name": "sansan0/TrendRadar",
-    "stars": 49851,
-    "desc": "AI-driven public opinion & trend monitor with multi-platform aggregation",
-    "url": "https://github.com/sansan0/TrendRadar"
-  },
-  {
-    "name": "liyupi/ai-guide",
-    "stars": 10563,
-    "desc": "程序员鱼皮的 AI 资源大全，包含 OpenClaw 保姆级教程",
-    "url": "https://github.com/liyupi/ai-guide"
-  },
-  {
-    "name": "zhayujie/chatgpt-on-wechat",
-    "stars": 42588,
-    "desc": "基于大模型的超级AI助理，支持 OpenClaw",
-    "url": "https://github.com/zhayujie/chatgpt-on-wechat"
   },
   {
     "name": "CherryHQ/cherry-studio",
