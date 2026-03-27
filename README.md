@@ -40,6 +40,7 @@
 - [🤖 Agentic Client & Servers](#-agentic-client--servers)
   - [🎯 Cursor & AI IDEs](#-cursor--ai-ides)
   - [🔄 Workflow Automation](#-workflow-automation)
+- [🔧 Daily Development & Maintenance](#-daily-development--maintenance)
 - [🔧 Development Tools](#-development-tools)
   - [🎯 Framework-Specific](#-framework-specific)
   - [📱 Mobile & Platform](#-mobile--platform)
@@ -90,10 +91,10 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 215
+- **Total Repositories**: 227
 - **Total Categories**: 21
 - **Minimum Stars**: 100
-- **Last Updated**: 2025-01-29
+- **Last Updated**: 2026-03-28
 
 ## 🌐 Skills Web
 
@@ -425,6 +426,23 @@ Workflow automation and orchestration tools (n8n, pipelines, etc.).
 
 
 ---
+
+## 🔧 Daily Development & Maintenance
+
+Tools and skills for daily development, maintenance, and DevOps workflows.
+
+- [mo-richang](https://github.com/vivy-yi/mo-richang) - Daily development and maintenance agent ⭐ NEW
+- [mo-meta-team](https://github.com/vivy-yi/mo-meta-team) - Meta team for OpenClaw agents (墨监、墨历、墨联、墨邮、墨析、墨创、墨库)
+- [agent-reach](https://github.com/teng-lin/agent-reach) - Multi-platform search (16+ platforms) ⭐ 10K+ stars
+- [CLI-Anything](https://github.com/HKUDS/CLI-Anything) - Make ALL Software Agent-Native ⭐ 23K+ stars
+- [opencli](https://github.com/jackwener/opencli) - 50+ platforms CLI ⭐ 7K+ stars
+- [WrenAI](https://github.com/Canner/WrenAI) - Natural Language to SQL ⭐ 14K+ stars
+- [MineContext](https://github.com/VolcEngine/MineContext) - 字节跳动 Context Engineering ⭐ 5K+ stars
+- [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic Agent Skills ⭐ 56K+ stars
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - 5000+ OpenClaw Skills ⭐ 42K+ stars
+
+---
+
 ## 🔧 Development Tools
 
 Utilities and tools for building agent skills.

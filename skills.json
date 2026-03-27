@@ -1300,5 +1300,65 @@
     "stars": 102,
     "desc": "This is a \"skill\" for claude to use FFUF.",
     "url": "https://github.com/jthack/ffuf_claude_skill"
+  },
+  {
+    "name": "vivy-yi/mo-richang",
+    "stars": 0,
+    "desc": "日常开发和维护 Agent - GitHub Daily、Skills 发现、内容运营",
+    "url": "https://github.com/vivy-yi/mo-richang"
+  },
+  {
+    "name": "vivy-yi/mo-meta-team",
+    "stars": 0,
+    "desc": "墨团队 - OpenClaw 平台能力 Agent（墨监、墨历、墨联、墨邮、墨析、墨创、墨库）",
+    "url": "https://github.com/vivy-yi/mo-meta-team"
+  },
+  {
+    "name": "teng-lin/agent-reach",
+    "stars": 10922,
+    "desc": "Give your AI agent eyes to see the entire internet - 16+ platforms including Bilibili, Xiaohongshu, Zhihu",
+    "url": "https://github.com/teng-lin/agent-reach"
+  },
+  {
+    "name": "glebis/claude-skills",
+    "stars": 528,
+    "desc": "A collection of Claude Code skills - GitHub Gist, health data, Telegram, LLM CLI",
+    "url": "https://github.com/glebis/claude-skills"
+  },
+  {
+    "name": "anthropics/skills",
+    "stars": 56124,
+    "desc": "Official Anthropic Agent Skills - PDF, DOCX, Markdown processing",
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "jeremylongshore/claude-code-plugins-plus-skills",
+    "stars": 3148,
+    "desc": "Claude Code Plugins Plus Skills - 3000+ skills collection",
+    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+  },
+  {
+    "name": "VolcEngine/MineContext",
+    "stars": 5158,
+    "desc": "字节跳动 MineContext - Context-aware AI partner for context engineering",
+    "url": "https://github.com/VolcEngine/MineContext"
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "stars": 23678,
+    "desc": "Making ALL Software Agent-Native - CLI wrapper for any software",
+    "url": "https://github.com/HKUDS/CLI-Anything"
+  },
+  {
+    "name": "jackwener/opencli",
+    "stars": 7684,
+    "desc": "Make Any Website & Tool Your CLI - 50+ platforms supported",
+    "url": "https://github.com/jackwener/opencli"
+  },
+  {
+    "name": "Canner/WrenAI",
+    "stars": 14695,
+    "desc": "GenBI: Natural Language to SQL/Chart - Text-to-SQL with visualization",
+    "url": "https://github.com/Canner/WrenAI"
   }
 ]
