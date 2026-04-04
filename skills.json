@@ -102,12 +102,6 @@
     "url": "https://github.com/numman-ali/openskills"
   },
   {
-    "name": "crestalnetwork/intentkit",
-    "stars": 6487,
-    "desc": "An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!",
-    "url": "https://github.com/crestalnetwork/intentkit"
-  },
-  {
     "name": "travisvn/awesome-claude-skills",
     "stars": 6094,
     "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
@@ -288,6 +282,12 @@
     "url": "https://github.com/libukai/awesome-agent-skills"
   },
   {
+    "name": "mvanhorn/last30days-skill",
+    "stars": 1237,
+    "desc": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts",
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
     "name": "CloudAI-X/claude-workflow-v2",
     "stars": 1214,
     "desc": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands",
@@ -384,12 +384,6 @@
     "url": "https://github.com/supabase/agent-skills"
   },
   {
-    "name": "NVIDIA-NeMo/Skills",
-    "stars": 797,
-    "desc": "A project to improve skills of large language models",
-    "url": "https://github.com/NVIDIA-NeMo/Skills"
-  },
-  {
     "name": "antonbabenko/terraform-skill",
     "stars": 787,
     "desc": "The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns",
@@ -454,12 +448,6 @@
     "stars": 629,
     "desc": "Homebrew for AI Agent Skills.",
     "url": "https://github.com/skillcreatorai/Ai-Agent-Skills"
-  },
-  {
-    "name": "microsoft/cookiecutter-spacy-fastapi",
-    "stars": 623,
-    "desc": "Cookiecutter API for creating Custom Skills for Azure Search using Python and Docker",
-    "url": "https://github.com/microsoft/cookiecutter-spacy-fastapi"
   },
   {
     "name": "browserwing/browserwing",
@@ -804,12 +792,6 @@
     "url": "https://github.com/granaje/alexa-ia-openai"
   },
   {
-    "name": "tfriedel/claude-office-skills",
-    "stars": 218,
-    "desc": "Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support",
-    "url": "https://github.com/tfriedel/claude-office-skills"
-  },
-  {
     "name": "aj-geddes/claude-code-bmad-skills",
     "stars": 218,
     "desc": "BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment.",
@@ -826,12 +808,6 @@
     "stars": 211,
     "desc": "一款提供Agent Skills安全扫描和可视化管理的桌面应用 | A desktop application that provides security scanning and visual management for Agent Skills.",
     "url": "https://github.com/brucevanfdm/agent-skills-guard"
-  },
-  {
-    "name": "Sfedfcv/redesigned-pancake",
-    "stars": 207,
-    "desc": "Agent skills for redesigned-pancake",
-    "url": "https://github.com/Sfedfcv/redesigned-pancake"
   },
   {
     "name": "solana-foundation/solana-dev-skill",
@@ -898,12 +874,6 @@
     "stars": 171,
     "desc": "Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.",
     "url": "https://github.com/alonw0/web-asset-generator"
-  },
-  {
-    "name": "microsoft/AISkillsForWindows",
-    "stars": 170,
-    "desc": "Contains samples for implementing Windows Skills by extending the preview base API and using exsting skill packages",
-    "url": "https://github.com/microsoft/AISkillsForWindows"
   },
   {
     "name": "rmyndharis/antigravity-skills",
@@ -1060,12 +1030,6 @@
     "stars": 138,
     "desc": "AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯",
     "url": "https://github.com/geekjourneyx/ai-daily-skill"
-  },
-  {
-    "name": "microsoft/AzureSuperpowers",
-    "stars": 136,
-    "desc": "The Azure Superpowers workshop focusses on the prerequisite skills and technologies needed to succeed with Azure DevOps as the preferred method for deploying applications into Azure.",
-    "url": "https://github.com/microsoft/AzureSuperpowers"
   },
   {
     "name": "NTCoding/claude-skillz",
@@ -1296,141 +1260,9 @@
     "url": "https://github.com/jthack/ffuf_claude_skill"
   },
   {
-    "name": "vivy-yi/mo-richang",
-    "stars": 0,
-    "desc": "日常开发和维护 Agent - GitHub Daily、Skills 发现、内容运营",
-    "url": "https://github.com/vivy-yi/mo-richang"
-  },
-  {
-    "name": "vivy-yi/mo-meta-team",
-    "stars": 0,
-    "desc": "墨团队 - OpenClaw 平台能力 Agent（墨监、墨历、墨联、墨邮、墨析、墨创、墨库）",
-    "url": "https://github.com/vivy-yi/mo-meta-team"
-  },
-  {
-    "name": "teng-lin/agent-reach",
-    "stars": 10922,
-    "desc": "Give your AI agent eyes to see the entire internet - 16+ platforms including Bilibili, Xiaohongshu, Zhihu",
-    "url": "https://github.com/teng-lin/agent-reach"
-  },
-  {
-    "name": "glebis/claude-skills",
-    "stars": 528,
-    "desc": "A collection of Claude Code skills - GitHub Gist, health data, Telegram, LLM CLI",
-    "url": "https://github.com/glebis/claude-skills"
-  },
-  {
-    "name": "anthropics/skills",
-    "stars": 56124,
-    "desc": "Official Anthropic Agent Skills - PDF, DOCX, Markdown processing",
-    "url": "https://github.com/anthropics/skills"
-  },
-  {
-    "name": "jeremylongshore/claude-code-plugins-plus-skills",
-    "stars": 3148,
-    "desc": "Claude Code Plugins Plus Skills - 3000+ skills collection",
-    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
-  },
-  {
-    "name": "VolcEngine/MineContext",
-    "stars": 5158,
-    "desc": "字节跳动 MineContext - Context-aware AI partner for context engineering",
-    "url": "https://github.com/VolcEngine/MineContext"
-  },
-  {
-    "name": "HKUDS/CLI-Anything",
-    "stars": 23678,
-    "desc": "Making ALL Software Agent-Native - CLI wrapper for any software",
-    "url": "https://github.com/HKUDS/CLI-Anything"
-  },
-  {
-    "name": "jackwener/opencli",
-    "stars": 7684,
-    "desc": "Make Any Website & Tool Your CLI - 50+ platforms supported",
-    "url": "https://github.com/jackwener/opencli"
-  },
-  {
-    "name": "Canner/WrenAI",
-    "stars": 14695,
-    "desc": "GenBI: Natural Language to SQL/Chart - Text-to-SQL with visualization",
-    "url": "https://github.com/Canner/WrenAI"
-  },
-  {
-    "name": "VoltAgent/awesome-openclaw-skills",
-    "stars": 42445,
-    "desc": "The awesome collection of OpenClaw skills. 5,400+ skills filtered from official OpenClaw Skills Registry",
-    "url": "https://github.com/VoltAgent/awesome-openclaw-skills"
-  },
-  {
-    "name": "volcengine/OpenViking",
-    "stars": 19505,
-    "desc": "Open-source context database for AI Agents. Unified management of memory, resources, and skills",
-    "url": "https://github.com/volcengine/OpenViking"
-  },
-  {
-    "name": "NevaMind-AI/memU",
-    "stars": 13219,
-    "desc": "Memory for 24/7 proactive agents like OpenClaw",
-    "url": "https://github.com/NevaMind-AI/memU"
-  },
-  {
-    "name": "thedotmack/claude-mem",
-    "stars": 41495,
-    "desc": "Claude Code plugin that automatically captures and injects relevant context",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "name": "gsd-build/get-shit-done",
-    "stars": 43281,
-    "desc": "Meta-prompting, context engineering for Claude Code by TÂCHES",
-    "url": "https://github.com/gsd-build/get-shit-done"
-  },
-  {
-    "name": "garrytan/gstack",
-    "stars": 51970,
-    "desc": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools",
-    "url": "https://github.com/garrytan/gstack"
-  },
-  {
-    "name": "Mindfully/skills",
-    "stars": 44,
-    "desc": "240+ Claude Code skills converted from Cursor rules",
-    "url": "https://github.com/Mindfully/skills"
-  },
-  {
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 13062,
-    "desc": "Claude Code Skills and 1000+ agent skills, compatible with Codex, Antigravity",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
-    "name": "lobehub/lobehub",
-    "stars": 74399,
-    "desc": "The ultimate space for work and life - multi-agent collaboration",
-    "url": "https://github.com/lobehub/lobehub"
-  },
-  {
-    "name": "CherryHQ/cherry-studio",
-    "stars": 42438,
-    "desc": "AI productivity studio with smart chat, autonomous agents, 300+ assistants",
-    "url": "https://github.com/CherryHQ/cherry-studio"
-  },
-  {
-    "name": "farion1231/cc-switch",
-    "stars": 34432,
-    "desc": "Cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode",
-    "url": "https://github.com/farion1231/cc-switch"
-  },
-  {
-    "name": "hiveminderbot/ontology",
-    "stars": 10,
-    "desc": "Typed knowledge graph for OpenClaw - structured agent memory and composable skills. 用于创建/查询实体（人员、项目、任务、事件、文档），链接关系",
-    "url": "https://github.com/hiveminderbot/ontology"
-  },
-  {
-    "name": "claw-opus/proactive-self-improving-agent",
-    "stars": 10,
-    "desc": "自动捕获经验并安全进化的技能 - Self-Improving + Proactive Agent，让 Agent 在日常工作中自动识别错误、纠正和最佳实践",
-    "url": "https://github.com/claw-opus/proactive-self-improving-agent"
+    "name": "antvis/chart-visualization-skills",
+    "stars": 8,
+    "desc": "⛏️ Turning data into a visual language for better thinking with Skills - Official AntV visualization skills (4 skills: chart-visualization, icon-retrieval, infographic-creator, narrative-text-visualization)",
+    "url": "https://github.com/antvis/chart-visualization-skills"
   }
 ]
