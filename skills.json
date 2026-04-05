@@ -1264,5 +1264,53 @@
     "stars": 8,
     "desc": "⛏️ Turning data into a visual language for better thinking with Skills - Official AntV visualization skills (4 skills: chart-visualization, icon-retrieval, infographic-creator, narrative-text-visualization)",
     "url": "https://github.com/antvis/chart-visualization-skills"
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "stars": 8624,
+    "desc": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
+    "url": "https://github.com/VoltAgent/awesome-design-md"
+  },
+  {
+    "name": "jackwener/opencli",
+    "stars": 13037,
+    "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime for AI Agents to discover, learn, and execute tools via unified AGENT.md integration.",
+    "url": "https://github.com/jackwener/opencli"
+  },
+  {
+    "name": "googleworkspace/cli",
+    "stars": 23803,
+    "desc": "Google Workspace CLI - one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "url": "https://github.com/googleworkspace/cli"
+  },
+  {
+    "name": "tanweai/pua",
+    "stars": 15061,
+    "desc": "An AI agent skill with high agency and motivation. An agent placed on a PIP (Performance Improvement Plan) - 30 days to show improvement.",
+    "url": "https://github.com/tanweai/pua"
+  },
+  {
+    "name": "sanbuphy/learn-coding-agent",
+    "stars": 11265,
+    "desc": "Research on Coding Agents - systematic study of AI coding agent capabilities, limitations, and improvement strategies.",
+    "url": "https://github.com/sanbuphy/learn-coding-agent"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "stars": 7790,
+    "desc": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform support (Claude Code, Codex).",
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "MiniMax-AI/skills",
+    "stars": 9198,
+    "desc": "Multi-platform AI agent skills repository supporting Claude Code, Codex, Cursor, and OpenCode. Includes skills directory and plugins for major AI coding platforms.",
+    "url": "https://github.com/MiniMax-AI/skills"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "stars": 14778,
+    "desc": "Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+    "url": "https://github.com/Gitlawb/openclaude"
   }
 ]

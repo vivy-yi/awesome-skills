@@ -9,9 +9,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **211** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **219** AI agent skill repositories and frameworks (100+ stars)
 >
-> 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-03-07
+> 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-05
 
 **[⬆ Back to Top](#awesome-skills)**
 
@@ -265,7 +265,10 @@ Collections of specialized Claude Code skills.
 1. [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - ⭐ 7879 | 📊 19 skills
    - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-2. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1483 | 📊 41 skills
+2. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) - ⭐ 9198 ⏰2026-03-17
+   - Multi-platform AI agent skills repository supporting Claude Code, Codex, Cursor, and OpenCode. Includes skills directory and plugins for major AI coding platforms.
+
+3. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1483 | 📊 41 skills
    - All powerful skills of ClaudeKit.cc!
 
 3. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 1426 | 📊 42 skills
@@ -359,13 +362,19 @@ Skills for specific domains and use cases.
 
 Integrations with other platforms and tools.
 
-1. [rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) - ⭐ 169
+1. [googleworkspace/cli](https://github.com/googleworkspace/cli) - ⭐ 23803 ⏰2026-03-02
+   - Google Workspace CLI - one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin. Includes AI agent skills.
+
+2. [jackwener/opencli](https://github.com/jackwener/opencli) - ⭐ 13037 ⏰2026-03-14
+   - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime for AI Agents to discover, learn, and execute tools via unified AGENT.md integration.
+
+3. [rmyndharis/antigravity-skills](https://github.com/rmyndharis/antigravity-skills) - ⭐ 169
    - A curated collection of Agent Skills for Google Antigravity
 
-2. [Mng-dev-ai/claudex](https://github.com/Mng-dev-ai/claudex) - ⭐ 184
+4. [Mng-dev-ai/claudex](https://github.com/Mng-dev-ai/claudex) - ⭐ 184
    - Your own Claude Code UI, local/e2b/modal sandbox, in-browser VS Code, terminal, multi-provider suppo...
 
-3. [obra/superpowers-skills](https://github.com/obra/superpowers-skills) - ⭐ 491
+5. [obra/superpowers-skills](https://github.com/obra/superpowers-skills) - ⭐ 491
    - Community-editable skills for Claude Code's superpowers plugin
 
 4. [aj-geddes/claude-code-bmad-skills](https://github.com/aj-geddes/claude-code-bmad-skills) - ⭐ 218
@@ -390,10 +399,13 @@ Autonomous AI agents with planning and execution capabilities for coding environ
 
 Agent platform integrations for Cursor, Antigravity, Copilot, and other AI coding environments.
 
-1. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4684
+1. [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - ⭐ 14778 ⏰2026-04-01
+   - Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+
+2. [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4684
    - Give Cursor Agent an AI Team and Advanced Skills
 
-2. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4554
+3. [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - ⭐ 4554
    - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, hi...
 
 3. [snarktank/amp-skills](https://github.com/snarktank/amp-skills) - ⭐ 390
@@ -498,7 +510,13 @@ Frameworks and tools for building AI agents with skills.
 1. [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - ⭐ 319
    - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
 
-2. [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - ⭐ 229
+2. [tanweai/pua](https://github.com/tanweai/pua) - ⭐ 15061 ⏰2026-03-08
+   - An AI agent skill with high agency and motivation. An agent placed on PIP (Performance Improvement Plan) - 30 days to show improvement. A creative, high-drive agent personality skill.
+
+3. [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - ⭐ 11265 ⏰2026-03-31
+   - Research on Coding Agents - systematic study of AI coding agent capabilities, limitations, and improvement strategies.
+
+4. [vstorm-co/pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - ⭐ 229
    - Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.
 
 3. [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - ⭐ 228
@@ -803,10 +821,13 @@ Professional UI/UX design intelligence and skills.
 1. [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - ⭐ 24171
    - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-2. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17249
+2. [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - ⭐ 8624 ⏰2026-03-31
+   - Collection of DESIGN.md files that capture design systems from popular websites (Vercel, Stripe, Linear, etc.). Drop one into your project and let coding agents build matching UI.
+
+3. [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - ⭐ 17249
    - Vercel's official collection of agent skills
 
-3. [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - ⭐ 119
+4. [ancoleman/ai-design-components](https://github.com/ancoleman/ai-design-components) - ⭐ 119
    - Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude
 ---
 

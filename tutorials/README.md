@@ -49,6 +49,7 @@
 
 | 教程 | 描述 | 阅读时间 |
 |------|------|----------|
+| [design-md-for-agents.md](design-md-for-agents.md) | DESIGN.md 设计系统规范 — 让 AI Coding Agent 构建风格一致的 UI | 25 分钟 |
 | [the-skill-md-pattern.md](the-skill-md-pattern.md) | SKILL.md 编写规范 | 15 分钟 |
 
 **核心内容**：
