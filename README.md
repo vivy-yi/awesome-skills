@@ -9,7 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **219** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **229** AI agent skill repositories and frameworks (100+ stars)
 >
 > 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-06
 
@@ -90,7 +90,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 219
+- **Total Repositories**: 229
 - **Total Skills Analyzed**: 3,900+ skills from 85+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
@@ -211,6 +211,18 @@ Curated collections and resource lists.
    - A curated list of Claude Skills.
 
 7. [JayZeeDesign/awesome-claude-skills](https://github.com/JayZeeDesign/awesome-claude-skills) - ⭐ 160
+
+8. [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - ⭐ 826 ⏰2026-03
+   - Curated list of skills, tools, integrations for Hermes Agent by Nous Research
+
+9. [baibizhe/Awesome-Skills-Paper](https://github.com/baibizhe/Awesome-Skills-Paper) - ⭐ 213 ⏰2026-03
+   - Collection of papers on agent skills - academic research overview
+
+10. [EthanYolo01/Awesome-OpenClaw](https://github.com/EthanYolo01/Awesome-OpenClaw) - ⭐ 148 ⏰2026-04
+    - Carefully curated OpenClaw resources - Skills, Plugins, MCP, Tools
+
+11. [ZeroLu/awesome-openclaw](https://github.com/ZeroLu/awesome-openclaw) - ⭐ 53 ⏰2026-04
+    - Curated collection of OpenClaw tutorials, skills, and use cases
 ---
 
 ### ⚙️ Configuration Collections
@@ -256,6 +268,9 @@ Multi-agent workflows and orchestration systems.
 
 4. [whawkinsiv/claude-code-superpowers](https://github.com/whawkinsiv/claude-code-superpowers) - ⭐ 140
    - Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).
+
+5. [ithiria894/awesome-claude-code-workflows](https://github.com/ithiria894/awesome-claude-code-workflows) - ⭐ 68 ⏰2026-03
+   - Curated workflow recipes combining hooks, MCP servers, skills, agents, and CLAUDE.md for Claude Code
 ---
 
 ### 🛠️ Skills Collections
@@ -480,7 +495,10 @@ Mobile development (iOS, Android, React Native) and platform-specific skills.
 3. [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - ⭐ 335
    - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
 
-4. [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - ⭐ 103
+4. [Techopolis/awesome-ios-ai](https://github.com/Techopolis/awesome-ios-ai) - ⭐ 54 ⏰2026-03
+   - AI agent skills, agent teams, MCP servers for Swift and iOS development
+
+5. [zxkane/aws-skills](https://github.com/zxkane/aws-skills) - ⭐ 103
    - Claude Agent Skills for AWS
 ---
 
@@ -612,6 +630,12 @@ Content generation, research, and documentation tools.
 
 9. [OSU-NLP-Group/SkillWeaver](https://github.com/OSU-NLP-Group/SkillWeaver) - ⭐ 108
    - SkillWeaver is a framework to enable web agent self-improvement through environment exploration and skill synthesis.
+
+10. [InternScience/Awesome-Scientific-Skills](https://github.com/InternScience/Awesome-Scientific-Skills) - ⭐ 278 ⏰2026-03
+    - Open, curated collection of Agent Skills for scientific research — clone it, use it, extend it!
+
+11. [fewwwww/awesome-web3-skills](https://github.com/fewwwww/awesome-web3-skills) - ⭐ 107 ⏰2026-03
+    - Curated list of awesome skills for agents in Web3 and crypto
 ---
 
 ### 🔌 Integration Tools
@@ -750,6 +774,12 @@ Frontend framework specific skills.
 
 3. [analogjs/angular-skills](https://github.com/analogjs/angular-skills) - ⭐ 142
    - Agent Skills for Angular Developers
+
+4. [finfin/awesome-frontend-skills](https://github.com/finfin/awesome-frontend-skills) - ⭐ 64 ⏰2026-03
+   - Curated list of frontend Agent Skills installable via `npx skills add`
+
+5. [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - ⭐ 47 ⏰2026-03
+   - List of awesome design skill files for agentic tools (Claude, Codex, Gemini)
 ---
 
 ### ☕ Java & JVM

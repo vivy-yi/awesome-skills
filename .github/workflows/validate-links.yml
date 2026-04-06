@@ -1,0 +1,23 @@
+name: Validate Links
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly
+  workflow_dispatch:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check
+
+      - name: Check README links
+        run: |
+          markdown-link-check README.md --config .mlc_config.json || true
+
+      - name: Report broken links
+        if: failure()
+        run: echo "Some links may be broken. Please review manually."

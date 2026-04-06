@@ -1,0 +1,55 @@
+name: Update Stars
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly
+  workflow_dispatch:
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update stars from skills.json
+        run: |
+          python3 << 'EOF'
+          import json
+          import subprocess
+
+          with open('skills.json', 'r') as f:
+              repos = json.load(f)
+
+          print(f"Checking {len(repos)} repositories...")
+
+          updated = 0
+          for repo in repos[:10]:  # Check top 10 for demo
+              try:
+                  result = subprocess.run(
+                      ['gh', 'repo', 'view', repo['name'], '--json', 'stargazersCount'],
+                      capture_output=True, text=True
+                  )
+                  if result.returncode == 0:
+                      data = json.loads(result.stdout)
+                      old_stars = repo.get('stars', 0)
+                      new_stars = data.get('stargazersCount', old_stars)
+                      if new_stars != old_stars:
+                          print(f"  {repo['name']}: {old_stars} -> {new_stars}")
+                          repo['stars'] = new_stars
+                          updated += 1
+              except Exception as e:
+                  print(f"  Error: {e}")
+
+          print(f"\nUpdated {updated} repositories")
+
+          # Save updated data
+          with open('skills.json', 'w') as f:
+              json.dump(repos, f, indent=2)
+          EOF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
