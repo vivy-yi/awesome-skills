@@ -58,6 +58,19 @@
 - 代码示例规范
 - 常见错误避免
 
+### 5. Context Engineering & Multi-Agent（上下文工程与多智能体）
+
+| 教程 | 描述 | 阅读时间 |
+|------|------|----------|
+| [context-engineering-multi-agent.md](context-engineering-multi-agent.md) | Context Engineering 基础 + Multi-Agent 架构模式深度解析 | 50 分钟 |
+
+**核心内容**：
+- Context Engineering 核心概念：注意力预算、渐进式披露、Lost-in-Middle
+- Multi-Agent 三种架构模式：Supervisor、Swarm、Hierarchical
+- Context Degradation 的识别与应对
+- Planning with Files（Manus 风格持久化规划）
+- OpenSkills 通用技能加载器
+
 ---
 
 ## 📖 学习路径
@@ -71,7 +84,9 @@
   │
   ├─→ core-frameworks-deep-dive.md (核心框架)
   │
-  └─→ mcp-protocol-deep-dive.md (MCP 集成)
+  ├─→ mcp-protocol-deep-dive.md (MCP 集成)
+  │
+  └─→ context-engineering-multi-agent.md (上下文工程)
   │
 高级
   │
@@ -84,6 +99,7 @@
 
 | 日期 | 更新内容 |
 |------|----------|
+| 2026-04-06 | 新增 Context Engineering & Multi-Agent 深度教程（50分钟） |
 | 2026-04-05 | 初始化教程体系：Core Frameworks、MCP、Security Skills |
 
 ---
@@ -140,4 +156,4 @@
 
 ---
 
-*整理：墨鉴 | 2026-04-05*
+*整理：墨鉴 | 2026-04-06*
