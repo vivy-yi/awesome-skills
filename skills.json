@@ -1,1376 +1,1424 @@
 [
-    {
-        "name": "anthropics/skills",
-        "stars": 56124,
-        "desc": "Public repository for Agent Skills",
-        "url": "https://github.com/anthropics/skills"
-    },
-    {
-        "name": "obra/superpowers",
-        "stars": 38315,
-        "desc": "An agentic skills framework & software development methodology that works.",
-        "url": "https://github.com/obra/superpowers"
-    },
-    {
-        "name": "affaan-m/everything-claude-code",
-        "stars": 32880,
-        "desc": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
-        "url": "https://github.com/affaan-m/everything-claude-code"
-    },
-    {
-        "name": "ComposioHQ/awesome-claude-skills",
-        "stars": 27053,
-        "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "url": "https://github.com/ComposioHQ/awesome-claude-skills"
-    },
-    {
-        "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-        "stars": 24171,
-        "desc": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-        "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
-    },
-    {
-        "name": "googleworkspace/cli",
-        "stars": 23803,
-        "desc": "Google Workspace CLI - one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-        "url": "https://github.com/googleworkspace/cli"
-    },
-    {
-        "name": "hesreallyhim/awesome-claude-code",
-        "stars": 22083,
-        "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
-        "url": "https://github.com/hesreallyhim/awesome-claude-code"
-    },
-    {
-        "name": "vercel-labs/agent-skills",
-        "stars": 17249,
-        "desc": "Vercel's official collection of agent skills",
-        "url": "https://github.com/vercel-labs/agent-skills"
-    },
-    {
-        "name": "tanweai/pua",
-        "stars": 15061,
-        "desc": "An AI agent skill with high agency and motivation. An agent placed on a PIP (Performance Improvement Plan) - 30 days to show improvement.",
-        "url": "https://github.com/tanweai/pua"
-    },
-    {
-        "name": "Gitlawb/openclaude",
-        "stars": 14778,
-        "desc": "Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
-        "url": "https://github.com/Gitlawb/openclaude"
-    },
-    {
-        "name": "jackwener/opencli",
-        "stars": 13037,
-        "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime for AI Agents to discover, learn, and execute tools via unified AGENT.md integration.",
-        "url": "https://github.com/jackwener/opencli"
-    },
-    {
-        "name": "OthmanAdi/planning-with-files",
-        "stars": 11616,
-        "desc": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
-        "url": "https://github.com/OthmanAdi/planning-with-files"
-    },
-    {
-        "name": "sanbuphy/learn-coding-agent",
-        "stars": 11265,
-        "desc": "Research on Coding Agents - systematic study of AI coding agent capabilities, limitations, and improvement strategies.",
-        "url": "https://github.com/sanbuphy/learn-coding-agent"
-    },
-    {
-        "name": "MiniMax-AI/skills",
-        "stars": 9198,
-        "desc": "Multi-platform AI agent skills repository supporting Claude Code, Codex, Cursor, and OpenCode. Includes skills directory and plugins for major AI coding platforms.",
-        "url": "https://github.com/MiniMax-AI/skills"
-    },
-    {
-        "name": "diet103/claude-code-infrastructure-showcase",
-        "stars": 8654,
-        "desc": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
-        "url": "https://github.com/diet103/claude-code-infrastructure-showcase"
-    },
-    {
-        "name": "VoltAgent/awesome-design-md",
-        "stars": 8624,
-        "desc": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
-        "url": "https://github.com/VoltAgent/awesome-design-md"
-    },
-    {
-        "name": "kepano/obsidian-skills",
-        "stars": 8415,
-        "desc": "Agent skills for Obsidian",
-        "url": "https://github.com/kepano/obsidian-skills"
-    },
-    {
-        "name": "yusufkaraaslan/Skill_Seekers",
-        "stars": 8243,
-        "desc": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
-        "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
-    },
-    {
-        "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-        "stars": 7879,
-        "desc": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
-        "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
-    },
-    {
-        "name": "Lum1104/Understand-Anything",
-        "stars": 7790,
-        "desc": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform support (Claude Code, Codex).",
-        "url": "https://github.com/Lum1104/Understand-Anything"
-    },
-    {
-        "name": "agentskills/agentskills",
-        "stars": 7599,
-        "desc": "Specification and documentation for Agent Skills",
-        "url": "https://github.com/agentskills/agentskills"
-    },
-    {
-        "name": "K-Dense-AI/claude-scientific-skills",
-        "stars": 7300,
-        "desc": "A set of ready to use scientific skills for Claude",
-        "url": "https://github.com/K-Dense-AI/claude-scientific-skills"
-    },
-    {
-        "name": "numman-ali/openskills",
-        "stars": 7276,
-        "desc": "Universal skills loader for AI coding agents - npm i -g openskills",
-        "url": "https://github.com/numman-ali/openskills"
-    },
-    {
-        "name": "travisvn/awesome-claude-skills",
-        "stars": 6094,
-        "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
-        "url": "https://github.com/travisvn/awesome-claude-skills"
-    },
-    {
-        "name": "ChrisWiles/claude-code-showcase",
-        "stars": 5124,
-        "desc": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
-        "url": "https://github.com/ChrisWiles/claude-code-showcase"
-    },
-    {
-        "name": "coreyhaines31/marketingskills",
-        "stars": 5021,
-        "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "url": "https://github.com/coreyhaines31/marketingskills"
-    },
-    {
-        "name": "eastlondoner/vibe-tools",
-        "stars": 4684,
-        "desc": "Give Cursor Agent an AI Team and Advanced Skills",
-        "url": "https://github.com/eastlondoner/vibe-tools"
-    },
-    {
-        "name": "sickn33/antigravity-awesome-skills",
-        "stars": 4554,
-        "desc": "The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
-        "url": "https://github.com/sickn33/antigravity-awesome-skills"
-    },
-    {
-        "name": "VoltAgent/awesome-claude-skills",
-        "stars": 4382,
-        "desc": "The awesome collection of Claude Skills and resources.",
-        "url": "https://github.com/VoltAgent/awesome-claude-skills"
-    },
-    {
-        "name": "BehiSecc/awesome-claude-skills",
-        "stars": 4292,
-        "desc": "A curated list of Claude Skills.",
-        "url": "https://github.com/BehiSecc/awesome-claude-skills"
-    },
-    {
-        "name": "antvis/mcp-server-chart",
-        "stars": 3582,
-        "desc": "🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.",
-        "url": "https://github.com/antvis/mcp-server-chart"
-    },
-    {
-        "name": "blader/humanizer",
-        "stars": 3367,
-        "desc": "Claude Code skill that removes signs of AI-generated writing from text",
-        "url": "https://github.com/blader/humanizer"
-    },
-    {
-        "name": "SawyerHood/dev-browser",
-        "stars": 3282,
-        "desc": "A Claude Skill to give your agent the ability to use a web browser",
-        "url": "https://github.com/SawyerHood/dev-browser"
-    },
-    {
-        "name": "zebbern/claude-code-guide",
-        "stars": 3225,
-        "desc": "Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!",
-        "url": "https://github.com/zebbern/claude-code-guide"
-    },
-    {
-        "name": "Yeachan-Heo/oh-my-claudecode",
-        "stars": 3152,
-        "desc": "Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve.",
-        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
-    },
-    {
-        "name": "JimLiu/baoyu-skills",
-        "stars": 2962,
-        "desc": "宝鱼技能 - Baoyu Skills. Chinese AI agent skills collection with various capabilities.",
-        "url": "https://github.com/JimLiu/baoyu-skills"
-    },
-    {
-        "name": "vercel-labs/skills",
-        "stars": 2864,
-        "desc": "The open agent skills tool - npx skills",
-        "url": "https://github.com/vercel-labs/skills"
-    },
-    {
-        "name": "PleasePrompto/notebooklm-skill",
-        "stars": 2796,
-        "desc": "Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base.",
-        "url": "https://github.com/PleasePrompto/notebooklm-skill"
-    },
-    {
-        "name": "glitternetwork/pinme",
-        "stars": 2643,
-        "desc": "Deploy Your Frontend in a Single Command. Claude Code Skills supported.",
-        "url": "https://github.com/glitternetwork/pinme"
-    },
-    {
-        "name": "davepoon/buildwithclaude",
-        "stars": 2322,
-        "desc": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code",
-        "url": "https://github.com/davepoon/buildwithclaude"
-    },
-    {
-        "name": "VoltAgent/awesome-moltbot-skills",
-        "stars": 2267,
-        "desc": "The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)",
-        "url": "https://github.com/VoltAgent/awesome-moltbot-skills"
-    },
-    {
-        "name": "czlonkowski/n8n-skills",
-        "stars": 2236,
-        "desc": "n8n skillset for Claude Code to build flawless n8n workflows",
-        "url": "https://github.com/czlonkowski/n8n-skills"
-    },
-    {
-        "name": "openai/skills",
-        "stars": 2115,
-        "desc": "Skills Catalog for Codex",
-        "url": "https://github.com/openai/skills"
-    },
-    {
-        "name": "trailofbits/skills",
-        "stars": 2097,
-        "desc": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
-        "url": "https://github.com/trailofbits/skills"
-    },
-    {
-        "name": "op7418/Humanizer-zh",
-        "stars": 1755,
-        "desc": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
-        "url": "https://github.com/op7418/Humanizer-zh"
-    },
-    {
-        "name": "heilcheng/awesome-agent-skills",
-        "stars": 1750,
-        "desc": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
-        "url": "https://github.com/heilcheng/awesome-agent-skills"
-    },
-    {
-        "name": "zechenzhangAGI/AI-research-SKILLs",
-        "stars": 1660,
-        "desc": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.",
-        "url": "https://github.com/zechenzhangAGI/AI-research-SKILLs"
-    },
-    {
-        "name": "GuDaStudio/skills",
-        "stars": 1630,
-        "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.",
-        "url": "https://github.com/GuDaStudio/skills"
-    },
-    {
-        "name": "lackeyjb/playwright-skill",
-        "stars": 1495,
-        "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
-        "url": "https://github.com/lackeyjb/playwright-skill"
-    },
-    {
-        "name": "mrgoonie/claudekit-skills",
-        "stars": 1483,
-        "desc": "All powerful skills of ClaudeKit.cc!",
-        "url": "https://github.com/mrgoonie/claudekit-skills"
-    },
-    {
-        "name": "blader/Claudeception",
-        "stars": 1475,
-        "desc": "A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.",
-        "url": "https://github.com/blader/Claudeception"
-    },
-    {
-        "name": "timescale/pg-aiguide",
-        "stars": 1454,
-        "desc": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
-        "url": "https://github.com/timescale/pg-aiguide"
-    },
-    {
-        "name": "alirezarezvani/claude-skills",
-        "stars": 1426,
-        "desc": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
-        "url": "https://github.com/alirezarezvani/claude-skills"
-    },
-    {
-        "name": "libukai/awesome-agent-skills",
-        "stars": 1309,
-        "desc": "Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies",
-        "url": "https://github.com/libukai/awesome-agent-skills"
-    },
-    {
-        "name": "mvanhorn/last30days-skill",
-        "stars": 1237,
-        "desc": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts",
-        "url": "https://github.com/mvanhorn/last30days-skill"
-    },
-    {
-        "name": "CloudAI-X/claude-workflow-v2",
-        "stars": 1214,
-        "desc": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands",
-        "url": "https://github.com/CloudAI-X/claude-workflow-v2"
-    },
-    {
-        "name": "jeremylongshore/claude-code-plugins-plus-skills",
-        "stars": 1094,
-        "desc": "Hundreds of Claude Code plugins with embedded AI skills. Learn via interactive Jupyter tutorials.",
-        "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
-    },
-    {
-        "name": "huggingface/skills",
-        "stars": 1067,
-        "desc": "HuggingFace agent skills for AI and ML model integration",
-        "url": "https://github.com/huggingface/skills"
-    },
-    {
-        "name": "axtonliu/axton-obsidian-visual-skills",
-        "stars": 1039,
-        "desc": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code",
-        "url": "https://github.com/axtonliu/axton-obsidian-visual-skills"
-    },
-    {
-        "name": "gadievron/raptor",
-        "stars": 1028,
-        "desc": "Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.",
-        "url": "https://github.com/gadievron/raptor"
-    },
-    {
-        "name": "op7418/NanoBanana-PPT-Skills",
-        "stars": 1024,
-        "desc": "NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放",
-        "url": "https://github.com/op7418/NanoBanana-PPT-Skills"
-    },
-    {
-        "name": "remotion-dev/skills",
-        "stars": 1020,
-        "desc": "Agent Skills",
-        "url": "https://github.com/remotion-dev/skills"
-    },
-    {
-        "name": "wrtnlabs/agentica",
-        "stars": 989,
-        "desc": "TypeScript AI AI Function Calling Framework enhanced by compiler skills.",
-        "url": "https://github.com/wrtnlabs/agentica"
-    },
-    {
-        "name": "itsmostafa/aws-agent-skills",
-        "stars": 978,
-        "desc": "AWS Skills for Agents",
-        "url": "https://github.com/itsmostafa/aws-agent-skills"
-    },
-    {
-        "name": "huangserva/skill-prompt-generator",
-        "stars": 946,
-        "desc": "这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制",
-        "url": "https://github.com/huangserva/skill-prompt-generator"
-    },
-    {
-        "name": "louisfb01/start-llms",
-        "stars": 922,
-        "desc": "A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
-        "url": "https://github.com/louisfb01/start-llms"
-    },
-    {
-        "name": "google-labs-code/stitch-skills",
-        "stars": 907,
-        "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-        "url": "https://github.com/google-labs-code/stitch-skills"
-    },
-    {
-        "name": "SynaLinks/synalinks-skills",
-        "stars": 894,
-        "desc": "Claude skills for Synalinks",
-        "url": "https://github.com/SynaLinks/synalinks-skills"
-    },
-    {
-        "name": "jarrodwatts/claude-code-config",
-        "stars": 884,
-        "desc": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands",
-        "url": "https://github.com/jarrodwatts/claude-code-config"
-    },
-    {
-        "name": "numman-ali/n-skills",
-        "stars": 866,
-        "desc": "Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills",
-        "url": "https://github.com/numman-ali/n-skills"
-    },
-    {
-        "name": "0xNyk/awesome-hermes-agent",
-        "stars": 826,
-        "desc": "Curated list of awesome skills, tools, integrations for Hermes Agent by Nous Research",
-        "url": "https://github.com/0xNyk/awesome-hermes-agent"
-    },
-    {
-        "name": "supabase/agent-skills",
-        "stars": 816,
-        "desc": "Agent Skills to help developers using AI agents with Supabase",
-        "url": "https://github.com/supabase/agent-skills"
-    },
-    {
-        "name": "antonbabenko/terraform-skill",
-        "stars": 787,
-        "desc": "The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns",
-        "url": "https://github.com/antonbabenko/terraform-skill"
-    },
-    {
-        "name": "op7418/Youtube-clipper-skill",
-        "stars": 783,
-        "desc": "YouTube video clipper skill for extracting and editing video segments",
-        "url": "https://github.com/op7418/Youtube-clipper-skill"
-    },
-    {
-        "name": "abdullahtarek/tennis_analysis",
-        "stars": 780,
-        "desc": "This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints. This hands on project is perfect for polishing your machine learning, and computer vision skills.",
-        "url": "https://github.com/abdullahtarek/tennis_analysis"
-    },
-    {
-        "name": "Prat011/awesome-llm-skills",
-        "stars": 767,
-        "desc": "A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents",
-        "url": "https://github.com/Prat011/awesome-llm-skills"
-    },
-    {
-        "name": "wrtnlabs/autobe",
-        "stars": 755,
-        "desc": "AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code",
-        "url": "https://github.com/wrtnlabs/autobe"
-    },
-    {
-        "name": "hyf0/vue-skills",
-        "stars": 753,
-        "desc": "Agent skills for Vue 3 development",
-        "url": "https://github.com/hyf0/vue-skills"
-    },
-    {
-        "name": "expo/skills",
-        "stars": 739,
-        "desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-        "url": "https://github.com/expo/skills"
-    },
-    {
-        "name": "callstackincubator/agent-skills",
-        "stars": 735,
-        "desc": "A collection of agent-optimized React Native skills for AI coding assistants.",
-        "url": "https://github.com/callstackincubator/agent-skills"
-    },
-    {
-        "name": "AvdLee/Swift-Concurrency-Agent-Skill",
-        "stars": 697,
-        "desc": "Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.",
-        "url": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill"
-    },
-    {
-        "name": "AvdLee/SwiftUI-Agent-Skill",
-        "stars": 678,
-        "desc": "Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).",
-        "url": "https://github.com/AvdLee/SwiftUI-Agent-Skill"
-    },
-    {
-        "name": "skillcreatorai/Ai-Agent-Skills",
-        "stars": 629,
-        "desc": "Homebrew for AI Agent Skills.",
-        "url": "https://github.com/skillcreatorai/Ai-Agent-Skills"
-    },
-    {
-        "name": "browserwing/browserwing",
-        "stars": 621,
-        "desc": "BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.",
-        "url": "https://github.com/browserwing/browserwing"
-    },
-    {
-        "name": "Ceeon/videocut-skills",
-        "stars": 606,
-        "desc": "用 Claude Code Skills 做的视频剪辑 Agent",
-        "url": "https://github.com/Ceeon/videocut-skills"
-    },
-    {
-        "name": "iannuttall/dotagents",
-        "stars": 558,
-        "desc": "One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.",
-        "url": "https://github.com/iannuttall/dotagents"
-    },
-    {
-        "name": "BrownFineSecurity/iothackbot",
-        "stars": 521,
-        "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting",
-        "url": "https://github.com/BrownFineSecurity/iothackbot"
-    },
-    {
-        "name": "skills-directory/skill-codex",
-        "stars": 507,
-        "desc": "A claude code skill to delegate prompts to codex",
-        "url": "https://github.com/skills-directory/skill-codex"
-    },
-    {
-        "name": "wshuyi/x-article-publisher-skill",
-        "stars": 506,
-        "desc": "Claude Code skill for publishing Markdown articles to X (Twitter) Articles",
-        "url": "https://github.com/wshuyi/x-article-publisher-skill"
-    },
-    {
-        "name": "daymade/claude-code-skills",
-        "stars": 506,
-        "desc": "Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.",
-        "url": "https://github.com/daymade/claude-code-skills"
-    },
-    {
-        "name": "adithya-s-k/manim_skill",
-        "stars": 497,
-        "desc": "Agent skills for Manim to create 3Blue1Brown style animations.",
-        "url": "https://github.com/adithya-s-k/manim_skill"
-    },
-    {
-        "name": "obra/superpowers-skills",
-        "stars": 491,
-        "desc": "Community-editable skills for Claude Code's superpowers plugin",
-        "url": "https://github.com/obra/superpowers-skills"
-    },
-    {
-        "name": "tripleyak/SkillForge",
-        "stars": 488,
-        "desc": "The ultimate meta-skill for generating best-in-class Claude Code skills.",
-        "url": "https://github.com/tripleyak/SkillForge"
-    },
-    {
-        "name": "tanweai/wooyun-legacy",
-        "stars": 471,
-        "desc": "wooyun-legacy skill for claude code ",
-        "url": "https://github.com/tanweai/wooyun-legacy"
-    },
-    {
-        "name": "ast-grep/agent-skill",
-        "stars": 461,
-        "desc": "",
-        "url": "https://github.com/ast-grep/agent-skill"
-    },
-    {
-        "name": "alirezarezvani/claude-code-tresor",
-        "stars": 459,
-        "desc": "A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow",
-        "url": "https://github.com/alirezarezvani/claude-code-tresor"
-    },
-    {
-        "name": "conorluddy/ios-simulator-skill",
-        "stars": 406,
-        "desc": "An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps, without using up any of the available token/context budget.",
-        "url": "https://github.com/conorluddy/ios-simulator-skill"
-    },
-    {
-        "name": "abubakarsiddik31/claude-skills-collection",
-        "stars": 406,
-        "desc": "A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.",
-        "url": "https://github.com/abubakarsiddik31/claude-skills-collection"
-    },
-    {
-        "name": "alirezarezvani/claude-code-skill-factory",
-        "stars": 394,
-        "desc": "Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.",
-        "url": "https://github.com/alirezarezvani/claude-code-skill-factory"
-    },
-    {
-        "name": "Kamalnrf/claude-plugins",
-        "stars": 392,
-        "desc": "Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent.",
-        "url": "https://github.com/Kamalnrf/claude-plugins"
-    },
-    {
-        "name": "snarktank/amp-skills",
-        "stars": 390,
-        "desc": "Collection of Amp AI coding agent skills for marketing, content, and development workflows",
-        "url": "https://github.com/snarktank/amp-skills"
-    },
-    {
-        "name": "fcakyon/claude-codex-settings",
-        "stars": 383,
-        "desc": "My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.",
-        "url": "https://github.com/fcakyon/claude-codex-settings"
-    },
-    {
-        "name": "jlevy/repren",
-        "stars": 368,
-        "desc": "Power rename/refactor tool (now with Claude Code skill support!)",
-        "url": "https://github.com/jlevy/repren"
-    },
-    {
-        "name": "kasperjunge/agent-resources",
-        "stars": 362,
-        "desc": "A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command.",
-        "url": "https://github.com/kasperjunge/agent-resources"
-    },
-    {
-        "name": "0xranx/OpenContext",
-        "stars": 359,
-        "desc": "A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.",
-        "url": "https://github.com/0xranx/OpenContext"
-    },
-    {
-        "name": "instavm/open-skills",
-        "stars": 340,
-        "desc": "OpenSkills: Run Claude Skills Locally using any LLM",
-        "url": "https://github.com/instavm/open-skills"
-    },
-    {
-        "name": "intellectronica/skillz",
-        "stars": 338,
-        "desc": "An MCP server for loading skills (shim for non-claude clients).",
-        "url": "https://github.com/intellectronica/skillz"
-    },
-    {
-        "name": "better-auth/better-icons",
-        "stars": 338,
-        "desc": "Skill and MCP server for searching and retrieving icons",
-        "url": "https://github.com/better-auth/better-icons"
-    },
-    {
-        "name": "CharlesWiltgen/Axiom",
-        "stars": 335,
-        "desc": "Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development",
-        "url": "https://github.com/CharlesWiltgen/Axiom"
-    },
-    {
-        "name": "softaworks/agent-toolkit",
-        "stars": 319,
-        "desc": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.",
-        "url": "https://github.com/softaworks/agent-toolkit"
-    },
-    {
-        "name": "K-Dense-AI/claude-skills-mcp",
-        "stars": 290,
-        "desc": "MCP server for searching and retrieving Claude Agent Skills using vector search",
-        "url": "https://github.com/K-Dense-AI/claude-skills-mcp"
-    },
-    {
-        "name": "opensolon/solon-ai",
-        "stars": 288,
-        "desc": "Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.",
-        "url": "https://github.com/opensolon/solon-ai"
-    },
-    {
-        "name": "ailabs-393/ai-labs-claude-skills",
-        "stars": 286,
-        "desc": "This package is use to remove the hustle of finding claudeskills and shift them into any of the user project. This project become a bridge between user's usage and claude skills ",
-        "url": "https://github.com/ailabs-393/ai-labs-claude-skills"
-    },
-    {
-        "name": "notedit/happy-skills",
-        "stars": 285,
-        "desc": "happy coding  agent",
-        "url": "https://github.com/notedit/happy-skills"
-    },
-    {
-        "name": "InternScience/Awesome-Scientific-Skills",
-        "stars": 278,
-        "desc": "Open, curated collection of Agent Skills for scientific research",
-        "url": "https://github.com/InternScience/Awesome-Scientific-Skills"
-    },
-    {
-        "name": "mhattingpete/claude-skills-marketplace",
-        "stars": 277,
-        "desc": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
-        "url": "https://github.com/mhattingpete/claude-skills-marketplace"
-    },
-    {
-        "name": "runkids/skillshare",
-        "stars": 276,
-        "desc": "📚 Sync skills to all your AI CLI tools with one command across Claude Code, Clawd Bot, OpenCode & more",
-        "url": "https://github.com/runkids/skillshare"
-    },
-    {
-        "name": "gotalab/skillport",
-        "stars": 273,
-        "desc": "Bring Agent Skills to Any AI Agent and Coding Agent — via CLI or MCP. Manage once, serve anywhere.",
-        "url": "https://github.com/gotalab/skillport"
-    },
-    {
-        "name": "benchflow-ai/skillsbench",
-        "stars": 273,
-        "desc": "SkillsBench evaluates how well skills work and how effective agents are at using them",
-        "url": "https://github.com/benchflow-ai/skillsbench"
-    },
-    {
-        "name": "MarkShawn2020/lovcode",
-        "stars": 272,
-        "desc": "A desktop companion app for AI coding tools. Browse Claude Code chat history, manage configurations, commands, skills, and more.",
-        "url": "https://github.com/MarkShawn2020/lovcode"
-    },
-    {
-        "name": "zippoxer/subtask",
-        "stars": 270,
-        "desc": "Claude Skill to do your tasks with subagents in Git worktrees",
-        "url": "https://github.com/zippoxer/subtask"
-    },
-    {
-        "name": "dgreenheck/webgpu-claude-skill",
-        "stars": 270,
-        "desc": "A Claude skill for developing WebGPU applications with Three.js",
-        "url": "https://github.com/dgreenheck/webgpu-claude-skill"
-    },
-    {
-        "name": "joeseesun/anything-to-notebooklm",
-        "stars": 269,
-        "desc": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
-        "url": "https://github.com/joeseesun/anything-to-notebooklm"
-    },
-    {
-        "name": "disler/agent-sandbox-skill",
-        "stars": 259,
-        "desc": "An agent skill for managing isolated execution environments",
-        "url": "https://github.com/disler/agent-sandbox-skill"
-    },
-    {
-        "name": "ginobefun/deep-reading-analyst-skill",
-        "stars": 255,
-        "desc": "A professional Claude AI skill for deep reading analysis",
-        "url": "https://github.com/ginobefun/deep-reading-analyst-skill"
-    },
-    {
-        "name": "TheDecipherist/claude-code-mastery",
-        "stars": 250,
-        "desc": "The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands",
-        "url": "https://github.com/TheDecipherist/claude-code-mastery"
-    },
-    {
-        "name": "scraperai/scraperai",
-        "stars": 243,
-        "desc": "ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.",
-        "url": "https://github.com/scraperai/scraperai"
-    },
-    {
-        "name": "iamzhihuix/happy-claude-skills",
-        "stars": 241,
-        "desc": "",
-        "url": "https://github.com/iamzhihuix/happy-claude-skills"
-    },
-    {
-        "name": "vercel-labs/next-skills",
-        "stars": 240,
-        "desc": "",
-        "url": "https://github.com/vercel-labs/next-skills"
-    },
-    {
-        "name": "YuJunZhiXue/github-skill-forge",
-        "stars": 240,
-        "desc": "一个\"制造技能的技能\"。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。",
-        "url": "https://github.com/YuJunZhiXue/github-skill-forge"
-    },
-    {
-        "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
-        "stars": 238,
-        "desc": "Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts.",
-        "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-    },
-    {
-        "name": "ramziddin/solid-skills",
-        "stars": 234,
-        "desc": "AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture",
-        "url": "https://github.com/ramziddin/solid-skills"
-    },
-    {
-        "name": "waynesutton/convexskills",
-        "stars": 232,
-        "desc": "AI agent skills and templates for building production ready apps with Convex. Patterns for queries, mutations, cron jobs, webhooks, migrations, and more.",
-        "url": "https://github.com/waynesutton/convexskills"
-    },
-    {
-        "name": "vueuse/skills",
-        "stars": 231,
-        "desc": "Agent Skills for VueUse",
-        "url": "https://github.com/vueuse/skills"
-    },
-    {
-        "name": "ComposioHQ/awesome-codex-skills",
-        "stars": 230,
-        "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-        "url": "https://github.com/ComposioHQ/awesome-codex-skills"
-    },
-    {
-        "name": "vstorm-co/pydantic-deepagents",
-        "stars": 229,
-        "desc": "Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.",
-        "url": "https://github.com/vstorm-co/pydantic-deepagents"
-    },
-    {
-        "name": "badlogic/pi-skills",
-        "stars": 228,
-        "desc": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
-        "url": "https://github.com/badlogic/pi-skills"
-    },
-    {
-        "name": "FrancyJGLisboa/agent-skill-creator",
-        "stars": 227,
-        "desc": "Meta-skill that teaches Claude Code to create complete agents with Claude Skills in a fully autonomous way!",
-        "url": "https://github.com/FrancyJGLisboa/agent-skill-creator"
-    },
-    {
-        "name": "komal-SkyNET/claude-skill-homeassistant",
-        "stars": 225,
-        "desc": "Claude Code skill to supercharge and manage all Home Assistant workflows",
-        "url": "https://github.com/komal-SkyNET/claude-skill-homeassistant"
-    },
-    {
-        "name": "jezweb/claude-skills",
-        "stars": 223,
-        "desc": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
-        "url": "https://github.com/jezweb/claude-skills"
-    },
-    {
-        "name": "granaje/alexa-ia-openai",
-        "stars": 223,
-        "desc": "La skill de Alexa con API de OpenAi",
-        "url": "https://github.com/granaje/alexa-ia-openai"
-    },
-    {
-        "name": "aj-geddes/claude-code-bmad-skills",
-        "stars": 218,
-        "desc": "BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment.",
-        "url": "https://github.com/aj-geddes/claude-code-bmad-skills"
-    },
-    {
-        "name": "guo-yu/skills",
-        "stars": 217,
-        "desc": "My collection of skills for productivity and automation.",
-        "url": "https://github.com/guo-yu/skills"
-    },
-    {
-        "name": "baibizhe/Awesome-Skills-Paper",
-        "stars": 213,
-        "desc": "Collection of papers on agent skills - academic research overview",
-        "url": "https://github.com/baibizhe/Awesome-Skills-Paper"
-    },
-    {
-        "name": "brucevanfdm/agent-skills-guard",
-        "stars": 211,
-        "desc": "一款提供Agent Skills安全扫描和可视化管理的桌面应用 | A desktop application that provides security scanning and visual management for Agent Skills.",
-        "url": "https://github.com/brucevanfdm/agent-skills-guard"
-    },
-    {
-        "name": "solana-foundation/solana-dev-skill",
-        "stars": 203,
-        "desc": "Claude Code skill for modern Solana development (Jan 2026 best practices)",
-        "url": "https://github.com/solana-foundation/solana-dev-skill"
-    },
-    {
-        "name": "chujianyun/skills",
-        "stars": 203,
-        "desc": "WuMing's Claude Skills",
-        "url": "https://github.com/chujianyun/skills"
-    },
-    {
-        "name": "runtime-org/runtime",
-        "stars": 198,
-        "desc": "Deterministic skills-based browser agent",
-        "url": "https://github.com/runtime-org/runtime"
-    },
-    {
-        "name": "coffeefuelbump/csv-data-summarizer-claude-skill",
-        "stars": 196,
-        "desc": "A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.",
-        "url": "https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill"
-    },
-    {
-        "name": "YYH211/Claude-meta-skill",
-        "stars": 190,
-        "desc": "A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.",
-        "url": "https://github.com/YYH211/Claude-meta-skill"
-    },
-    {
-        "name": "qufei1993/skills-hub",
-        "stars": 189,
-        "desc": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.",
-        "url": "https://github.com/qufei1993/skills-hub"
-    },
-    {
-        "name": "liangdabiao/Claude-Code-Deep-Research-main",
-        "stars": 184,
-        "desc": "利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现这个deep research，就知道哪个框架才是真厉害。",
-        "url": "https://github.com/liangdabiao/Claude-Code-Deep-Research-main"
-    },
-    {
-        "name": "Mng-dev-ai/claudex",
-        "stars": 184,
-        "desc": "Your own Claude Code UI, local/e2b/modal sandbox, in-browser VS Code, terminal, multi-provider support (Max, Z.AI, OpenRouter), custom skills, and MCP servers.",
-        "url": "https://github.com/Mng-dev-ai/claudex"
-    },
-    {
-        "name": "michalparkola/tapestry-skills-for-claude-code",
-        "stars": 183,
-        "desc": "Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)",
-        "url": "https://github.com/michalparkola/tapestry-skills-for-claude-code"
-    },
-    {
-        "name": "bowenliang123/md_exporter",
-        "stars": 174,
-        "desc": "An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.",
-        "url": "https://github.com/bowenliang123/md_exporter"
-    },
-    {
-        "name": "alonw0/web-asset-generator",
-        "stars": 171,
-        "desc": "Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.",
-        "url": "https://github.com/alonw0/web-asset-generator"
-    },
-    {
-        "name": "rmyndharis/antigravity-skills",
-        "stars": 169,
-        "desc": "A curated collection of Agent Skills for Google Antigravity",
-        "url": "https://github.com/rmyndharis/antigravity-skills"
-    },
-    {
-        "name": "rsmdt/the-startup",
-        "stars": 168,
-        "desc": "The Agentic Startup - A collection of Claude Code commands, skills, and agents.",
-        "url": "https://github.com/rsmdt/the-startup"
-    },
-    {
-        "name": "haunchen/n8n-skills",
-        "stars": 164,
-        "desc": "Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.",
-        "url": "https://github.com/haunchen/n8n-skills"
-    },
-    {
-        "name": "23blocks-OS/ai-maestro",
-        "stars": 164,
-        "desc": "AI Agent Orchestrator with Skills System - Give Claude Code agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Aider, Cursor from one dashboard. Multi-machine support.",
-        "url": "https://github.com/23blocks-OS/ai-maestro"
-    },
-    {
-        "name": "zarazhangrui/youtube-to-ebook",
-        "stars": 160,
-        "desc": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly",
-        "url": "https://github.com/zarazhangrui/youtube-to-ebook"
-    },
-    {
-        "name": "JayZeeDesign/awesome-claude-skills",
-        "stars": 160,
-        "desc": "",
-        "url": "https://github.com/JayZeeDesign/awesome-claude-skills"
-    },
-    {
-        "name": "getsentry/skills",
-        "stars": 159,
-        "desc": "Agent Skills used by the Sentry team for development.",
-        "url": "https://github.com/getsentry/skills"
-    },
-    {
-        "name": "Automattic/agent-skills",
-        "stars": 155,
-        "desc": "Agent Skills for WordPress - folders of instructions, scripts, and resources",
-        "url": "https://github.com/Automattic/agent-skills"
-    },
-    {
-        "name": "obra/superpowers-lab",
-        "stars": 154,
-        "desc": "Experimental skills for Claude Code Superpowers - new techniques and tools",
-        "url": "https://github.com/obra/superpowers-lab"
-    },
-    {
-        "name": "paulotruta/alexa-skill-llm-intent",
-        "stars": 152,
-        "desc": "Alexa Skill that provides turn based conversations with an AI LLM. Bringing AI to your Alexa, because Amazon doesn't.",
-        "url": "https://github.com/paulotruta/alexa-skill-llm-intent"
-    },
-    {
-        "name": "alexknowshtml/kuato",
-        "stars": 151,
-        "desc": "Built for Claude Code but works in any agent that supports skills, easily recall what you discussed with your favorite coding agents, what decisions you made, and where you left off so you can pick up where you left off as easily as asking \"where did we leave off on XYZ...\"",
-        "url": "https://github.com/alexknowshtml/kuato"
-    },
-    {
-        "name": "spences10/svelte-claude-skills",
-        "stars": 150,
-        "desc": "",
-        "url": "https://github.com/spences10/svelte-claude-skills"
-    },
-    {
-        "name": "forayconsulting/gemini_cli_skill",
-        "stars": 150,
-        "desc": "A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.",
-        "url": "https://github.com/forayconsulting/gemini_cli_skill"
-    },
-    {
-        "name": "abracadabra50/claude-code-voice-skill",
-        "stars": 149,
-        "desc": "Skill to talk to Claude about your projects over the phone",
-        "url": "https://github.com/abracadabra50/claude-code-voice-skill"
-    },
-    {
-        "name": "EthanYolo01/Awesome-OpenClaw",
-        "stars": 148,
-        "desc": "Carefully curated list of OpenClaw resources - Skills, Plugins, MCP, Tools",
-        "url": "https://github.com/EthanYolo01/Awesome-OpenClaw"
-    },
-    {
-        "name": "GPTomics/bioSkills",
-        "stars": 147,
-        "desc": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
-        "url": "https://github.com/GPTomics/bioSkills"
-    },
-    {
-        "name": "cncf/llm-in-action",
-        "stars": 146,
-        "desc": "🤖 Discover how to apply your LLM app skills on Kubernetes!",
-        "url": "https://github.com/cncf/llm-in-action"
-    },
-    {
-        "name": "intellectronica/agent-skills",
-        "stars": 144,
-        "desc": "@intellectronica's agent skills",
-        "url": "https://github.com/intellectronica/agent-skills"
-    },
-    {
-        "name": "proffesor-for-testing/agentic-qe",
-        "stars": 143,
-        "desc": "Agentic QE Fleet is an open-source AI-powered quality engineering platform designed for use with Claude Code, featuring specialized agents and skills to support testing activities for a product at any stage of the SDLC. Free to use, fork, build, and contribute. Based on the Agentic QE Framework created by Dragan Spiridonov.",
-        "url": "https://github.com/proffesor-for-testing/agentic-qe"
-    },
-    {
-        "name": "HoangNguyen0403/agent-skills-standard",
-        "stars": 143,
-        "desc": "A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages",
-        "url": "https://github.com/HoangNguyen0403/agent-skills-standard"
-    },
-    {
-        "name": "smallnest/goskills",
-        "stars": 142,
-        "desc": "A tool supports OPENAI and other LLMs with Claude Skills, you can also use it as a subagent",
-        "url": "https://github.com/smallnest/goskills"
-    },
-    {
-        "name": "analogjs/angular-skills",
-        "stars": 142,
-        "desc": "Agent Skills for Angular Developers",
-        "url": "https://github.com/analogjs/angular-skills"
-    },
-    {
-        "name": "alexfazio/cc-trace",
-        "stars": 142,
-        "desc": "Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy",
-        "url": "https://github.com/alexfazio/cc-trace"
-    },
-    {
-        "name": "whawkinsiv/claude-code-superpowers",
-        "stars": 140,
-        "desc": "Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).",
-        "url": "https://github.com/whawkinsiv/claude-code-superpowers"
-    },
-    {
-        "name": "sundial-org/skills",
-        "stars": 140,
-        "desc": "Claude Code Skills",
-        "url": "https://github.com/sundial-org/skills"
-    },
-    {
-        "name": "drewocarr/generate-shortcuts-skill",
-        "stars": 139,
-        "desc": "a little skill that explains the shortcuts plist format to claude",
-        "url": "https://github.com/drewocarr/generate-shortcuts-skill"
-    },
-    {
-        "name": "geekjourneyx/ai-daily-skill",
-        "stars": 138,
-        "desc": "AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯",
-        "url": "https://github.com/geekjourneyx/ai-daily-skill"
-    },
-    {
-        "name": "NTCoding/claude-skillz",
-        "stars": 135,
-        "desc": "Random Claude skills for common, simple programming tasks",
-        "url": "https://github.com/NTCoding/claude-skillz"
-    },
-    {
-        "name": "julianromli/ai-skills",
-        "stars": 134,
-        "desc": "Claude Code, Droid, etc. Skills Ability",
-        "url": "https://github.com/julianromli/ai-skills"
-    },
-    {
-        "name": "coleam00/second-brain-skills",
-        "stars": 133,
-        "desc": "A collection of Claude Skills to turn Claude Code into a Second Brain",
-        "url": "https://github.com/coleam00/second-brain-skills"
-    },
-    {
-        "name": "MapleShaw/yt-dlp-downloader-skill",
-        "stars": 133,
-        "desc": "Cursor Agent Skill for downloading videos using yt-dlp",
-        "url": "https://github.com/MapleShaw/yt-dlp-downloader-skill"
-    },
-    {
-        "name": "hancengiz/claude-code-prompt-coach-skill",
-        "stars": 130,
-        "desc": "",
-        "url": "https://github.com/hancengiz/claude-code-prompt-coach-skill"
-    },
-    {
-        "name": "Agent-3-7/agent37-skills-collection",
-        "stars": 130,
-        "desc": "Collection of useful Claude AI skills and commands",
-        "url": "https://github.com/Agent-3-7/agent37-skills-collection"
-    },
-    {
-        "name": "MassLab-SII/open-agent-skills",
-        "stars": 129,
-        "desc": "We are dedicated to building a set of open agent skills that deliver superior performance, higher determinism, and greater consistency on targeted tasks, while operating at a lower cost and with reduced context usage.",
-        "url": "https://github.com/MassLab-SII/open-agent-skills"
-    },
-    {
-        "name": "timedomain-tech/open-creator",
-        "stars": 128,
-        "desc": "An open-source LLM tool for extracting repeatable tasks from your conversations, and saving them into a customized skill library for retrieval.",
-        "url": "https://github.com/timedomain-tech/open-creator"
-    },
-    {
-        "name": "littleben/awesomeAgentskills",
-        "stars": 128,
-        "desc": "A curated collection of skills for Claude Code and other AI agents | 精选的 Claude Code 和其他 AI 智能体技能集合",
-        "url": "https://github.com/littleben/awesomeAgentskills"
-    },
-    {
-        "name": "aaron-he-zhu/seo-geo-claude-skills",
-        "stars": 128,
-        "desc": "A comprehensive collection of Claude Skills for Search Engine Optimization (SEO) and Generative Engine Optimization (GEO), organized around a proven methodology framework.",
-        "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
-    },
-    {
-        "name": "Jeffallan/claude-skills",
-        "stars": 127,
-        "desc": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-        "url": "https://github.com/Jeffallan/claude-skills"
-    },
-    {
-        "name": "Th0rgal/openagent",
-        "stars": 125,
-        "desc": "Self-hosted orchestrator for AI autonomous agents. Run Claude Code & Open Code in isolated linux workspaces. Manage your skills, configs and encrypted secrets with a git repo.",
-        "url": "https://github.com/Th0rgal/openagent"
-    },
-    {
-        "name": "disler/fork-repository-skill",
-        "stars": 124,
-        "desc": "Take your current agent running in your terminal and fork it N times to smoothly branch your engineering work.",
-        "url": "https://github.com/disler/fork-repository-skill"
-    },
-    {
-        "name": "aiskillstore/marketplace",
-        "stars": 124,
-        "desc": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-        "url": "https://github.com/aiskillstore/marketplace"
-    },
-    {
-        "name": "luwill/research-skills",
-        "stars": 122,
-        "desc": "Some commonly used research experiences and processes are encapsulated into Agent skills.",
-        "url": "https://github.com/luwill/research-skills"
-    },
-    {
-        "name": "distil-labs/distil-cli-skill",
-        "stars": 122,
-        "desc": "Claude skill for distil cli",
-        "url": "https://github.com/distil-labs/distil-cli-skill"
-    },
-    {
-        "name": "fr33d3m0n/skill-threat-modeling",
-        "stars": 121,
-        "desc": "Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment",
-        "url": "https://github.com/fr33d3m0n/skill-threat-modeling"
-    },
-    {
-        "name": "Hmbown/aleph",
-        "stars": 120,
-        "desc": "Skill + MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.",
-        "url": "https://github.com/Hmbown/aleph"
-    },
-    {
-        "name": "ancoleman/ai-design-components",
-        "stars": 119,
-        "desc": "Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude",
-        "url": "https://github.com/ancoleman/ai-design-components"
-    },
-    {
-        "name": "jdrhyne/agent-skills",
-        "stars": 118,
-        "desc": "A collection of AI agent skills for Clawdbot, Claude Code, Codex",
-        "url": "https://github.com/jdrhyne/agent-skills"
-    },
-    {
-        "name": "Gentleman-Programming/Gentleman-Skills",
-        "stars": 118,
-        "desc": "Community-driven AI agent skills for Claude Code, OpenCode, and other AI assistants. Curated patterns and community contributions.",
-        "url": "https://github.com/Gentleman-Programming/Gentleman-Skills"
-    },
-    {
-        "name": "yizhiyanhua-ai/skills-updater",
-        "stars": 115,
-        "desc": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。",
-        "url": "https://github.com/yizhiyanhua-ai/skills-updater"
-    },
-    {
-        "name": "fleurytian/awesome-claude-skills",
-        "stars": 115,
-        "desc": "Claude Skills developed for brain-workers. Dev by Fleury, an Ex-McKinsey and now AI product manager. 小红书/RedNote@如宝｜AI&Anlalytics. Email me @fleurytian@gmail.com",
-        "url": "https://github.com/fleurytian/awesome-claude-skills"
-    },
-    {
-        "name": "staruhub/ClaudeSkills",
-        "stars": 113,
-        "desc": "Some sharing on Claude Skills",
-        "url": "https://github.com/staruhub/ClaudeSkills"
-    },
-    {
-        "name": "VCnoC/Claude-Code-Zen-mcp-Skill-Work",
-        "stars": 112,
-        "desc": "关于这个事，我简单说两句，你明白就行，总而言之，这个事呢，现在就是这个情况，具体的呢，大家也都看得到，也得出来说那么几句，可能，你听的不是很明白，但是意思就是那么个意思，不知道的你也不用去猜，这种事情见得多了，我只想说懂得都懂，不懂的我也不多解释，毕竟自己知道就好，细细品吧。",
-        "url": "https://github.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work"
-    },
-    {
-        "name": "Microck/ordinary-claude-skills",
-        "stars": 112,
-        "desc": "An unappealing collection of Claude Skills and resources.",
-        "url": "https://github.com/Microck/ordinary-claude-skills"
-    },
-    {
-        "name": "GBSOSS/-mcp-to-skill-converter",
-        "stars": 112,
-        "desc": "   Convert any MCP server into a Claude Skill with 90% context savings",
-        "url": "https://github.com/GBSOSS/-mcp-to-skill-converter"
-    },
-    {
-        "name": "surapuramakhil-org/Job_search_agent",
-        "stars": 110,
-        "desc": "Job search Agent (AI) searches and applies to jobs on your behalf, creating tailored applications for positions that match your skills, making your entire job search hassle-free.",
-        "url": "https://github.com/surapuramakhil-org/Job_search_agent"
-    },
-    {
-        "name": "rodydavis/agent-skills-generator",
-        "stars": 110,
-        "desc": "Generate agent skills from website documentation",
-        "url": "https://github.com/rodydavis/agent-skills-generator"
-    },
-    {
-        "name": "feiskyer/codex-settings",
-        "stars": 110,
-        "desc": "OpenAI Codex CLI settings, configurations, skills and prompts for vibe coding",
-        "url": "https://github.com/feiskyer/codex-settings"
-    },
-    {
-        "name": "hashicorp/agent-skills",
-        "stars": 109,
-        "desc": "",
-        "url": "https://github.com/hashicorp/agent-skills"
-    },
-    {
-        "name": "OSU-NLP-Group/SkillWeaver",
-        "stars": 108,
-        "desc": "SkillWeaver is a framework to enable web agent self-improvement through environment exploration and skill synthesis.",
-        "url": "https://github.com/OSU-NLP-Group/SkillWeaver"
-    },
-    {
-        "name": "wlzh/skills",
-        "stars": 107,
-        "desc": "Claude Code Skills等集合",
-        "url": "https://github.com/wlzh/skills"
-    },
-    {
-        "name": "fewwwww/awesome-web3-skills",
-        "stars": 107,
-        "desc": "Curated list of awesome skills for agents in Web3 and crypto",
-        "url": "https://github.com/fewwwww/awesome-web3-skills"
-    },
-    {
-        "name": "tilework-tech/nori-skillsets",
-        "stars": 106,
-        "desc": "System for managing collections of agent skills. Switch between skillsets seamlessly!",
-        "url": "https://github.com/tilework-tech/nori-skillsets"
-    },
-    {
-        "name": "new-silvermoon/awesome-android-agent-skills",
-        "stars": 106,
-        "desc": "A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development (Kotlin, Jetpack Compose, etc.).",
-        "url": "https://github.com/new-silvermoon/awesome-android-agent-skills"
-    },
-    {
-        "name": "Wirasm/worktree-manager-skill",
-        "stars": 106,
-        "desc": "a claude code skill for effortless worktree management",
-        "url": "https://github.com/Wirasm/worktree-manager-skill"
-    },
-    {
-        "name": "zxkane/aws-skills",
-        "stars": 103,
-        "desc": "Claude Agent Skills for AWS",
-        "url": "https://github.com/zxkane/aws-skills"
-    },
-    {
-        "name": "jthack/ffuf_claude_skill",
-        "stars": 102,
-        "desc": "This is a \"skill\" for claude to use FFUF.",
-        "url": "https://github.com/jthack/ffuf_claude_skill"
-    },
-    {
-        "name": "ithiria894/awesome-claude-code-workflows",
-        "stars": 68,
-        "desc": "Curated workflow recipes combining hooks, MCP servers, skills, agents for Claude Code",
-        "url": "https://github.com/ithiria894/awesome-claude-code-workflows"
-    },
-    {
-        "name": "finfin/awesome-frontend-skills",
-        "stars": 64,
-        "desc": "Curated list of frontend Agent Skills installable via npx skills add",
-        "url": "https://github.com/finfin/awesome-frontend-skills"
-    },
-    {
-        "name": "Techopolis/awesome-ios-ai",
-        "stars": 54,
-        "desc": "AI agent skills, agent teams, MCP servers for Swift and iOS development",
-        "url": "https://github.com/Techopolis/awesome-ios-ai"
-    },
-    {
-        "name": "ZeroLu/awesome-openclaw",
-        "stars": 53,
-        "desc": "Curated collection of OpenClaw tutorials, skills, and use cases",
-        "url": "https://github.com/ZeroLu/awesome-openclaw"
-    },
-    {
-        "name": "bergside/awesome-design-skills",
-        "stars": 47,
-        "desc": "List of awesome design skill files for agentic tools like Claude, Codex, Gemini",
-        "url": "https://github.com/bergside/awesome-design-skills"
-    },
-    {
-        "name": "antvis/chart-visualization-skills",
-        "stars": 8,
-        "desc": "⛏️ Turning data into a visual language for better thinking with Skills - Official AntV visualization skills (4 skills: chart-visualization, icon-retrieval, infographic-creator, narrative-text-visualization)",
-        "url": "https://github.com/antvis/chart-visualization-skills"
-    },
-    {
-        "name": "moltbot/skills",
-        "stars": 0,
-        "desc": "Official Moltbot skills repository - Bot framework capabilities and integrations",
-        "url": "https://github.com/moltbot/skills"
-    }
+  {
+    "name": "anthropics/skills",
+    "stars": 56124,
+    "desc": "Public repository for Agent Skills",
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "name": "obra/superpowers",
+    "stars": 38315,
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "affaan-m/everything-claude-code",
+    "stars": 32880,
+    "desc": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.",
+    "url": "https://github.com/affaan-m/everything-claude-code"
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills",
+    "stars": 27053,
+    "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "stars": 24171,
+    "desc": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
+  },
+  {
+    "name": "googleworkspace/cli",
+    "stars": 23803,
+    "desc": "Google Workspace CLI - one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "url": "https://github.com/googleworkspace/cli"
+  },
+  {
+    "name": "hesreallyhim/awesome-claude-code",
+    "stars": 22083,
+    "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "name": "vercel-labs/agent-skills",
+    "stars": 17249,
+    "desc": "Vercel's official collection of agent skills",
+    "url": "https://github.com/vercel-labs/agent-skills"
+  },
+  {
+    "name": "tanweai/pua",
+    "stars": 15061,
+    "desc": "An AI agent skill with high agency and motivation. An agent placed on a PIP (Performance Improvement Plan) - 30 days to show improvement.",
+    "url": "https://github.com/tanweai/pua"
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "stars": 14778,
+    "desc": "Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+    "url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "name": "jackwener/opencli",
+    "stars": 13037,
+    "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime for AI Agents to discover, learn, and execute tools via unified AGENT.md integration.",
+    "url": "https://github.com/jackwener/opencli"
+  },
+  {
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 11616,
+    "desc": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
+    "name": "sanbuphy/learn-coding-agent",
+    "stars": 11265,
+    "desc": "Research on Coding Agents - systematic study of AI coding agent capabilities, limitations, and improvement strategies.",
+    "url": "https://github.com/sanbuphy/learn-coding-agent"
+  },
+  {
+    "name": "MiniMax-AI/skills",
+    "stars": 9198,
+    "desc": "Multi-platform AI agent skills repository supporting Claude Code, Codex, Cursor, and OpenCode. Includes skills directory and plugins for major AI coding platforms.",
+    "url": "https://github.com/MiniMax-AI/skills"
+  },
+  {
+    "name": "diet103/claude-code-infrastructure-showcase",
+    "stars": 8654,
+    "desc": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
+    "url": "https://github.com/diet103/claude-code-infrastructure-showcase"
+  },
+  {
+    "name": "VoltAgent/awesome-design-md",
+    "stars": 8624,
+    "desc": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
+    "url": "https://github.com/VoltAgent/awesome-design-md"
+  },
+  {
+    "name": "kepano/obsidian-skills",
+    "stars": 8415,
+    "desc": "Agent skills for Obsidian",
+    "url": "https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "stars": 8243,
+    "desc": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers"
+  },
+  {
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "stars": 7879,
+    "desc": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering"
+  },
+  {
+    "name": "Lum1104/Understand-Anything",
+    "stars": 7790,
+    "desc": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform support (Claude Code, Codex).",
+    "url": "https://github.com/Lum1104/Understand-Anything"
+  },
+  {
+    "name": "agentskills/agentskills",
+    "stars": 7599,
+    "desc": "Specification and documentation for Agent Skills",
+    "url": "https://github.com/agentskills/agentskills"
+  },
+  {
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "stars": 7300,
+    "desc": "A set of ready to use scientific skills for Claude",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills"
+  },
+  {
+    "name": "numman-ali/openskills",
+    "stars": 7276,
+    "desc": "Universal skills loader for AI coding agents - npm i -g openskills",
+    "url": "https://github.com/numman-ali/openskills"
+  },
+  {
+    "name": "obra/superpowers",
+    "stars": 6421,
+    "desc": "Agentic skills framework & software development methodology",
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "name": "travisvn/awesome-claude-skills",
+    "stars": 6094,
+    "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+    "url": "https://github.com/travisvn/awesome-claude-skills"
+  },
+  {
+    "name": "ChrisWiles/claude-code-showcase",
+    "stars": 5124,
+    "desc": "Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows",
+    "url": "https://github.com/ChrisWiles/claude-code-showcase"
+  },
+  {
+    "name": "coreyhaines31/marketingskills",
+    "stars": 5021,
+    "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "name": "sickn33/antigravity-awesome-skills",
+    "stars": 4730,
+    "desc": "1,370+ installable agentic skills for Claude Code, Cursor, Codex, Gemini CLI",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills"
+  },
+  {
+    "name": "eastlondoner/vibe-tools",
+    "stars": 4684,
+    "desc": "Give Cursor Agent an AI Team and Advanced Skills",
+    "url": "https://github.com/eastlondoner/vibe-tools"
+  },
+  {
+    "name": "sickn33/antigravity-awesome-skills",
+    "stars": 4554,
+    "desc": "The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills"
+  },
+  {
+    "name": "VoltAgent/awesome-claude-skills",
+    "stars": 4382,
+    "desc": "The awesome collection of Claude Skills and resources.",
+    "url": "https://github.com/VoltAgent/awesome-claude-skills"
+  },
+  {
+    "name": "BehiSecc/awesome-claude-skills",
+    "stars": 4292,
+    "desc": "A curated list of Claude Skills.",
+    "url": "https://github.com/BehiSecc/awesome-claude-skills"
+  },
+  {
+    "name": "antvis/mcp-server-chart",
+    "stars": 3582,
+    "desc": "🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.",
+    "url": "https://github.com/antvis/mcp-server-chart"
+  },
+  {
+    "name": "blader/humanizer",
+    "stars": 3367,
+    "desc": "Claude Code skill that removes signs of AI-generated writing from text",
+    "url": "https://github.com/blader/humanizer"
+  },
+  {
+    "name": "SawyerHood/dev-browser",
+    "stars": 3282,
+    "desc": "A Claude Skill to give your agent the ability to use a web browser",
+    "url": "https://github.com/SawyerHood/dev-browser"
+  },
+  {
+    "name": "zebbern/claude-code-guide",
+    "stars": 3225,
+    "desc": "Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!",
+    "url": "https://github.com/zebbern/claude-code-guide"
+  },
+  {
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "stars": 3152,
+    "desc": "Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve.",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode"
+  },
+  {
+    "name": "VoltAgent/awesome-agent-skills",
+    "stars": 3100,
+    "desc": "Claude Code Skills and 1000+ agent skills, cross-platform compatible",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "name": "JimLiu/baoyu-skills",
+    "stars": 2962,
+    "desc": "宝鱼技能 - Baoyu Skills. Chinese AI agent skills collection with various capabilities.",
+    "url": "https://github.com/JimLiu/baoyu-skills"
+  },
+  {
+    "name": "vercel-labs/skills",
+    "stars": 2864,
+    "desc": "The open agent skills tool - npx skills",
+    "url": "https://github.com/vercel-labs/skills"
+  },
+  {
+    "name": "kepano/obsidian-skills",
+    "stars": 2800,
+    "desc": "Agent skills for Obsidian: Markdown, Canvas, JSON, and CLI usage",
+    "url": "https://github.com/kepano/obsidian-skills"
+  },
+  {
+    "name": "PleasePrompto/notebooklm-skill",
+    "stars": 2796,
+    "desc": "Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base.",
+    "url": "https://github.com/PleasePrompto/notebooklm-skill"
+  },
+  {
+    "name": "glitternetwork/pinme",
+    "stars": 2643,
+    "desc": "Deploy Your Frontend in a Single Command. Claude Code Skills supported.",
+    "url": "https://github.com/glitternetwork/pinme"
+  },
+  {
+    "name": "casibase/casibase",
+    "stars": 2600,
+    "desc": "Enterprise AI OS: AI knowledge base with MCP/A2A management platform",
+    "url": "https://github.com/casibase/casibase"
+  },
+  {
+    "name": "davepoon/buildwithclaude",
+    "stars": 2322,
+    "desc": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code",
+    "url": "https://github.com/davepoon/buildwithclaude"
+  },
+  {
+    "name": "VoltAgent/awesome-moltbot-skills",
+    "stars": 2267,
+    "desc": "The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)",
+    "url": "https://github.com/VoltAgent/awesome-moltbot-skills"
+  },
+  {
+    "name": "czlonkowski/n8n-skills",
+    "stars": 2236,
+    "desc": "n8n skillset for Claude Code to build flawless n8n workflows",
+    "url": "https://github.com/czlonkowski/n8n-skills"
+  },
+  {
+    "name": "openai/skills",
+    "stars": 2115,
+    "desc": "Skills Catalog for Codex",
+    "url": "https://github.com/openai/skills"
+  },
+  {
+    "name": "trailofbits/skills",
+    "stars": 2097,
+    "desc": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+    "url": "https://github.com/trailofbits/skills"
+  },
+  {
+    "name": "op7418/Humanizer-zh",
+    "stars": 1755,
+    "desc": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
+    "url": "https://github.com/op7418/Humanizer-zh"
+  },
+  {
+    "name": "heilcheng/awesome-agent-skills",
+    "stars": 1750,
+    "desc": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)",
+    "url": "https://github.com/heilcheng/awesome-agent-skills"
+  },
+  {
+    "name": "zechenzhangAGI/AI-research-SKILLs",
+    "stars": 1660,
+    "desc": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research.",
+    "url": "https://github.com/zechenzhangAGI/AI-research-SKILLs"
+  },
+  {
+    "name": "GuDaStudio/skills",
+    "stars": 1630,
+    "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools.",
+    "url": "https://github.com/GuDaStudio/skills"
+  },
+  {
+    "name": "lackeyjb/playwright-skill",
+    "stars": 1495,
+    "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
+    "url": "https://github.com/lackeyjb/playwright-skill"
+  },
+  {
+    "name": "mrgoonie/claudekit-skills",
+    "stars": 1483,
+    "desc": "All powerful skills of ClaudeKit.cc!",
+    "url": "https://github.com/mrgoonie/claudekit-skills"
+  },
+  {
+    "name": "blader/Claudeception",
+    "stars": 1475,
+    "desc": "A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.",
+    "url": "https://github.com/blader/Claudeception"
+  },
+  {
+    "name": "timescale/pg-aiguide",
+    "stars": 1454,
+    "desc": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
+    "url": "https://github.com/timescale/pg-aiguide"
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "stars": 1426,
+    "desc": "A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads",
+    "url": "https://github.com/alirezarezvani/claude-skills"
+  },
+  {
+    "name": "libukai/awesome-agent-skills",
+    "stars": 1309,
+    "desc": "Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies",
+    "url": "https://github.com/libukai/awesome-agent-skills"
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "stars": 1237,
+    "desc": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts",
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "name": "CloudAI-X/claude-workflow-v2",
+    "stars": 1214,
+    "desc": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands",
+    "url": "https://github.com/CloudAI-X/claude-workflow-v2"
+  },
+  {
+    "name": "K-Dense-AI/claude-scientific-skills",
+    "stars": 1200,
+    "desc": "Ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing",
+    "url": "https://github.com/K-Dense-AI/claude-scientific-skills"
+  },
+  {
+    "name": "jeremylongshore/claude-code-plugins-plus-skills",
+    "stars": 1094,
+    "desc": "Hundreds of Claude Code plugins with embedded AI skills. Learn via interactive Jupyter tutorials.",
+    "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
+  },
+  {
+    "name": "huggingface/skills",
+    "stars": 1067,
+    "desc": "HuggingFace agent skills for AI and ML model integration",
+    "url": "https://github.com/huggingface/skills"
+  },
+  {
+    "name": "axtonliu/axton-obsidian-visual-skills",
+    "stars": 1039,
+    "desc": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code",
+    "url": "https://github.com/axtonliu/axton-obsidian-visual-skills"
+  },
+  {
+    "name": "gadievron/raptor",
+    "stars": 1028,
+    "desc": "Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.",
+    "url": "https://github.com/gadievron/raptor"
+  },
+  {
+    "name": "op7418/NanoBanana-PPT-Skills",
+    "stars": 1024,
+    "desc": "NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放",
+    "url": "https://github.com/op7418/NanoBanana-PPT-Skills"
+  },
+  {
+    "name": "remotion-dev/skills",
+    "stars": 1020,
+    "desc": "Agent Skills",
+    "url": "https://github.com/remotion-dev/skills"
+  },
+  {
+    "name": "wrtnlabs/agentica",
+    "stars": 989,
+    "desc": "TypeScript AI AI Function Calling Framework enhanced by compiler skills.",
+    "url": "https://github.com/wrtnlabs/agentica"
+  },
+  {
+    "name": "itsmostafa/aws-agent-skills",
+    "stars": 978,
+    "desc": "AWS Skills for Agents",
+    "url": "https://github.com/itsmostafa/aws-agent-skills"
+  },
+  {
+    "name": "huangserva/skill-prompt-generator",
+    "stars": 946,
+    "desc": "这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制",
+    "url": "https://github.com/huangserva/skill-prompt-generator"
+  },
+  {
+    "name": "louisfb01/start-llms",
+    "stars": 922,
+    "desc": "A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
+    "url": "https://github.com/louisfb01/start-llms"
+  },
+  {
+    "name": "google-labs-code/stitch-skills",
+    "stars": 907,
+    "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "name": "SynaLinks/synalinks-skills",
+    "stars": 894,
+    "desc": "Claude skills for Synalinks",
+    "url": "https://github.com/SynaLinks/synalinks-skills"
+  },
+  {
+    "name": "jarrodwatts/claude-code-config",
+    "stars": 884,
+    "desc": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands",
+    "url": "https://github.com/jarrodwatts/claude-code-config"
+  },
+  {
+    "name": "numman-ali/n-skills",
+    "stars": 866,
+    "desc": "Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills",
+    "url": "https://github.com/numman-ali/n-skills"
+  },
+  {
+    "name": "0xNyk/awesome-hermes-agent",
+    "stars": 826,
+    "desc": "Curated list of awesome skills, tools, integrations for Hermes Agent by Nous Research",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent"
+  },
+  {
+    "name": "supabase/agent-skills",
+    "stars": 816,
+    "desc": "Agent Skills to help developers using AI agents with Supabase",
+    "url": "https://github.com/supabase/agent-skills"
+  },
+  {
+    "name": "antonbabenko/terraform-skill",
+    "stars": 787,
+    "desc": "The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns",
+    "url": "https://github.com/antonbabenko/terraform-skill"
+  },
+  {
+    "name": "op7418/Youtube-clipper-skill",
+    "stars": 783,
+    "desc": "YouTube video clipper skill for extracting and editing video segments",
+    "url": "https://github.com/op7418/Youtube-clipper-skill"
+  },
+  {
+    "name": "abdullahtarek/tennis_analysis",
+    "stars": 780,
+    "desc": "This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints. This hands on project is perfect for polishing your machine learning, and computer vision skills.",
+    "url": "https://github.com/abdullahtarek/tennis_analysis"
+  },
+  {
+    "name": "Prat011/awesome-llm-skills",
+    "stars": 767,
+    "desc": "A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents",
+    "url": "https://github.com/Prat011/awesome-llm-skills"
+  },
+  {
+    "name": "wrtnlabs/autobe",
+    "stars": 755,
+    "desc": "AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code",
+    "url": "https://github.com/wrtnlabs/autobe"
+  },
+  {
+    "name": "hyf0/vue-skills",
+    "stars": 753,
+    "desc": "Agent skills for Vue 3 development",
+    "url": "https://github.com/hyf0/vue-skills"
+  },
+  {
+    "name": "expo/skills",
+    "stars": 739,
+    "desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "url": "https://github.com/expo/skills"
+  },
+  {
+    "name": "callstackincubator/agent-skills",
+    "stars": 735,
+    "desc": "A collection of agent-optimized React Native skills for AI coding assistants.",
+    "url": "https://github.com/callstackincubator/agent-skills"
+  },
+  {
+    "name": "AvdLee/Swift-Concurrency-Agent-Skill",
+    "stars": 697,
+    "desc": "Add expert Swift Concurrency guidance to your AI coding tool (Agent Skills open format): safe concurrency, performance optimization, and Swift 6 migration.",
+    "url": "https://github.com/AvdLee/Swift-Concurrency-Agent-Skill"
+  },
+  {
+    "name": "AvdLee/SwiftUI-Agent-Skill",
+    "stars": 678,
+    "desc": "Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).",
+    "url": "https://github.com/AvdLee/SwiftUI-Agent-Skill"
+  },
+  {
+    "name": "skillcreatorai/Ai-Agent-Skills",
+    "stars": 629,
+    "desc": "Homebrew for AI Agent Skills.",
+    "url": "https://github.com/skillcreatorai/Ai-Agent-Skills"
+  },
+  {
+    "name": "browserwing/browserwing",
+    "stars": 621,
+    "desc": "BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.",
+    "url": "https://github.com/browserwing/browserwing"
+  },
+  {
+    "name": "Ceeon/videocut-skills",
+    "stars": 606,
+    "desc": "用 Claude Code Skills 做的视频剪辑 Agent",
+    "url": "https://github.com/Ceeon/videocut-skills"
+  },
+  {
+    "name": "iannuttall/dotagents",
+    "stars": 558,
+    "desc": "One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files.",
+    "url": "https://github.com/iannuttall/dotagents"
+  },
+  {
+    "name": "BrownFineSecurity/iothackbot",
+    "stars": 521,
+    "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting",
+    "url": "https://github.com/BrownFineSecurity/iothackbot"
+  },
+  {
+    "name": "skills-directory/skill-codex",
+    "stars": 507,
+    "desc": "A claude code skill to delegate prompts to codex",
+    "url": "https://github.com/skills-directory/skill-codex"
+  },
+  {
+    "name": "wshuyi/x-article-publisher-skill",
+    "stars": 506,
+    "desc": "Claude Code skill for publishing Markdown articles to X (Twitter) Articles",
+    "url": "https://github.com/wshuyi/x-article-publisher-skill"
+  },
+  {
+    "name": "daymade/claude-code-skills",
+    "stars": 506,
+    "desc": "Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.",
+    "url": "https://github.com/daymade/claude-code-skills"
+  },
+  {
+    "name": "adithya-s-k/manim_skill",
+    "stars": 497,
+    "desc": "Agent skills for Manim to create 3Blue1Brown style animations.",
+    "url": "https://github.com/adithya-s-k/manim_skill"
+  },
+  {
+    "name": "obra/superpowers-skills",
+    "stars": 491,
+    "desc": "Community-editable skills for Claude Code's superpowers plugin",
+    "url": "https://github.com/obra/superpowers-skills"
+  },
+  {
+    "name": "tripleyak/SkillForge",
+    "stars": 488,
+    "desc": "The ultimate meta-skill for generating best-in-class Claude Code skills.",
+    "url": "https://github.com/tripleyak/SkillForge"
+  },
+  {
+    "name": "tanweai/wooyun-legacy",
+    "stars": 471,
+    "desc": "wooyun-legacy skill for claude code ",
+    "url": "https://github.com/tanweai/wooyun-legacy"
+  },
+  {
+    "name": "ast-grep/agent-skill",
+    "stars": 461,
+    "desc": "",
+    "url": "https://github.com/ast-grep/agent-skill"
+  },
+  {
+    "name": "alirezarezvani/claude-code-tresor",
+    "stars": 459,
+    "desc": "A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow",
+    "url": "https://github.com/alirezarezvani/claude-code-tresor"
+  },
+  {
+    "name": "conorluddy/ios-simulator-skill",
+    "stars": 406,
+    "desc": "An IOS Simulator Skill for ClaudeCode. Use it to optimise Claude's ability to build, run and interact with your apps, without using up any of the available token/context budget.",
+    "url": "https://github.com/conorluddy/ios-simulator-skill"
+  },
+  {
+    "name": "abubakarsiddik31/claude-skills-collection",
+    "stars": 406,
+    "desc": "A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.",
+    "url": "https://github.com/abubakarsiddik31/claude-skills-collection"
+  },
+  {
+    "name": "alirezarezvani/claude-code-skill-factory",
+    "stars": 394,
+    "desc": "Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup.",
+    "url": "https://github.com/alirezarezvani/claude-code-skill-factory"
+  },
+  {
+    "name": "Kamalnrf/claude-plugins",
+    "stars": 392,
+    "desc": "Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent.",
+    "url": "https://github.com/Kamalnrf/claude-plugins"
+  },
+  {
+    "name": "snarktank/amp-skills",
+    "stars": 390,
+    "desc": "Collection of Amp AI coding agent skills for marketing, content, and development workflows",
+    "url": "https://github.com/snarktank/amp-skills"
+  },
+  {
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 383,
+    "desc": "My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily.",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "name": "johnson7788/MultiAgentPPT",
+    "stars": 380,
+    "desc": "Multi-agent PPT generation system with A2A + MCP + ADK architecture",
+    "url": "https://github.com/johnson7788/MultiAgentPPT"
+  },
+  {
+    "name": "jlevy/repren",
+    "stars": 368,
+    "desc": "Power rename/refactor tool (now with Claude Code skill support!)",
+    "url": "https://github.com/jlevy/repren"
+  },
+  {
+    "name": "kasperjunge/agent-resources",
+    "stars": 362,
+    "desc": "A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command.",
+    "url": "https://github.com/kasperjunge/agent-resources"
+  },
+  {
+    "name": "0xranx/OpenContext",
+    "stars": 359,
+    "desc": "A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.",
+    "url": "https://github.com/0xranx/OpenContext"
+  },
+  {
+    "name": "instavm/open-skills",
+    "stars": 340,
+    "desc": "OpenSkills: Run Claude Skills Locally using any LLM",
+    "url": "https://github.com/instavm/open-skills"
+  },
+  {
+    "name": "intellectronica/skillz",
+    "stars": 338,
+    "desc": "An MCP server for loading skills (shim for non-claude clients).",
+    "url": "https://github.com/intellectronica/skillz"
+  },
+  {
+    "name": "better-auth/better-icons",
+    "stars": 338,
+    "desc": "Skill and MCP server for searching and retrieving icons",
+    "url": "https://github.com/better-auth/better-icons"
+  },
+  {
+    "name": "CharlesWiltgen/Axiom",
+    "stars": 335,
+    "desc": "Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development",
+    "url": "https://github.com/CharlesWiltgen/Axiom"
+  },
+  {
+    "name": "softaworks/agent-toolkit",
+    "stars": 319,
+    "desc": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.",
+    "url": "https://github.com/softaworks/agent-toolkit"
+  },
+  {
+    "name": "K-Dense-AI/claude-skills-mcp",
+    "stars": 290,
+    "desc": "MCP server for searching and retrieving Claude Agent Skills using vector search",
+    "url": "https://github.com/K-Dense-AI/claude-skills-mcp"
+  },
+  {
+    "name": "opensolon/solon-ai",
+    "stars": 288,
+    "desc": "Java AI application development framework (supports LLM-tool,skill; RAG; MCP; Agent-ReAct,Team-Agent). Compatible with java8 ~ java25. It can also be embedded in SpringBoot, jFinal, Vert.x, Quarkus, and other frameworks.",
+    "url": "https://github.com/opensolon/solon-ai"
+  },
+  {
+    "name": "ailabs-393/ai-labs-claude-skills",
+    "stars": 286,
+    "desc": "This package is use to remove the hustle of finding claudeskills and shift them into any of the user project. This project become a bridge between user's usage and claude skills ",
+    "url": "https://github.com/ailabs-393/ai-labs-claude-skills"
+  },
+  {
+    "name": "notedit/happy-skills",
+    "stars": 285,
+    "desc": "happy coding  agent",
+    "url": "https://github.com/notedit/happy-skills"
+  },
+  {
+    "name": "InternScience/Awesome-Scientific-Skills",
+    "stars": 278,
+    "desc": "Open, curated collection of Agent Skills for scientific research",
+    "url": "https://github.com/InternScience/Awesome-Scientific-Skills"
+  },
+  {
+    "name": "mhattingpete/claude-skills-marketplace",
+    "stars": 277,
+    "desc": "Claude Code Skills for software engineering workflows - Git automation, testing, and code review",
+    "url": "https://github.com/mhattingpete/claude-skills-marketplace"
+  },
+  {
+    "name": "runkids/skillshare",
+    "stars": 276,
+    "desc": "📚 Sync skills to all your AI CLI tools with one command across Claude Code, Clawd Bot, OpenCode & more",
+    "url": "https://github.com/runkids/skillshare"
+  },
+  {
+    "name": "gotalab/skillport",
+    "stars": 273,
+    "desc": "Bring Agent Skills to Any AI Agent and Coding Agent — via CLI or MCP. Manage once, serve anywhere.",
+    "url": "https://github.com/gotalab/skillport"
+  },
+  {
+    "name": "benchflow-ai/skillsbench",
+    "stars": 273,
+    "desc": "SkillsBench evaluates how well skills work and how effective agents are at using them",
+    "url": "https://github.com/benchflow-ai/skillsbench"
+  },
+  {
+    "name": "MarkShawn2020/lovcode",
+    "stars": 272,
+    "desc": "A desktop companion app for AI coding tools. Browse Claude Code chat history, manage configurations, commands, skills, and more.",
+    "url": "https://github.com/MarkShawn2020/lovcode"
+  },
+  {
+    "name": "zippoxer/subtask",
+    "stars": 270,
+    "desc": "Claude Skill to do your tasks with subagents in Git worktrees",
+    "url": "https://github.com/zippoxer/subtask"
+  },
+  {
+    "name": "dgreenheck/webgpu-claude-skill",
+    "stars": 270,
+    "desc": "A Claude skill for developing WebGPU applications with Three.js",
+    "url": "https://github.com/dgreenheck/webgpu-claude-skill"
+  },
+  {
+    "name": "joeseesun/anything-to-notebooklm",
+    "stars": 269,
+    "desc": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+    "url": "https://github.com/joeseesun/anything-to-notebooklm"
+  },
+  {
+    "name": "disler/agent-sandbox-skill",
+    "stars": 259,
+    "desc": "An agent skill for managing isolated execution environments",
+    "url": "https://github.com/disler/agent-sandbox-skill"
+  },
+  {
+    "name": "ginobefun/deep-reading-analyst-skill",
+    "stars": 255,
+    "desc": "A professional Claude AI skill for deep reading analysis",
+    "url": "https://github.com/ginobefun/deep-reading-analyst-skill"
+  },
+  {
+    "name": "TheDecipherist/claude-code-mastery",
+    "stars": 250,
+    "desc": "The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands",
+    "url": "https://github.com/TheDecipherist/claude-code-mastery"
+  },
+  {
+    "name": "scraperai/scraperai",
+    "stars": 243,
+    "desc": "ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels.",
+    "url": "https://github.com/scraperai/scraperai"
+  },
+  {
+    "name": "iamzhihuix/happy-claude-skills",
+    "stars": 241,
+    "desc": "",
+    "url": "https://github.com/iamzhihuix/happy-claude-skills"
+  },
+  {
+    "name": "vercel-labs/next-skills",
+    "stars": 240,
+    "desc": "",
+    "url": "https://github.com/vercel-labs/next-skills"
+  },
+  {
+    "name": "YuJunZhiXue/github-skill-forge",
+    "stars": 240,
+    "desc": "一个\"制造技能的技能\"。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。",
+    "url": "https://github.com/YuJunZhiXue/github-skill-forge"
+  },
+  {
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "stars": 238,
+    "desc": "Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts.",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+  },
+  {
+    "name": "ramziddin/solid-skills",
+    "stars": 234,
+    "desc": "AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture",
+    "url": "https://github.com/ramziddin/solid-skills"
+  },
+  {
+    "name": "waynesutton/convexskills",
+    "stars": 232,
+    "desc": "AI agent skills and templates for building production ready apps with Convex. Patterns for queries, mutations, cron jobs, webhooks, migrations, and more.",
+    "url": "https://github.com/waynesutton/convexskills"
+  },
+  {
+    "name": "vueuse/skills",
+    "stars": 231,
+    "desc": "Agent Skills for VueUse",
+    "url": "https://github.com/vueuse/skills"
+  },
+  {
+    "name": "ComposioHQ/awesome-codex-skills",
+    "stars": 230,
+    "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills"
+  },
+  {
+    "name": "vstorm-co/pydantic-deepagents",
+    "stars": 229,
+    "desc": "Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.",
+    "url": "https://github.com/vstorm-co/pydantic-deepagents"
+  },
+  {
+    "name": "badlogic/pi-skills",
+    "stars": 228,
+    "desc": "Skills for pi coding agent (compatible with Claude Code and Codex CLI)",
+    "url": "https://github.com/badlogic/pi-skills"
+  },
+  {
+    "name": "FrancyJGLisboa/agent-skill-creator",
+    "stars": 227,
+    "desc": "Meta-skill that teaches Claude Code to create complete agents with Claude Skills in a fully autonomous way!",
+    "url": "https://github.com/FrancyJGLisboa/agent-skill-creator"
+  },
+  {
+    "name": "komal-SkyNET/claude-skill-homeassistant",
+    "stars": 225,
+    "desc": "Claude Code skill to supercharge and manage all Home Assistant workflows",
+    "url": "https://github.com/komal-SkyNET/claude-skill-homeassistant"
+  },
+  {
+    "name": "jezweb/claude-skills",
+    "stars": 223,
+    "desc": "Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations.",
+    "url": "https://github.com/jezweb/claude-skills"
+  },
+  {
+    "name": "granaje/alexa-ia-openai",
+    "stars": 223,
+    "desc": "La skill de Alexa con API de OpenAi",
+    "url": "https://github.com/granaje/alexa-ia-openai"
+  },
+  {
+    "name": "aj-geddes/claude-code-bmad-skills",
+    "stars": 218,
+    "desc": "BMAD Method skills for Claude Code - Auto-detection, Memory integration, Slash commands. Transform Claude Code into a BMAD-powered development environment.",
+    "url": "https://github.com/aj-geddes/claude-code-bmad-skills"
+  },
+  {
+    "name": "guo-yu/skills",
+    "stars": 217,
+    "desc": "My collection of skills for productivity and automation.",
+    "url": "https://github.com/guo-yu/skills"
+  },
+  {
+    "name": "baibizhe/Awesome-Skills-Paper",
+    "stars": 213,
+    "desc": "Collection of papers on agent skills - academic research overview",
+    "url": "https://github.com/baibizhe/Awesome-Skills-Paper"
+  },
+  {
+    "name": "brucevanfdm/agent-skills-guard",
+    "stars": 211,
+    "desc": "一款提供Agent Skills安全扫描和可视化管理的桌面应用 | A desktop application that provides security scanning and visual management for Agent Skills.",
+    "url": "https://github.com/brucevanfdm/agent-skills-guard"
+  },
+  {
+    "name": "neka-nat/freecad-mcp",
+    "stars": 210,
+    "desc": "FreeCAD MCP server for parametric 3D modeling via MCP protocol",
+    "url": "https://github.com/neka-nat/freecad-mcp"
+  },
+  {
+    "name": "solana-foundation/solana-dev-skill",
+    "stars": 203,
+    "desc": "Claude Code skill for modern Solana development (Jan 2026 best practices)",
+    "url": "https://github.com/solana-foundation/solana-dev-skill"
+  },
+  {
+    "name": "chujianyun/skills",
+    "stars": 203,
+    "desc": "WuMing's Claude Skills",
+    "url": "https://github.com/chujianyun/skills"
+  },
+  {
+    "name": "runtime-org/runtime",
+    "stars": 198,
+    "desc": "Deterministic skills-based browser agent",
+    "url": "https://github.com/runtime-org/runtime"
+  },
+  {
+    "name": "coffeefuelbump/csv-data-summarizer-claude-skill",
+    "stars": 196,
+    "desc": "A Claude Skill that automatically analyzes uploaded CSV files — generating summary statistics, detecting missing data, and creating quick visualizations using Python and pandas.",
+    "url": "https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill"
+  },
+  {
+    "name": "YYH211/Claude-meta-skill",
+    "stars": 190,
+    "desc": "A curated collection of reusable skills for Claude Code. Enhance Claude's capabilities with ready-to-use skill modules including comprehensive guides, templates, and best practices for creating your own skills.",
+    "url": "https://github.com/YYH211/Claude-meta-skill"
+  },
+  {
+    "name": "qufei1993/skills-hub",
+    "stars": 189,
+    "desc": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.",
+    "url": "https://github.com/qufei1993/skills-hub"
+  },
+  {
+    "name": "liangdabiao/Claude-Code-Deep-Research-main",
+    "stars": 184,
+    "desc": "利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现这个deep research，就知道哪个框架才是真厉害。",
+    "url": "https://github.com/liangdabiao/Claude-Code-Deep-Research-main"
+  },
+  {
+    "name": "Mng-dev-ai/claudex",
+    "stars": 184,
+    "desc": "Your own Claude Code UI, local/e2b/modal sandbox, in-browser VS Code, terminal, multi-provider support (Max, Z.AI, OpenRouter), custom skills, and MCP servers.",
+    "url": "https://github.com/Mng-dev-ai/claudex"
+  },
+  {
+    "name": "michalparkola/tapestry-skills-for-claude-code",
+    "stars": 183,
+    "desc": "Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)",
+    "url": "https://github.com/michalparkola/tapestry-skills-for-claude-code"
+  },
+  {
+    "name": "bowenliang123/md_exporter",
+    "stars": 174,
+    "desc": "An Agent Skill and Dify plugin to transform Markdown to files of DOCX, PPTX, XLSX, PNG, PDF, Mermaid, HTML, MD, CSV, JSON, XML.",
+    "url": "https://github.com/bowenliang123/md_exporter"
+  },
+  {
+    "name": "alonw0/web-asset-generator",
+    "stars": 171,
+    "desc": "Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration.",
+    "url": "https://github.com/alonw0/web-asset-generator"
+  },
+  {
+    "name": "rmyndharis/antigravity-skills",
+    "stars": 169,
+    "desc": "A curated collection of Agent Skills for Google Antigravity",
+    "url": "https://github.com/rmyndharis/antigravity-skills"
+  },
+  {
+    "name": "rsmdt/the-startup",
+    "stars": 168,
+    "desc": "The Agentic Startup - A collection of Claude Code commands, skills, and agents.",
+    "url": "https://github.com/rsmdt/the-startup"
+  },
+  {
+    "name": "haunchen/n8n-skills",
+    "stars": 164,
+    "desc": "Designed specifically for AI assistants, the n8n Workflow Automation Skills Suite.",
+    "url": "https://github.com/haunchen/n8n-skills"
+  },
+  {
+    "name": "23blocks-OS/ai-maestro",
+    "stars": 164,
+    "desc": "AI Agent Orchestrator with Skills System - Give Claude Code agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude, Aider, Cursor from one dashboard. Multi-machine support.",
+    "url": "https://github.com/23blocks-OS/ai-maestro"
+  },
+  {
+    "name": "zarazhangrui/youtube-to-ebook",
+    "stars": 160,
+    "desc": "Claude skill for turning YouTube transcripts from your favorite channels into EPUB ebooks, delivered to your email inbox regularly",
+    "url": "https://github.com/zarazhangrui/youtube-to-ebook"
+  },
+  {
+    "name": "JayZeeDesign/awesome-claude-skills",
+    "stars": 160,
+    "desc": "",
+    "url": "https://github.com/JayZeeDesign/awesome-claude-skills"
+  },
+  {
+    "name": "getsentry/skills",
+    "stars": 159,
+    "desc": "Agent Skills used by the Sentry team for development.",
+    "url": "https://github.com/getsentry/skills"
+  },
+  {
+    "name": "Automattic/agent-skills",
+    "stars": 155,
+    "desc": "Agent Skills for WordPress - folders of instructions, scripts, and resources",
+    "url": "https://github.com/Automattic/agent-skills"
+  },
+  {
+    "name": "obra/superpowers-lab",
+    "stars": 154,
+    "desc": "Experimental skills for Claude Code Superpowers - new techniques and tools",
+    "url": "https://github.com/obra/superpowers-lab"
+  },
+  {
+    "name": "paulotruta/alexa-skill-llm-intent",
+    "stars": 152,
+    "desc": "Alexa Skill that provides turn based conversations with an AI LLM. Bringing AI to your Alexa, because Amazon doesn't.",
+    "url": "https://github.com/paulotruta/alexa-skill-llm-intent"
+  },
+  {
+    "name": "alexknowshtml/kuato",
+    "stars": 151,
+    "desc": "Built for Claude Code but works in any agent that supports skills, easily recall what you discussed with your favorite coding agents, what decisions you made, and where you left off so you can pick up where you left off as easily as asking \"where did we leave off on XYZ...\"",
+    "url": "https://github.com/alexknowshtml/kuato"
+  },
+  {
+    "name": "spences10/svelte-claude-skills",
+    "stars": 150,
+    "desc": "",
+    "url": "https://github.com/spences10/svelte-claude-skills"
+  },
+  {
+    "name": "forayconsulting/gemini_cli_skill",
+    "stars": 150,
+    "desc": "A Claude Code skill enabling Claude to use Gemini 3 Pro via Gemini CLI.",
+    "url": "https://github.com/forayconsulting/gemini_cli_skill"
+  },
+  {
+    "name": "abracadabra50/claude-code-voice-skill",
+    "stars": 149,
+    "desc": "Skill to talk to Claude about your projects over the phone",
+    "url": "https://github.com/abracadabra50/claude-code-voice-skill"
+  },
+  {
+    "name": "EthanYolo01/Awesome-OpenClaw",
+    "stars": 148,
+    "desc": "Carefully curated list of OpenClaw resources - Skills, Plugins, MCP, Tools",
+    "url": "https://github.com/EthanYolo01/Awesome-OpenClaw"
+  },
+  {
+    "name": "GPTomics/bioSkills",
+    "stars": 147,
+    "desc": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
+    "url": "https://github.com/GPTomics/bioSkills"
+  },
+  {
+    "name": "cncf/llm-in-action",
+    "stars": 146,
+    "desc": "🤖 Discover how to apply your LLM app skills on Kubernetes!",
+    "url": "https://github.com/cncf/llm-in-action"
+  },
+  {
+    "name": "intellectronica/agent-skills",
+    "stars": 144,
+    "desc": "@intellectronica's agent skills",
+    "url": "https://github.com/intellectronica/agent-skills"
+  },
+  {
+    "name": "proffesor-for-testing/agentic-qe",
+    "stars": 143,
+    "desc": "Agentic QE Fleet is an open-source AI-powered quality engineering platform designed for use with Claude Code, featuring specialized agents and skills to support testing activities for a product at any stage of the SDLC. Free to use, fork, build, and contribute. Based on the Agentic QE Framework created by Dragan Spiridonov.",
+    "url": "https://github.com/proffesor-for-testing/agentic-qe"
+  },
+  {
+    "name": "HoangNguyen0403/agent-skills-standard",
+    "stars": 143,
+    "desc": "A collection of Agent Skills Standard and Best Practice for Programming Languages, Frameworks that help our AI Agent follow best practies on frameworks and programming laguages",
+    "url": "https://github.com/HoangNguyen0403/agent-skills-standard"
+  },
+  {
+    "name": "smallnest/goskills",
+    "stars": 142,
+    "desc": "A tool supports OPENAI and other LLMs with Claude Skills, you can also use it as a subagent",
+    "url": "https://github.com/smallnest/goskills"
+  },
+  {
+    "name": "analogjs/angular-skills",
+    "stars": 142,
+    "desc": "Agent Skills for Angular Developers",
+    "url": "https://github.com/analogjs/angular-skills"
+  },
+  {
+    "name": "alexfazio/cc-trace",
+    "stars": 142,
+    "desc": "Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy",
+    "url": "https://github.com/alexfazio/cc-trace"
+  },
+  {
+    "name": "whawkinsiv/claude-code-superpowers",
+    "stars": 140,
+    "desc": "Complete software development lifecycle skills optimized for non-technical founders building SaaS applications with AI tools (Lovable, Replit, Claude Code).",
+    "url": "https://github.com/whawkinsiv/claude-code-superpowers"
+  },
+  {
+    "name": "sundial-org/skills",
+    "stars": 140,
+    "desc": "Claude Code Skills",
+    "url": "https://github.com/sundial-org/skills"
+  },
+  {
+    "name": "drewocarr/generate-shortcuts-skill",
+    "stars": 139,
+    "desc": "a little skill that explains the shortcuts plist format to claude",
+    "url": "https://github.com/drewocarr/generate-shortcuts-skill"
+  },
+  {
+    "name": "geekjourneyx/ai-daily-skill",
+    "stars": 138,
+    "desc": "AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯",
+    "url": "https://github.com/geekjourneyx/ai-daily-skill"
+  },
+  {
+    "name": "NTCoding/claude-skillz",
+    "stars": 135,
+    "desc": "Random Claude skills for common, simple programming tasks",
+    "url": "https://github.com/NTCoding/claude-skillz"
+  },
+  {
+    "name": "julianromli/ai-skills",
+    "stars": 134,
+    "desc": "Claude Code, Droid, etc. Skills Ability",
+    "url": "https://github.com/julianromli/ai-skills"
+  },
+  {
+    "name": "coleam00/second-brain-skills",
+    "stars": 133,
+    "desc": "A collection of Claude Skills to turn Claude Code into a Second Brain",
+    "url": "https://github.com/coleam00/second-brain-skills"
+  },
+  {
+    "name": "MapleShaw/yt-dlp-downloader-skill",
+    "stars": 133,
+    "desc": "Cursor Agent Skill for downloading videos using yt-dlp",
+    "url": "https://github.com/MapleShaw/yt-dlp-downloader-skill"
+  },
+  {
+    "name": "hancengiz/claude-code-prompt-coach-skill",
+    "stars": 130,
+    "desc": "",
+    "url": "https://github.com/hancengiz/claude-code-prompt-coach-skill"
+  },
+  {
+    "name": "Agent-3-7/agent37-skills-collection",
+    "stars": 130,
+    "desc": "Collection of useful Claude AI skills and commands",
+    "url": "https://github.com/Agent-3-7/agent37-skills-collection"
+  },
+  {
+    "name": "MassLab-SII/open-agent-skills",
+    "stars": 129,
+    "desc": "We are dedicated to building a set of open agent skills that deliver superior performance, higher determinism, and greater consistency on targeted tasks, while operating at a lower cost and with reduced context usage.",
+    "url": "https://github.com/MassLab-SII/open-agent-skills"
+  },
+  {
+    "name": "timedomain-tech/open-creator",
+    "stars": 128,
+    "desc": "An open-source LLM tool for extracting repeatable tasks from your conversations, and saving them into a customized skill library for retrieval.",
+    "url": "https://github.com/timedomain-tech/open-creator"
+  },
+  {
+    "name": "littleben/awesomeAgentskills",
+    "stars": 128,
+    "desc": "A curated collection of skills for Claude Code and other AI agents | 精选的 Claude Code 和其他 AI 智能体技能集合",
+    "url": "https://github.com/littleben/awesomeAgentskills"
+  },
+  {
+    "name": "aaron-he-zhu/seo-geo-claude-skills",
+    "stars": 128,
+    "desc": "A comprehensive collection of Claude Skills for Search Engine Optimization (SEO) and Generative Engine Optimization (GEO), organized around a proven methodology framework.",
+    "url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills"
+  },
+  {
+    "name": "Jeffallan/claude-skills",
+    "stars": 127,
+    "desc": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+    "url": "https://github.com/Jeffallan/claude-skills"
+  },
+  {
+    "name": "Th0rgal/openagent",
+    "stars": 125,
+    "desc": "Self-hosted orchestrator for AI autonomous agents. Run Claude Code & Open Code in isolated linux workspaces. Manage your skills, configs and encrypted secrets with a git repo.",
+    "url": "https://github.com/Th0rgal/openagent"
+  },
+  {
+    "name": "disler/fork-repository-skill",
+    "stars": 124,
+    "desc": "Take your current agent running in your terminal and fork it N times to smoothly branch your engineering work.",
+    "url": "https://github.com/disler/fork-repository-skill"
+  },
+  {
+    "name": "aiskillstore/marketplace",
+    "stars": 124,
+    "desc": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "name": "luwill/research-skills",
+    "stars": 122,
+    "desc": "Some commonly used research experiences and processes are encapsulated into Agent skills.",
+    "url": "https://github.com/luwill/research-skills"
+  },
+  {
+    "name": "distil-labs/distil-cli-skill",
+    "stars": 122,
+    "desc": "Claude skill for distil cli",
+    "url": "https://github.com/distil-labs/distil-cli-skill"
+  },
+  {
+    "name": "fr33d3m0n/skill-threat-modeling",
+    "stars": 121,
+    "desc": "Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment",
+    "url": "https://github.com/fr33d3m0n/skill-threat-modeling"
+  },
+  {
+    "name": "Hmbown/aleph",
+    "stars": 120,
+    "desc": "Skill + MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.",
+    "url": "https://github.com/Hmbown/aleph"
+  },
+  {
+    "name": "ancoleman/ai-design-components",
+    "stars": 119,
+    "desc": "Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude",
+    "url": "https://github.com/ancoleman/ai-design-components"
+  },
+  {
+    "name": "jdrhyne/agent-skills",
+    "stars": 118,
+    "desc": "A collection of AI agent skills for Clawdbot, Claude Code, Codex",
+    "url": "https://github.com/jdrhyne/agent-skills"
+  },
+  {
+    "name": "Gentleman-Programming/Gentleman-Skills",
+    "stars": 118,
+    "desc": "Community-driven AI agent skills for Claude Code, OpenCode, and other AI assistants. Curated patterns and community contributions.",
+    "url": "https://github.com/Gentleman-Programming/Gentleman-Skills"
+  },
+  {
+    "name": "yizhiyanhua-ai/skills-updater",
+    "stars": 115,
+    "desc": "Manage, update, and discover Claude Code skills. 管理、更新和发现 Claude Code 技能。",
+    "url": "https://github.com/yizhiyanhua-ai/skills-updater"
+  },
+  {
+    "name": "fleurytian/awesome-claude-skills",
+    "stars": 115,
+    "desc": "Claude Skills developed for brain-workers. Dev by Fleury, an Ex-McKinsey and now AI product manager. 小红书/RedNote@如宝｜AI&Anlalytics. Email me @fleurytian@gmail.com",
+    "url": "https://github.com/fleurytian/awesome-claude-skills"
+  },
+  {
+    "name": "staruhub/ClaudeSkills",
+    "stars": 113,
+    "desc": "Some sharing on Claude Skills",
+    "url": "https://github.com/staruhub/ClaudeSkills"
+  },
+  {
+    "name": "VCnoC/Claude-Code-Zen-mcp-Skill-Work",
+    "stars": 112,
+    "desc": "关于这个事，我简单说两句，你明白就行，总而言之，这个事呢，现在就是这个情况，具体的呢，大家也都看得到，也得出来说那么几句，可能，你听的不是很明白，但是意思就是那么个意思，不知道的你也不用去猜，这种事情见得多了，我只想说懂得都懂，不懂的我也不多解释，毕竟自己知道就好，细细品吧。",
+    "url": "https://github.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work"
+  },
+  {
+    "name": "Microck/ordinary-claude-skills",
+    "stars": 112,
+    "desc": "An unappealing collection of Claude Skills and resources.",
+    "url": "https://github.com/Microck/ordinary-claude-skills"
+  },
+  {
+    "name": "GBSOSS/-mcp-to-skill-converter",
+    "stars": 112,
+    "desc": "   Convert any MCP server into a Claude Skill with 90% context savings",
+    "url": "https://github.com/GBSOSS/-mcp-to-skill-converter"
+  },
+  {
+    "name": "surapuramakhil-org/Job_search_agent",
+    "stars": 110,
+    "desc": "Job search Agent (AI) searches and applies to jobs on your behalf, creating tailored applications for positions that match your skills, making your entire job search hassle-free.",
+    "url": "https://github.com/surapuramakhil-org/Job_search_agent"
+  },
+  {
+    "name": "rodydavis/agent-skills-generator",
+    "stars": 110,
+    "desc": "Generate agent skills from website documentation",
+    "url": "https://github.com/rodydavis/agent-skills-generator"
+  },
+  {
+    "name": "feiskyer/codex-settings",
+    "stars": 110,
+    "desc": "OpenAI Codex CLI settings, configurations, skills and prompts for vibe coding",
+    "url": "https://github.com/feiskyer/codex-settings"
+  },
+  {
+    "name": "hashicorp/agent-skills",
+    "stars": 109,
+    "desc": "",
+    "url": "https://github.com/hashicorp/agent-skills"
+  },
+  {
+    "name": "OSU-NLP-Group/SkillWeaver",
+    "stars": 108,
+    "desc": "SkillWeaver is a framework to enable web agent self-improvement through environment exploration and skill synthesis.",
+    "url": "https://github.com/OSU-NLP-Group/SkillWeaver"
+  },
+  {
+    "name": "wlzh/skills",
+    "stars": 107,
+    "desc": "Claude Code Skills等集合",
+    "url": "https://github.com/wlzh/skills"
+  },
+  {
+    "name": "fewwwww/awesome-web3-skills",
+    "stars": 107,
+    "desc": "Curated list of awesome skills for agents in Web3 and crypto",
+    "url": "https://github.com/fewwwww/awesome-web3-skills"
+  },
+  {
+    "name": "tilework-tech/nori-skillsets",
+    "stars": 106,
+    "desc": "System for managing collections of agent skills. Switch between skillsets seamlessly!",
+    "url": "https://github.com/tilework-tech/nori-skillsets"
+  },
+  {
+    "name": "new-silvermoon/awesome-android-agent-skills",
+    "stars": 106,
+    "desc": "A collection of standardized Agent Skills to teach GitHub Copilot & Claude about modern Android development (Kotlin, Jetpack Compose, etc.).",
+    "url": "https://github.com/new-silvermoon/awesome-android-agent-skills"
+  },
+  {
+    "name": "Wirasm/worktree-manager-skill",
+    "stars": 106,
+    "desc": "a claude code skill for effortless worktree management",
+    "url": "https://github.com/Wirasm/worktree-manager-skill"
+  },
+  {
+    "name": "zxkane/aws-skills",
+    "stars": 103,
+    "desc": "Claude Agent Skills for AWS",
+    "url": "https://github.com/zxkane/aws-skills"
+  },
+  {
+    "name": "jthack/ffuf_claude_skill",
+    "stars": 102,
+    "desc": "This is a \"skill\" for claude to use FFUF.",
+    "url": "https://github.com/jthack/ffuf_claude_skill"
+  },
+  {
+    "name": "ithiria894/awesome-claude-code-workflows",
+    "stars": 68,
+    "desc": "Curated workflow recipes combining hooks, MCP servers, skills, agents for Claude Code",
+    "url": "https://github.com/ithiria894/awesome-claude-code-workflows"
+  },
+  {
+    "name": "finfin/awesome-frontend-skills",
+    "stars": 64,
+    "desc": "Curated list of frontend Agent Skills installable via npx skills add",
+    "url": "https://github.com/finfin/awesome-frontend-skills"
+  },
+  {
+    "name": "Techopolis/awesome-ios-ai",
+    "stars": 54,
+    "desc": "AI agent skills, agent teams, MCP servers for Swift and iOS development",
+    "url": "https://github.com/Techopolis/awesome-ios-ai"
+  },
+  {
+    "name": "ZeroLu/awesome-openclaw",
+    "stars": 53,
+    "desc": "Curated collection of OpenClaw tutorials, skills, and use cases",
+    "url": "https://github.com/ZeroLu/awesome-openclaw"
+  },
+  {
+    "name": "bergside/awesome-design-skills",
+    "stars": 47,
+    "desc": "List of awesome design skill files for agentic tools like Claude, Codex, Gemini",
+    "url": "https://github.com/bergside/awesome-design-skills"
+  },
+  {
+    "name": "antvis/chart-visualization-skills",
+    "stars": 8,
+    "desc": "⛏️ Turning data into a visual language for better thinking with Skills - Official AntV visualization skills (4 skills: chart-visualization, icon-retrieval, infographic-creator, narrative-text-visualization)",
+    "url": "https://github.com/antvis/chart-visualization-skills"
+  },
+  {
+    "name": "moltbot/skills",
+    "stars": 0,
+    "desc": "Official Moltbot skills repository - Bot framework capabilities and integrations",
+    "url": "https://github.com/moltbot/skills"
+  }
 ]
