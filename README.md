@@ -9,7 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **229** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **239** AI agent skill repositories and frameworks (100+ stars)
 >
 > 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-06
 
@@ -90,7 +90,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 229
+- **Total Repositories**: 239
 - **Total Skills Analyzed**: 3,900+ skills from 85+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
@@ -277,31 +277,37 @@ Multi-agent workflows and orchestration systems.
 
 Collections of specialized Claude Code skills.
 
-1. [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - ⭐ 7879 | 📊 19 skills
+1. [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - ⭐ 8488 ⏰2026-04-08
+   - Karpathy-inspired LLM coding principles as Claude Code plugin: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution. A methodology-driven skill that guides LLM behavior through goals rather than instructions.
+
+2. [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - ⭐ 4251 ⏰2026-04-08
+   - Claude Code SEO content creation workspace with 26 marketing skills, multi-agent pipeline (Content Analyzer, SEO Optimizer, CRO Analyst), and GA4/GSC/DataForSEO integration. Complete end-to-end SEO workflow from research to WordPress publishing.
+
+3. [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - ⭐ 7879 | 📊 19 skills
    - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-2. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) - ⭐ 9198 ⏰2026-03-17
+4. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) - ⭐ 9198 ⏰2026-03-17
    - Multi-platform AI agent skills repository supporting Claude Code, Codex, Cursor, and OpenCode. Includes skills directory and plugins for major AI coding platforms.
 
-3. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1483 | 📊 41 skills
+5. [mrgoonie/claudekit-skills](https://github.com/mrgoonie/claudekit-skills) - ⭐ 1483 | 📊 41 skills
    - All powerful skills of ClaudeKit.cc!
 
-3. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 1426 | 📊 42 skills
+6. [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 1426 | 📊 42 skills
    - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
 
-4. [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - ⭐ 1094
+7. [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) - ⭐ 1094
    - Hundreds of Claude Code plugins with embedded AI skills. Learn via interactive Jupyter tutorials.
 
-5. [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - ⭐ 127 | 📊 65 skills
+8. [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - ⭐ 127 | 📊 65 skills
    - 65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 
-6. [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz) - ⭐ 135 | 📊 21 skills
+9. [NTCoding/claude-skillz](https://github.com/NTCoding/claude-skillz) - ⭐ 135 | 📊 21 skills
    - Random Claude skills for common, simple programming tasks
 
-7. [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) - ⭐ 112 | 📊 1,993 skills 🔥
+10. [Microck/ordinary-claude-skills](https://github.com/Microck/ordinary-claude-skills) - ⭐ 112 | 📊 1,993 skills 🔥
    - The largest collection of Claude Skills and resources (1,993 skills). Comprehensive coverage across all development domains.
 
-8. [staruhub/ClaudeSkills](https://github.com/staruhub/ClaudeSkills) - ⭐ 113
+11. [staruhub/ClaudeSkills](https://github.com/staruhub/ClaudeSkills) - ⭐ 113
    - Some sharing on Claude Skills
 ---
 

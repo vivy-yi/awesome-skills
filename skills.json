@@ -1420,5 +1420,17 @@
     "stars": 0,
     "desc": "Official Moltbot skills repository - Bot framework capabilities and integrations",
     "url": "https://github.com/moltbot/skills"
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "stars": 8488,
+    "desc": "Karpathy-inspired LLM coding principles as Claude Code plugin: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "stars": 4251,
+    "desc": "Claude Code SEO content creation workspace with 26 marketing skills, multi-agent pipeline, and GA4/GSC/DataForSEO integration",
+    "url": "https://github.com/TheCraigHewitt/seomachine"
   }
 ]
