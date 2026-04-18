@@ -96,6 +96,12 @@
     "url": "https://github.com/VoltAgent/awesome-design-md"
   },
   {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "stars": 8488,
+    "desc": "Karpathy-inspired LLM coding principles as Claude Code plugin: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+  },
+  {
     "name": "kepano/obsidian-skills",
     "stars": 8415,
     "desc": "Agent skills for Obsidian",
@@ -190,6 +196,18 @@
     "stars": 4292,
     "desc": "A curated list of Claude Skills.",
     "url": "https://github.com/BehiSecc/awesome-claude-skills"
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "stars": 4251,
+    "desc": "Claude Code SEO content creation workspace with 26 marketing skills, multi-agent pipeline, and GA4/GSC/DataForSEO integration",
+    "url": "https://github.com/TheCraigHewitt/seomachine"
+  },
+  {
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "stars": 3611,
+    "desc": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph"
   },
   {
     "name": "antvis/mcp-server-chart",
@@ -552,6 +570,12 @@
     "url": "https://github.com/iannuttall/dotagents"
   },
   {
+    "name": "labarba/sciwrite",
+    "stars": 526,
+    "desc": "Agent Skill for AI-assisted manuscript writing review, based on Dr. Kristin Sainani's 'Writing in the Sciences' methodology.",
+    "url": "https://github.com/labarba/sciwrite"
+  },
+  {
     "name": "BrownFineSecurity/iothackbot",
     "stars": 521,
     "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting",
@@ -622,6 +646,12 @@
     "stars": 406,
     "desc": "A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.",
     "url": "https://github.com/abubakarsiddik31/claude-skills-collection"
+  },
+  {
+    "name": "codejunkie99/agentic-stack",
+    "stars": 400,
+    "desc": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python.",
+    "url": "https://github.com/codejunkie99/agentic-stack"
   },
   {
     "name": "alirezarezvani/claude-code-skill-factory",
@@ -700,6 +730,12 @@
     "stars": 319,
     "desc": "A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.",
     "url": "https://github.com/softaworks/agent-toolkit"
+  },
+  {
+    "name": "yzddmr6/repo-analyzer",
+    "stars": 292,
+    "desc": "AI coding agent skill for deep architectural analysis of open-source projects. 一句话生成专业级分析报告",
+    "url": "https://github.com/yzddmr6/repo-analyzer"
   },
   {
     "name": "K-Dense-AI/claude-skills-mcp",
@@ -828,6 +864,12 @@
     "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
   },
   {
+    "name": "millionco/debug-agent",
+    "stars": 235,
+    "desc": "Debugging skill for AI agents",
+    "url": "https://github.com/millionco/debug-agent"
+  },
+  {
     "name": "ramziddin/solid-skills",
     "stars": 234,
     "desc": "AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture",
@@ -918,6 +960,12 @@
     "url": "https://github.com/neka-nat/freecad-mcp"
   },
   {
+    "name": "liyupi/yupi-skill",
+    "stars": 206,
+    "desc": "程序员鱼皮 Agent Skill | 把自己蒸馏成 AI 技能包，用我的思维方式和表达风格回答编程学习、求职面试、AI 编程、简历优化、技术选型、创业经验等问题。支持 Claude Code / Cursor / OpenClaw",
+    "url": "https://github.com/liyupi/yupi-skill"
+  },
+  {
     "name": "solana-foundation/solana-dev-skill",
     "stars": 203,
     "desc": "Claude Code skill for modern Solana development (Jan 2026 best practices)",
@@ -970,6 +1018,18 @@
     "stars": 183,
     "desc": "Claude Code skills to download sources (articles, PDFs, YouTube video transcripts)",
     "url": "https://github.com/michalparkola/tapestry-skills-for-claude-code"
+  },
+  {
+    "name": "yaklang/hack-skills",
+    "stars": 183,
+    "desc": "Helping AI Agent become an awesome practical hacker! Security research skills for yaklang AI agents.",
+    "url": "https://github.com/yaklang/hack-skills"
+  },
+  {
+    "name": "AgentSkillOS/SkillAnything",
+    "stars": 180,
+    "desc": "Making ANY Software Skill-Native -- Auto-generate production-ready AI Agent Skills for Claude Code, OpenClaw, Codex, and more.",
+    "url": "https://github.com/AgentSkillOS/SkillAnything"
   },
   {
     "name": "bowenliang123/md_exporter",
@@ -1038,6 +1098,12 @@
     "url": "https://github.com/obra/superpowers-lab"
   },
   {
+    "name": "twwch/comfyui-workflow-skill",
+    "stars": 154,
+    "desc": "Natural language → ComfyUI workflow JSON. 34 built-in templates, 360+ node definitions. Supports txt2img, img2vid, audio, 3D generation across SD1.5/SDXL/SD3/FLUX/Wan2.2/HunyuanVideo. Works as a skill for Claude Code, Cursor, and other AI coding agents.",
+    "url": "https://github.com/twwch/comfyui-workflow-skill"
+  },
+  {
     "name": "paulotruta/alexa-skill-llm-intent",
     "stars": 152,
     "desc": "Alexa Skill that provides turn based conversations with an AI LLM. Bringing AI to your Alexa, because Amazon doesn't.",
@@ -1078,6 +1144,12 @@
     "stars": 147,
     "desc": "a set of SKILLS.md for doing bioinformatics with agents like claude code",
     "url": "https://github.com/GPTomics/bioSkills"
+  },
+  {
+    "name": "matevip/mateclaw",
+    "stars": 147,
+    "desc": "MateClaw — Java + Vue 3 AI Assistant with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, and Multi-Channel Support. Built on Spring AI Alibaba.",
+    "url": "https://github.com/matevip/mateclaw"
   },
   {
     "name": "cncf/llm-in-action",
@@ -1156,6 +1228,12 @@
     "stars": 134,
     "desc": "Claude Code, Droid, etc. Skills Ability",
     "url": "https://github.com/julianromli/ai-skills"
+  },
+  {
+    "name": "xwtro0tk1t-cloud/harness",
+    "stars": 134,
+    "desc": "Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense: knowledge management, architecture constraints, feedback loops, and entropy management.",
+    "url": "https://github.com/xwtro0tk1t-cloud/harness"
   },
   {
     "name": "coleam00/second-brain-skills",
@@ -1380,16 +1458,46 @@
     "url": "https://github.com/jthack/ffuf_claude_skill"
   },
   {
+    "name": "40RTY-ai/shopify-admin-skills",
+    "stars": 84,
+    "desc": "Community-maintained AI agent skills for operating Shopify stores — workflows, optimization, reports and more",
+    "url": "https://github.com/40RTY-ai/shopify-admin-skills"
+  },
+  {
+    "name": "Boom5426/Nature-Paper-Skills",
+    "stars": 79,
+    "desc": "Agent skills for drafting, revising, auditing, and resubmitting Nature-style journal manuscripts.",
+    "url": "https://github.com/Boom5426/Nature-Paper-Skills"
+  },
+  {
+    "name": "helloianneo/awesome-claude-code-skills",
+    "stars": 73,
+    "desc": "Claude Code 最实用的 Skills / Agents / Plugins 精选合集 | 50+ 精选 | 按场景分类 | 带推荐等级 | 复制即装",
+    "url": "https://github.com/helloianneo/awesome-claude-code-skills"
+  },
+  {
     "name": "ithiria894/awesome-claude-code-workflows",
     "stars": 68,
     "desc": "Curated workflow recipes combining hooks, MCP servers, skills, agents for Claude Code",
     "url": "https://github.com/ithiria894/awesome-claude-code-workflows"
   },
   {
+    "name": "SJTU-IPADS/SkVM",
+    "stars": 68,
+    "desc": "The Language Virtual Machine for Agent Skills",
+    "url": "https://github.com/SJTU-IPADS/SkVM"
+  },
+  {
     "name": "finfin/awesome-frontend-skills",
     "stars": 64,
     "desc": "Curated list of frontend Agent Skills installable via npx skills add",
     "url": "https://github.com/finfin/awesome-frontend-skills"
+  },
+  {
+    "name": "zephyrwang6/brand-design-md",
+    "stars": 56,
+    "desc": "A Claude Code Skill that gives your AI agent the design language of 62 world-class brands — on demand.",
+    "url": "https://github.com/zephyrwang6/brand-design-md"
   },
   {
     "name": "Techopolis/awesome-ios-ai",
@@ -1404,10 +1512,40 @@
     "url": "https://github.com/ZeroLu/awesome-openclaw"
   },
   {
+    "name": "AgriciDaniel/claude-cybersecurity",
+    "stars": 51,
+    "desc": "AI-powered cybersecurity code review skill for Claude Code. 8 specialist agents, OWASP 2025, CWE Top 25, MITRE ATT&CK, 11 languages.",
+    "url": "https://github.com/AgriciDaniel/claude-cybersecurity"
+  },
+  {
+    "name": "Batman0506/openclaw-sec-skills",
+    "stars": 48,
+    "desc": "🛡️ 网络安全/AI Agent Skills 集合 | Cybersecurity Security Skills Collection",
+    "url": "https://github.com/Batman0506/openclaw-sec-skills"
+  },
+  {
     "name": "bergside/awesome-design-skills",
     "stars": 47,
     "desc": "List of awesome design skill files for agentic tools like Claude, Codex, Gemini",
     "url": "https://github.com/bergside/awesome-design-skills"
+  },
+  {
+    "name": "gilbertwuu/Auto-Optimize",
+    "stars": 43,
+    "desc": "An Agent Skill for vibe coding and AI workflow development. Handles vague requirements, one-shot prompting failure, false positives, and irreproducible outputs.",
+    "url": "https://github.com/gilbertwuu/Auto-Optimize"
+  },
+  {
+    "name": "gbasin/hand-compute",
+    "stars": 37,
+    "desc": "Skill to force AI coding agents to walk system execution by hand, catching races and state bugs that abstract review would miss.",
+    "url": "https://github.com/gbasin/hand-compute"
+  },
+  {
+    "name": "netkr/mini-hids",
+    "stars": 33,
+    "desc": "轻量级主机入侵检测与日志分析系统，支持封装为AI Agent Skill。Lightweight HIDS for Linux, featuring AI-powered log analysis and automated defense.",
+    "url": "https://github.com/netkr/mini-hids"
   },
   {
     "name": "antvis/chart-visualization-skills",
@@ -1420,17 +1558,5 @@
     "stars": 0,
     "desc": "Official Moltbot skills repository - Bot framework capabilities and integrations",
     "url": "https://github.com/moltbot/skills"
-  },
-  {
-    "name": "forrestchang/andrej-karpathy-skills",
-    "stars": 8488,
-    "desc": "Karpathy-inspired LLM coding principles as Claude Code plugin: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution",
-    "url": "https://github.com/forrestchang/andrej-karpathy-skills"
-  },
-  {
-    "name": "TheCraigHewitt/seomachine",
-    "stars": 4251,
-    "desc": "Claude Code SEO content creation workspace with 26 marketing skills, multi-agent pipeline, and GA4/GSC/DataForSEO integration",
-    "url": "https://github.com/TheCraigHewitt/seomachine"
   }
 ]
