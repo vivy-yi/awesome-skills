@@ -11,7 +11,7 @@
 
 > A curated list of **260** AI agent skill repositories and frameworks (100+ stars)
 >
-> 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-06
+> 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-18
 
 **[⬆ Back to Top](#awesome-skills)**
 
@@ -94,7 +94,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 - **Total Skills Analyzed**: 4,100+ skills from 90+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
-- **Last Updated**: 2026-04-06
+- **Last Updated**: 2026-04-18
 
 ## 🌐 Skills Web
 
@@ -1028,6 +1028,7 @@ Skills evaluation and benchmarking tools.
 | 教程 | 主题 | 阅读时间 |
 |------|------|----------|
 | [Context Engineering & Multi-Agent](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/context-engineering-multi-agent.md) | 上下文工程 + 多智能体架构 | 50 分钟 |
+| [Portable Agent Skills 架构](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/portable-agent-skills-architecture.md) | .agent/ 跨平台 + Skills 工程化 | 45 分钟 |
 | [Core Frameworks Deep Dive](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/core-frameworks-deep-dive.md) | Anthropic Skills + Superpowers | 30 分钟 |
 | [MCP Protocol Deep Dive](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/mcp-protocol-deep-dive.md) | Model Context Protocol | 40 分钟 |
 | [Domain-Specific Skills](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/domain-specific-skills.md) | 安全技能专题 | 35 分钟 |

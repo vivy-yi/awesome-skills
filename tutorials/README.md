@@ -71,6 +71,19 @@
 - Planning with Files（Manus 风格持久化规划）
 - OpenSkills 通用技能加载器
 
+### 6. Portable Agent Skills（跨平台可移植架构）
+
+| 教程 | 描述 | 阅读时间 |
+|------|------|----------|
+| [portable-agent-skills-architecture.md](portable-agent-skills-architecture.md) | .agent/ 跨平台 + Skills 工程化实践 | 45 分钟 |
+
+**核心内容**：
+- agentic-stack：8 平台通用的 .agent/ 便携记忆容器
+- SkillAnything：7 相自动工厂，从任何目标生成跨平台 Skills
+- harness：4 层增强元技能（知识管理、架构约束、反馈回路、熵管理）
+- SkVM：Skills 语言虚拟机，编译 Skills 以匹配异构模型
+- 渐进式披露、Lesson 毕业协议、B-tree 记忆索引
+
 ---
 
 ## 📖 学习路径
@@ -90,6 +103,8 @@
   │
 高级
   │
+  ├─→ portable-agent-skills-architecture.md (跨平台可移植)
+  │
   └─→ domain-specific-skills.md (领域专精)
 ```
 
@@ -99,6 +114,7 @@
 
 | 日期 | 更新内容 |
 |------|----------|
+| 2026-04-18 | 新增 Portable Agent Skills 跨平台可移植架构教程（45分钟）— agentic-stack / SkillAnything / harness / SkVM |
 | 2026-04-06 | 新增 Context Engineering & Multi-Agent 深度教程（50分钟） |
 | 2026-04-05 | 初始化教程体系：Core Frameworks、MCP、Security Skills |
 
@@ -156,4 +172,4 @@
 
 ---
 
-*整理：墨鉴 | 2026-04-06*
+*整理：墨鉴 | 2026-04-18*
