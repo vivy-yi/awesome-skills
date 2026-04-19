@@ -90,11 +90,11 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 239
-- **Total Skills Analyzed**: 4,100+ skills from 90+ repositories
+- **Total Repositories**: 264
+- **Total Skills Analyzed**: 4,200+ skills from 95+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
-- **Last Updated**: 2026-04-18
+- **Last Updated**: 2026-04-19
 
 ## 🌐 Skills Web
 

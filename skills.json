@@ -36,10 +36,22 @@
     "url": "https://github.com/googleworkspace/cli"
   },
   {
+    "name": "openai/openai-agents-python",
+    "stars": 22385,
+    "desc": "OpenAI's lightweight multi-agent workflows framework. Supports function calling, handoffs, guardrails, and tracing.",
+    "url": "https://github.com/openai/openai-agents-python"
+  },
+  {
     "name": "hesreallyhim/awesome-claude-code",
     "stars": 22083,
     "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "stars": 17553,
+    "desc": "Production-grade engineering skills for AI coding agents by Addy Osmani (Google Chrome). 7 slash commands (/spec, /plan, /build, /test, /review, /code-simplify, /ship).",
+    "url": "https://github.com/addyosmani/agent-skills"
   },
   {
     "name": "vercel-labs/agent-skills",
@@ -162,6 +174,12 @@
     "url": "https://github.com/ChrisWiles/claude-code-showcase"
   },
   {
+    "name": "EvoMap/evolver",
+    "stars": 5046,
+    "desc": "GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol for auditable, reusable agent skill evolution with Cursor/Claude Code hooks.",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "name": "coreyhaines31/marketingskills",
     "stars": 5021,
     "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
@@ -232,6 +250,12 @@
     "stars": 3225,
     "desc": "Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!",
     "url": "https://github.com/zebbern/claude-code-guide"
+  },
+  {
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "stars": 3160,
+    "desc": "Claude Code skill for Android app reverse engineering. Automates APK analysis, Smali disassembly, and Frida hooking workflows.",
+    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill"
   },
   {
     "name": "Yeachan-Heo/oh-my-claudecode",
