@@ -1582,5 +1582,77 @@
     "stars": 0,
     "desc": "Official Moltbot skills repository - Bot framework capabilities and integrations",
     "url": "https://github.com/moltbot/skills"
+  },
+  {
+    "name": "xixu-me/awesome-persona-distill-skills",
+    "stars": 3927,
+    "desc": "Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
+    "url": "https://github.com/xixu-me/awesome-persona-distill-skills"
+  },
+  {
+    "name": "Mouseww/anything-analyzer",
+    "stars": 1499,
+    "desc": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE. All-in-one protocol analysis toolkit with built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server",
+    "url": "https://github.com/Mouseww/anything-analyzer"
+  },
+  {
+    "name": "Manavarya09/design-extract",
+    "stars": 1092,
+    "desc": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, Tailwind v4, shadcn/ui)",
+    "url": "https://github.com/Manavarya09/design-extract"
+  },
+  {
+    "name": "PrathamLearnsToCode/paper2code",
+    "stars": 948,
+    "desc": "Agent skill to turn any arxiv paper into a working implementation. Give it a paper URL, get running code",
+    "url": "https://github.com/PrathamLearnsToCode/paper2code"
+  },
+  {
+    "name": "AMAP-ML/SkillClaw",
+    "stars": 764,
+    "desc": "Let Skills Evolve Collectively with Agentic Evolver — collective skill evolution framework for multi-agent systems",
+    "url": "https://github.com/AMAP-ML/SkillClaw"
+  },
+  {
+    "name": "mliu98/awesome-human-distillation",
+    "stars": 519,
+    "desc": "A curated catalog of human distillation agent skills — distill complex human expertise into agent-ready skills",
+    "url": "https://github.com/mliu98/awesome-human-distillation"
+  },
+  {
+    "name": "ksimback/hermes-ecosystem",
+    "stars": 501,
+    "desc": "Hermes Atlas — the community map of every tool, skill, and integration for Hermes Agent by Nous Research. Live at hermesatlas.com",
+    "url": "https://github.com/ksimback/hermes-ecosystem"
+  },
+  {
+    "name": "Astro-Han/karpathy-llm-wiki",
+    "stars": 513,
+    "desc": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting",
+    "url": "https://github.com/Astro-Han/karpathy-llm-wiki"
+  },
+  {
+    "name": "swarmclawai/swarmvault",
+    "stars": 238,
+    "desc": "Inspired by Karpathy LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into persistent markdown wiki, knowledge graph, and hybrid search",
+    "url": "https://github.com/swarmclawai/swarmvault"
+  },
+  {
+    "name": "cporter202/agentic-ai-apis",
+    "stars": 290,
+    "desc": "The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure",
+    "url": "https://github.com/cporter202/agentic-ai-apis"
+  },
+  {
+    "name": "mukul975/cve-mcp-server",
+    "stars": 251,
+    "desc": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal",
+    "url": "https://github.com/mukul975/cve-mcp-server"
+  },
+  {
+    "name": "lewislulu/llm-wiki-skill",
+    "stars": 347,
+    "desc": "Karpathy-style LLM knowledge base Agent Skill for OpenClaw/Codex. Experimental — build persistent knowledge bases from raw sources",
+    "url": "https://github.com/lewislulu/llm-wiki-skill"
   }
 ]

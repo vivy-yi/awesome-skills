@@ -9,9 +9,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **260** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **276** AI agent skill repositories and frameworks (100+ stars)
 >
-> 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-18
+> 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-20
 
 **[⬆ Back to Top](#awesome-skills)**
 
@@ -90,7 +90,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 264
+- **Total Repositories**: 276
 - **Total Skills Analyzed**: 4,200+ skills from 95+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
