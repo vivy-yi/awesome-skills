@@ -1027,6 +1027,7 @@ Skills evaluation and benchmarking tools.
 
 | 教程 | 主题 | 阅读时间 |
 |------|------|----------|
+| [Self-Evolution Skills](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/self-evolution-skills.md) | GEP 协议 / 群体进化 / 自动生成 | 50 分钟 |
 | [Context Engineering & Multi-Agent](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/context-engineering-multi-agent.md) | 上下文工程 + 多智能体架构 | 50 分钟 |
 | [Portable Agent Skills 架构](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/portable-agent-skills-architecture.md) | .agent/ 跨平台 + Skills 工程化 | 45 分钟 |
 | [Core Frameworks Deep Dive](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/core-frameworks-deep-dive.md) | Anthropic Skills + Superpowers | 30 分钟 |

@@ -71,7 +71,21 @@
 - Planning with Files（Manus 风格持久化规划）
 - OpenSkills 通用技能加载器
 
-### 6. Portable Agent Skills（跨平台可移植架构）
+### 6. Self-Evolution Skills（自进化技能）
+
+| 教程 | 描述 | 阅读时间 |
+|------|------|----------|
+| [self-evolution-skills.md](self-evolution-skills.md) | Agent Self-Evolution 深度解析 — GEP 协议 / 群体进化 / 自动生成 Skills | 50 分钟 |
+
+**核心内容**：
+- Evolver：GEP 基因组进化协议、Gene/Capsule 资产体系、验证者角色
+- SkillClaw：群体技能进化、跨 Agent 共享、多设备同步
+- SkillAnything：7 相自动工厂、从任意目标生成多平台 Skills
+- Hermes Agent 生态集成
+- 三大框架横向对比与选型决策树
+- 团队 AI Agent 进化体系组合实战
+
+### 7. Portable Agent Skills（跨平台可移植架构）
 
 | 教程 | 描述 | 阅读时间 |
 |------|------|----------|
@@ -103,6 +117,8 @@
   │
 高级
   │
+  ├─→ self-evolution-skills.md (自进化技能)
+  │
   ├─→ portable-agent-skills-architecture.md (跨平台可移植)
   │
   └─→ domain-specific-skills.md (领域专精)
@@ -114,6 +130,7 @@
 
 | 日期 | 更新内容 |
 |------|----------|
+| 2026-04-20 | 新增 Self-Evolution Skills 深度教程（50分钟）— Evolver GEP / SkillClaw 群体进化 / SkillAnything 自动工厂 / Hermes 生态 |
 | 2026-04-18 | 新增 Portable Agent Skills 跨平台可移植架构教程（45分钟）— agentic-stack / SkillAnything / harness / SkVM |
 | 2026-04-06 | 新增 Context Engineering & Multi-Agent 深度教程（50分钟） |
 | 2026-04-05 | 初始化教程体系：Core Frameworks、MCP、Security Skills |
@@ -172,4 +189,4 @@
 
 ---
 
-*整理：墨鉴 | 2026-04-18*
+*整理：墨鉴 | 2026-04-20*
