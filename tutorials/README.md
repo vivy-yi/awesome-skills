@@ -6,6 +6,18 @@
 
 ## 📚 教程列表
 
+### 0. Skills 市场与资源
+
+| 教程 | 描述 | 阅读时间 |
+|------|------|----------|
+| [skills-marketplaces.md](skills-marketplaces.md) | Skills 市场全景图、官方/社区资源汇总 | 20 分钟 |
+
+**核心内容**：
+- 官方 Skills 市场（Claude Code、OpenClaw、Hermes、OpenCode）
+- 社区 Awesome Lists 精选
+- Skills 创建工具链
+- 快速入门指南
+
 ### 1. Core Frameworks（核心框架）
 
 | 教程 | 描述 | 阅读时间 |
@@ -98,6 +110,36 @@
 - SkVM：Skills 语言虚拟机，编译 Skills 以匹配异构模型
 - 渐进式披露、Lesson 毕业协议、B-tree 记忆索引
 
+### 8. Skills 场景配置（场景化技能组合）
+
+| 教程 | 描述 | 阅读时间 |
+|------|------|----------|
+| [skills-scene-configuration.md](skills-scene-configuration.md) | 四大 Agentic Tools 场景化技能组合配置指南 | 35 分钟 |
+
+**核心内容**：
+- 场景配置概述：基础层、任务层、场景层三层组合关系
+- Claude Code 场景配置：Superpowers 组合、快速修复、文档驱动开发
+- OpenClaw 场景配置：企业开发、金融投资、智能家居
+- Hermes Agent 场景配置：MLOps 研究、创意开发、Apple 生态
+- OpenCode 场景配置：Web 开发、多模型研究
+- 场景化技能矩阵：通用开发/企业场景/专业场景横向对比
+- 配置决策树：根据身份和需求选择最佳 Skill 组合
+
+### 9. Best Skills 推荐榜单
+
+| 教程 | 描述 | 阅读时间 |
+|------|------|----------|
+| [best-skills-recommendations.md](best-skills-recommendations.md) | 四大 Agentic Tools Best Skills 排行榜 | 30 分钟 |
+
+**核心内容**：
+- Claude Code Best Skills：TDD/Security/Git/Architecture 分类排行
+- OpenClaw Best Skills：Medical/Enterprise 特色推荐
+- Hermes Agent Best Skills：Autonomous/Production 推荐
+- OpenCode Best Skills：SOP/Productivity 推荐
+- 跨平台 Best Skills：ai-dev-kit、hatch3r 全平台通用
+- Stars 排行榜：全平台 Top 10 和分类排行
+- 场景化组合：TDD 开发、安全项目、企业/团队等最佳组合
+
 ---
 
 ## 📖 学习路径
@@ -113,7 +155,9 @@
   │
   ├─→ mcp-protocol-deep-dive.md (MCP 集成)
   │
-  └─→ context-engineering-multi-agent.md (上下文工程)
+  ├─→ context-engineering-multi-agent.md (上下文工程)
+  │
+  └─→ skills-scene-configuration.md (场景配置)
   │
 高级
   │
@@ -130,6 +174,10 @@
 
 | 日期 | 更新内容 |
 |------|----------|
+| 2026-04-21 | 新增 Best Skills 推荐榜单（30分钟）— Stars 排行榜 / 场景化组合 / 跨平台推荐 |
+| 2026-04-21 | 新增 Skills 场景配置指南（35分钟）— 四大 Agentic Tools 场景化技能组合配置 / 决策树 / 快速启动模板 |
+| 2026-04-21 | 新增 Agentic Tools 内置 Skills 三层架构对比 — Claude Code / OpenClaw / Hermes / OpenCode 全方位对比 |
+| 2026-04-21 | 新增 Skills 市场与资源汇总（20分钟）— 官方市场 / 社区 Awesome Lists / 创建工具链 |
 | 2026-04-20 | 新增 Self-Evolution Skills 深度教程（50分钟）— Evolver GEP / SkillClaw 群体进化 / SkillAnything 自动工厂 / Hermes 生态 |
 | 2026-04-18 | 新增 Portable Agent Skills 跨平台可移植架构教程（45分钟）— agentic-stack / SkillAnything / harness / SkVM |
 | 2026-04-06 | 新增 Context Engineering & Multi-Agent 深度教程（50分钟） |

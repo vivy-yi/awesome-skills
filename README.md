@@ -9,7 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **291** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **312** AI agent skill repositories and frameworks (100+ stars)
 >
 > 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-21
 
@@ -222,7 +222,7 @@ Curated collections and resource lists.
     - Carefully curated OpenClaw resources - Skills, Plugins, MCP, Tools
 
 11. [ZeroLu/awesome-openclaw](https://github.com/ZeroLu/awesome-openclaw) - ⭐ 53 ⏰2026-04
-    - Curated collection of OpenClaw tutorials, skills, and use cases
+    - OpenClaw 专属教程和技能汇总，5400+ 技能已分类，多 Agent 路由、飞书/WhatsApp/Telegram 集成
 ---
 
 ### ⚙️ Configuration Collections
@@ -345,6 +345,12 @@ Skill marketplaces and discovery platforms.
 ### 🎯 Specific Purpose Skills
 
 Skills for specific domains and use cases.
+
+1. [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) - ⭐ 1800+ 🔥
+   - 代码审查专项，覆盖 React 19、Vue 3、Rust、TypeScript、TanStack Query v5
+
+2. [Pancake-Q/claude-plugin-frontend](https://github.com/Pancake-Q/claude-plugin-frontend) - ⭐ 300+ 🆕
+   - Antfu 风格前端技能集合，Git 工作流自动化，性能优化、可访问性审计、代码重构
 
 1. [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) - ⭐ 290
    - MCP server for searching and retrieving Claude Agent Skills using vector search
@@ -1027,16 +1033,20 @@ Skills evaluation and benchmarking tools.
 
 | 教程 | 主题 | 阅读时间 |
 |------|------|----------|
-| [Self-Evolution Skills](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/self-evolution-skills.md) | GEP 协议 / 群体进化 / 自动生成 | 50 分钟 |
-| [Context Engineering & Multi-Agent](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/context-engineering-multi-agent.md) | 上下文工程 + 多智能体架构 | 50 分钟 |
-| [Portable Agent Skills 架构](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/portable-agent-skills-architecture.md) | .agent/ 跨平台 + Skills 工程化 | 45 分钟 |
-| [Core Frameworks Deep Dive](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/core-frameworks-deep-dive.md) | Anthropic Skills + Superpowers | 30 分钟 |
-| [MCP Protocol Deep Dive](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/mcp-protocol-deep-dive.md) | Model Context Protocol | 40 分钟 |
-| [Domain-Specific Skills](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/domain-specific-skills.md) | 安全技能专题 | 35 分钟 |
-| [Design MD for Agents](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/design-md-for-agents.md) | DESIGN.md 设计系统 | 25 分钟 |
-| [SKILL.md Pattern](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/the-skill-md-pattern.md) | SKILL.md 编写规范 | 15 分钟 |
+| [Skills 市场与资源汇总](./tutorials/skills-marketplaces.md) | 市场全景图 / 官方资源 / 工具链 | 20 分钟 |
+| [Agentic Tools 内置 Skills 对比](./tutorials/agents-builtin-skills-comparison.md) | Claude Code / OpenClaw / Hermes / OpenCode 三层架构 | 40 分钟 |
+| [Skills 场景配置指南](./tutorials/skills-scene-configuration.md) | 场景化技能组合配置 / 决策树 | 35 分钟 |
+| [Best Skills 推荐榜单](./tutorials/best-skills-recommendations.md) | Stars 排行榜 / 场景化组合 / 跨平台推荐 | 30 分钟 |
+| [Self-Evolution Skills](./tutorials/self-evolution-skills.md) | GEP 协议 / 群体进化 / 自动生成 | 50 分钟 |
+| [Context Engineering & Multi-Agent](./tutorials/context-engineering-multi-agent.md) | 上下文工程 + 多智能体架构 | 50 分钟 |
+| [Portable Agent Skills 架构](./tutorials/portable-agent-skills-architecture.md) | .agent/ 跨平台 + Skills 工程化 | 45 分钟 |
+| [Core Frameworks Deep Dive](./tutorials/core-frameworks-deep-dive.md) | Anthropic Skills + Superpowers | 30 分钟 |
+| [MCP Protocol Deep Dive](./tutorials/mcp-protocol-deep-dive.md) | Model Context Protocol | 40 分钟 |
+| [Domain-Specific Skills](./tutorials/domain-specific-skills.md) | 安全技能专题 | 35 分钟 |
+| [Design MD for Agents](./tutorials/design-md-for-agents.md) | DESIGN.md 设计系统 | 25 分钟 |
+| [SKILL.md Pattern](./tutorials/the-skill-md-pattern.md) | SKILL.md 编写规范 | 15 分钟 |
 
-👉 查看全部教程：[tutorials/README.md](/Volumes/waku/github-维护/awesome/awesome-skills-repos/tutorials/README.md)
+👉 查看全部教程：[tutorials/README.md](./tutorials/README.md)
 
 ---
 ## Contributing

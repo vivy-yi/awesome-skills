@@ -1637,6 +1637,12 @@
     "desc": "Claude Design reproduced for Claude Code — HTML decks, prototypes, design systems, animated videos via skills + starters + Chrome DevTools MCP"
   },
   {
+    "name": "ConardLi/web-design-skill",
+    "stars": 38,
+    "desc": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning\"",
+    "url": "https://github.com/ConardLi/web-design-skill"
+  },
+  {
     "name": "gbasin/hand-compute",
     "stars": 37,
     "desc": "Skill to force AI coding agents to walk system execution by hand, catching races and state bugs that abstract review would miss.",
@@ -1664,6 +1670,36 @@
     "desc": "Any research. One Claw. From any materials to research with fully autonomous & skill-driven researcher"
   },
   {
+    "name": "floodsung/floodsung-skill",
+    "stars": 16,
+    "desc": "Claude Code skill trained on Flood Sung's entire Zhihu corpus (152 articles + 178 pins + 254 answers)",
+    "url": "https://github.com/floodsung/floodsung-skill"
+  },
+  {
+    "name": "madrobotnet/hermes-codex-imagegen-skill",
+    "stars": 15,
+    "desc": "Generate images within Hermes Agent using Codex CLI",
+    "url": "https://github.com/madrobotnet/hermes-codex-imagegen-skill"
+  },
+  {
+    "name": "Hao0321/claude-skill-social-post",
+    "stars": 14,
+    "desc": "Claude Code skill that learns Facebook voice and auto-posts to FB/IG/Threads/X with 14-day content calendar. 72K reach / 358 likes validated",
+    "url": "https://github.com/Hao0321/claude-skill-social-post"
+  },
+  {
+    "name": "arimanyus/hermes-merchant",
+    "stars": 13,
+    "desc": "Portable agent skills that scrape ML/AI jobs, score against profile, and auto-fill Greenhouse applications",
+    "url": "https://github.com/arimanyus/hermes-merchant"
+  },
+  {
+    "name": "huisezhiyin/agent-experience-capitalization",
+    "stars": 12,
+    "desc": "Skill-first, local-first memory runtime for coding agents to retrieve, reuse, and improve task experience",
+    "url": "https://github.com/huisezhiyin/agent-experience-capitalization"
+  },
+  {
     "name": "choupiyang/ZAI_SKILLS",
     "stars": 11,
     "desc": "智谱playground内置的官方SKILLS"
@@ -1685,6 +1721,12 @@
     "desc": "Security scanner for AI agent skills and plugins"
   },
   {
+    "name": "selmakcby/claude-agents-skills",
+    "stars": 8,
+    "desc": "Multi-Agent Claude Code setup — 4 agents (planner · ui-agent · builder · reviewer) + skills + Next.js demo",
+    "url": "https://github.com/selmakcby/claude-agents-skills"
+  },
+  {
     "name": "jxtse/scientific-research-skills",
     "stars": 5,
     "desc": "Skills and tools for scientific research with LLM agents"
@@ -1695,6 +1737,18 @@
     "desc": "Generate professional README.md with 16:9 infographics, SEO-optimized metadata — powered by Playwright and AI agent skills"
   },
   {
+    "name": "DhanushNehru/claude-skills",
+    "stars": 4,
+    "desc": "Ready-to-use skill files that transform Claude into specialized AI agents",
+    "url": "https://github.com/DhanushNehru/claude-skills"
+  },
+  {
+    "name": "daniel2k00/opennavagent",
+    "stars": 4,
+    "desc": "Open-source AI navigation agent on OpenStreetMap. Skills-based, like nanoclaw for maps",
+    "url": "https://github.com/daniel2k00/opennavagent"
+  },
+  {
     "name": "AmrAnwar/objection",
     "stars": 3,
     "desc": "Adversarial Claude Code plugin — cross-examines proposals and renders a verdict before shipping"
@@ -1703,6 +1757,24 @@
     "name": "phil-buendia/CapWeaver",
     "stars": 3,
     "desc": "Lightweight coding agent focused on skill retrieval, tool forging, and controlled capability retention"
+  },
+  {
+    "name": "veniceai/skills",
+    "stars": 3,
+    "desc": "Agent Skills for Venice.ai API. One folder per surface area, each with SKILL.md for agent runtimes",
+    "url": "https://github.com/veniceai/skills"
+  },
+  {
+    "name": "WorkHaH/SheetWeave",
+    "stars": 3,
+    "desc": "Agent skill for merging tiled drawing PDFs into one complete vector PDF",
+    "url": "https://github.com/WorkHaH/SheetWeave"
+  },
+  {
+    "name": "xxxily/code-honor-skill",
+    "stars": 3,
+    "desc": "程序员八荣八耻 skill，做个有底线的码农",
+    "url": "https://github.com/xxxily/code-honor-skill"
   },
   {
     "name": "burugo/behavior-driven-development",
@@ -1718,6 +1790,60 @@
     "name": "shmulc8/agent-skills-network",
     "stars": 2,
     "desc": "Interactive 3D latent-space map of 900+ agent skills — MiniLM + UMAP + Gemma-labeled clusters"
+  },
+  {
+    "name": "kaguranananana/RepoPilot",
+    "stars": 2,
+    "desc": "Java coding agent runtime covering Agent Loop, 工具治理, 上下文压缩, Skill 激活与 session/trace 控制",
+    "url": "https://github.com/kaguranananana/RepoPilot"
+  },
+  {
+    "name": "SilentDawnAndDarkCrow/claude-code-maestro",
+    "stars": 2,
+    "desc": "Multi-Agent 开发方法论：用 Claude Code Skill 驱动需求分析 → 并行开发 → 测试 → 规范检查的完整流程",
+    "url": "https://github.com/SilentDawnAndDarkCrow/claude-code-maestro"
+  },
+  {
+    "name": "tilek/graph-health-skill",
+    "stars": 2,
+    "desc": "Skill for OpenClaw/Claude Code/Codex for visualizing health biomarkers",
+    "url": "https://github.com/tilek/graph-health-skill"
+  },
+  {
+    "name": "satvikxbansal/debug-log-skill",
+    "stars": 2,
+    "desc": "Debugging discipline + pre-mortem error catalogs for LLM-assisted coding across web, iOS, Android, macOS, Kotlin, Swift",
+    "url": "https://github.com/satvikxbansal/debug-log-skill"
+  },
+  {
+    "name": "Hook12aaa/model-trainer",
+    "stars": 2,
+    "desc": "Skill-driven autonomous ML model training for Claude Code. Hypothesise, design experiments, train, review, report",
+    "url": "https://github.com/Hook12aaa/model-trainer"
+  },
+  {
+    "name": "poteshniy/agenttrust",
+    "stars": 1,
+    "desc": "Security Scanner + Reputation Oracle for AI Agent Skills — x402 native",
+    "url": "https://github.com/poteshniy/agenttrust"
+  },
+  {
+    "name": "hec-ovi/agentickit",
+    "stars": 1,
+    "desc": "Lightweight React AI copilot: three hooks (state, actions, forms) + optional .pilot/ skills folder. AI SDK 6 native",
+    "url": "https://github.com/hec-ovi/agentickit"
+  },
+  {
+    "name": "grippado/claude-atlas",
+    "stars": 1,
+    "desc": "Scan, map, and visualize your Claude Code setup: agents, skills, slash commands, and CLAUDE.md — all in one interactive graph",
+    "url": "https://github.com/grippado/claude-atlas"
+  },
+  {
+    "name": "FrankieMolt/openclaw-agent-wallet",
+    "stars": 1,
+    "desc": "Agent-native x402 payment skill for OpenClaw — USDC payments on Base for MCP services",
+    "url": "https://github.com/FrankieMolt/openclaw-agent-wallet"
   },
   {
     "name": "moltbot/skills",
