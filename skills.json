@@ -330,10 +330,22 @@
     "url": "https://github.com/czlonkowski/n8n-skills"
   },
   {
+    "name": "NousResearch/hermes-agent-self-evolution",
+    "stars": 2116,
+    "desc": "Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA",
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution"
+  },
+  {
     "name": "openai/skills",
     "stars": 2115,
     "desc": "Skills Catalog for Codex",
     "url": "https://github.com/openai/skills"
+  },
+  {
+    "name": "outsourc-e/hermes-workspace",
+    "stars": 2110,
+    "desc": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector",
+    "url": "https://github.com/outsourc-e/hermes-workspace"
   },
   {
     "name": "trailofbits/skills",
@@ -1314,6 +1326,12 @@
     "url": "https://github.com/geekjourneyx/ai-daily-skill"
   },
   {
+    "name": "Romanescu11/hermes-skill-factory",
+    "stars": 138,
+    "desc": "Meta-skill plugin for Hermes Agent that watches workflows and automatically turns them into reusable skills",
+    "url": "https://github.com/Romanescu11/hermes-skill-factory"
+  },
+  {
     "name": "NTCoding/claude-skillz",
     "stars": 135,
     "desc": "Random Claude skills for common, simple programming tasks",
@@ -1682,6 +1700,12 @@
     "url": "https://github.com/madrobotnet/hermes-codex-imagegen-skill"
   },
   {
+    "name": "wuyoscar/gpt_image_2_skill",
+    "stars": 15,
+    "desc": "GPT Image 2 skill for Claude Code / Codex / OpenCode. Curated prompt templates across 12+ categories",
+    "url": "https://github.com/wuyoscar/gpt_image_2_skill"
+  },
+  {
     "name": "Hao0321/claude-skill-social-post",
     "stars": 14,
     "desc": "Claude Code skill that learns Facebook voice and auto-posts to FB/IG/Threads/X with 14-day content calendar. 72K reach / 358 likes validated",
@@ -1703,6 +1727,12 @@
     "name": "choupiyang/ZAI_SKILLS",
     "stars": 11,
     "desc": "智谱playground内置的官方SKILLS"
+  },
+  {
+    "name": "robonuggets/gpt-image-2-skill",
+    "stars": 10,
+    "desc": "GPT Image 2 skill for Claude Code — best-in-class typography, two endpoints (T2I + edit), Fal AI integration",
+    "url": "https://github.com/robonuggets/gpt-image-2-skill"
   },
   {
     "name": "antvis/chart-visualization-skills",
@@ -1727,9 +1757,21 @@
     "url": "https://github.com/selmakcby/claude-agents-skills"
   },
   {
+    "name": "lewispb/rails-query-skill",
+    "stars": 8,
+    "desc": "Claude Code plugin for running read-only queries against a Rails 8.2+ app database via rails query",
+    "url": "https://github.com/lewispb/rails-query-skill"
+  },
+  {
     "name": "jxtse/scientific-research-skills",
     "stars": 5,
     "desc": "Skills and tools for scientific research with LLM agents"
+  },
+  {
+    "name": "3Taste/timefold-java-skill",
+    "stars": 5,
+    "desc": "Claude Code skill plugin for Timefold Solver (Java) — 6-step modeling for scheduling & resource allocation",
+    "url": "https://github.com/3Taste/timefold-java-skill"
   },
   {
     "name": "geekjourneyx/readme-generator",
@@ -1822,6 +1864,24 @@
     "url": "https://github.com/Hook12aaa/model-trainer"
   },
   {
+    "name": "scarlettliu0826/ai-radar",
+    "stars": 2,
+    "desc": "AI Radar - Claude Code skill for daily AI intelligence digest | AI行业每日情报雷达",
+    "url": "https://github.com/scarlettliu0826/ai-radar"
+  },
+  {
+    "name": "limkown-stack/distill-decision-skill",
+    "stars": 2,
+    "desc": "Claude Code Routine that distills a Feishu/Lark user decision-making style into a reusable skill",
+    "url": "https://github.com/limkown-stack/distill-decision-skill"
+  },
+  {
+    "name": "Sma1lboy/open-design",
+    "stars": 2,
+    "desc": "Claude Code skill: natural-language prompts → single-file HTML design artifacts",
+    "url": "https://github.com/Sma1lboy/open-design"
+  },
+  {
     "name": "poteshniy/agenttrust",
     "stars": 1,
     "desc": "Security Scanner + Reputation Oracle for AI Agent Skills — x402 native",
@@ -1855,5 +1915,17 @@
     "name": "criseulises/awesome-claude-skills-prompts",
     "stars": 0,
     "desc": "106 production-ready prompts for building Claude skills — follows Anthropic best practices + OWASP Agentic Skills Top 10. Bilingual EN/ES"
+  },
+  {
+    "name": "ElijahWN/LocalLLM",
+    "stars": 0,
+    "desc": "Full-stack agentic chat interface — React/Vite frontend + C# .NET backend, modular skills",
+    "url": "https://github.com/ElijahWN/LocalLLM"
+  },
+  {
+    "name": "JiangShuo2001/tom_harness",
+    "stars": 0,
+    "desc": "Lightweight skill-based agent harness for Theory-of-Mind benchmarks. Plan-then-Execute + ReAct",
+    "url": "https://github.com/JiangShuo2001/tom_harness"
   }
 ]
