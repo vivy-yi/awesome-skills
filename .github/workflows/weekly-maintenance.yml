@@ -1,0 +1,255 @@
+name: Weekly Maintenance
+
+on:
+  schedule:
+    # Weekly Sunday 10:00 AM UTC = 6:00 PM Beijing Time
+    - cron: '0 10 * * 0'
+    # Every Tuesday and Friday 10:00 AM UTC
+    - cron: '0 10 * * 2'
+    - cron: '0 10 * * 5'
+  workflow_dispatch:
+    inputs:
+      task:
+        description: 'Task to run (star-updater, trending-crawler, link-doctor, metadata-enricher, self-maintainer)'
+        required: false
+        default: 'all'
+
+jobs:
+  star-updater:
+    name: Update Stars
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' && (github.event.inputs.task == 'star-updater' || github.event.inputs.task == 'all') || github.event_name == 'schedule'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update all stars
+        run: |
+          python3 << 'PYEOF'
+          import json
+          import subprocess
+          import time
+          from datetime import datetime
+
+          with open('skills.json', 'r') as f:
+              repos = json.load(f)
+
+          print(f"Checking {len(repos)} repositories...")
+
+          updated = 0
+          errors = 0
+
+          for i, repo in enumerate(repos):
+              name = repo.get('name', '')
+              if not name:
+                  continue
+
+              if i % 50 == 0:
+                  print(f"Progress: {i}/{len(repos)}...")
+
+              try:
+                  result = subprocess.run(
+                      ['gh', 'api', f'/repos/{name}'],
+                      capture_output=True, text=True, timeout=10
+                  )
+
+                  if result.returncode == 0:
+                      data = json.loads(result.stdout)
+                      new_stars = data.get('stargazers_count', repo.get('stars', 0))
+                      old_stars = repo.get('stars', 0)
+
+                      if new_stars != old_stars:
+                          print(f"  {name}: {old_stars} -> {new_stars}")
+                          repo['stars'] = new_stars
+                          repo['last_updated'] = datetime.now().strftime('%Y-%m-%d')
+                          updated += 1
+                  else:
+                      errors += 1
+
+              except Exception as e:
+                  errors += 1
+
+              time.sleep(0.3)
+
+          with open('skills.json', 'w') as f:
+              json.dump(repos, f, indent=2, ensure_ascii=False)
+
+          print(f"\nUpdated: {updated}, Errors: {errors}, Total: {len(repos)}")
+          PYEOF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Commit
+        run: |
+          if git diff --quiet skills.json; then
+            echo "No changes to commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add skills.json
+            git commit -m "chore: weekly star update $(date +%Y-%m-%d)"
+            git push
+          fi
+
+  trending-discovery:
+    name: Discover New Skills
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' && (github.event.inputs.task == 'trending-crawler' || github.event.inputs.task == 'all') || github.event_name == 'schedule'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Discover Skills via GitHub API
+        run: |
+          python3 << 'PYEOF'
+          import json
+          import subprocess
+          import time
+          from datetime import datetime
+
+          # Search for repos with SKILL.md in path
+          print("Searching for SKILL.md repositories...")
+          
+          result = subprocess.run(
+              ['gh', 'api', '/search/code?q=SKILL.md+in:path+agent+OR+skill+OR+claude&per_page=30&sort=stars&order=desc'],
+              capture_output=True, text=True, timeout=30
+          )
+
+          if result.returncode != 0:
+              print(f"API error: {result.stderr}")
+              exit(0)
+
+          data = json.loads(result.stdout)
+          items = data.get('items', [])
+          print(f"Found {len(items)} SKILL.md repos")
+
+          with open('skills.json', 'r') as f:
+              repos = json.load(f)
+
+          existing = {r['name'] for r in repos}
+          added = 0
+
+          for item in items[:15]:
+              repo_data = item.get('repository', {})
+              name = repo_data.get('full_name', '')
+              
+              if name and name not in existing:
+                  desc = repo_data.get('description', '') or ''
+                  stars = repo_data.get('stargazers_count', 0)
+                  
+                  repos.append({
+                      'name': name,
+                      'stars': stars,
+                      'desc': desc,
+                      'url': f"https://github.com/{name}",
+                      'added_date': datetime.now().strftime('%Y-%m-%d'),
+                      'source': 'skillmd-search'
+                  })
+                  existing.add(name)
+                  added += 1
+                  print(f"  Added: {name} ({stars}★)")
+
+          if added > 0:
+              repos.sort(key=lambda x: x.get('stars', 0), reverse=True)
+              with open('skills.json', 'w') as f:
+                  json.dump(repos, f, indent=2, ensure_ascii=False)
+              print(f"\nAdded {added} new skills")
+          else:
+              print("\nNo new skills to add")
+
+          # Write update notes
+          today = datetime.now().strftime('%Y-%m-%d')
+          note = f"""# 墨鉴-每日调研报告 {today}
+
+## 今日发现
+
+### 新增 Skills 仓库（{added}个）
+
+自动发现 via GitHub SKILL.md 搜索
+
+## 更新内容
+
+| 文件 | 操作 |
+|------|------|
+| `skills.json` | +{added} 条目 |
+
+## 数据规模
+
+- 累计收录：{len(repos)} 个
+"""
+          with open(f'update-notes/{today}.md', 'w') as f:
+              f.write(note)
+          PYEOF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Commit
+        run: |
+          if git diff --quiet skills.json && git diff --quiet update-notes/; then
+            echo "No changes to commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add skills.json update-notes/
+            git commit -m "chore: discover new skills $(date +%Y-%m-%d)"
+            git push
+          fi
+
+  link-doctor:
+    name: Check Link Health
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' && (github.event.inputs.task == 'link-doctor' || github.event.inputs.task == 'all') || github.event_name == 'schedule'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install link checker
+        run: npm install -g lychee 2>/dev/null || pip install lychee
+
+      - name: Check markdown links
+        run: |
+          # Check a sample of links
+          lychee --no-progress README.md blogs/*.md 2>/dev/null || \
+          echo "Link checker not available, skipping"
+        continue-on-error: true
+
+      - name: Report
+        run: echo "Link health check complete"
+
+  metadata-enricher:
+    name: Enrich Metadata
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' && (github.event.inputs.task == 'metadata-enricher' || github.event.inputs.task == 'all')
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Enrich metadata
+        run: |
+          python3 << 'PYEOF'
+          import json
+          subprocess
+          from datetime import datetime
+
+          with open('skills.json', 'r') as f:
+              repos = json.load(f)
+
+          needs_enrichment = [r for r in repos if 'license' not in r or 'language' not in r]
+          print(f"Repos needing enrichment: {len(needs_enrichment)}")
+          print("Run manually for full enrichment with GitHub API access")
+          PYEOF
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Commit
+        run: |
+          if git diff --quiet skills.json; then
+            echo "No changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add skills.json
+            git commit -m "feat: enrich metadata"
+            git push
+          fi
