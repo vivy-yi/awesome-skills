@@ -96,6 +96,13 @@
     "url": "https://github.com/MiniMax-AI/skills"
   },
   {
+    "name": "cli",
+    "stars": 8674,
+    "desc": "Official Lark/Feishu CLI tool — 200+ commands and 20+ AI Agent Skills",
+    "url": "https://github.com/larksuite/cli",
+    "category": "Platform Integrations"
+  },
+  {
     "name": "diet103/claude-code-infrastructure-showcase",
     "stars": 8654,
     "desc": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
@@ -378,6 +385,13 @@
     "url": "https://github.com/GuDaStudio/skills"
   },
   {
+    "name": "Swift-Agent-Skills",
+    "stars": 1508,
+    "desc": "AI agent skills for Swift and Apple platform development",
+    "url": "https://github.com/twostraws/Swift-Agent-Skills",
+    "category": "Development Skills"
+  },
+  {
     "name": "Mouseww/anything-analyzer",
     "stars": 1499,
     "desc": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE. All-in-one protocol analysis toolkit with built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server",
@@ -420,6 +434,13 @@
     "url": "https://github.com/libukai/awesome-agent-skills"
   },
   {
+    "name": "chops",
+    "stars": 1242,
+    "desc": "macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, Amp",
+    "url": "https://github.com/Shpigford/chops",
+    "category": "Skills Management"
+  },
+  {
     "name": "mvanhorn/last30days-skill",
     "stars": 1237,
     "desc": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts",
@@ -436,6 +457,27 @@
     "stars": 1200,
     "desc": "Ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing",
     "url": "https://github.com/K-Dense-AI/claude-scientific-skills"
+  },
+  {
+    "name": "ai-devkit",
+    "stars": 1159,
+    "desc": "Universal CLI toolkit for AI agent skills across Cursor, Claude Code, Codex, and more",
+    "url": "https://github.com/codeaholicguy/ai-devkit",
+    "category": "Development Skills"
+  },
+  {
+    "name": "app-store-preflight-skills",
+    "stars": 1114,
+    "desc": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
+    "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "category": "Development Skills"
+  },
+  {
+    "name": "aso-skills",
+    "stars": 1113,
+    "desc": "AI agent skills for App Store Optimization (ASO) and app marketing for Cursor, Claude Code",
+    "url": "https://github.com/Eronred/aso-skills",
+    "category": "Marketing Skills"
   },
   {
     "name": "jeremylongshore/claude-code-plugins-plus-skills",
@@ -460,6 +502,13 @@
     "stars": 1039,
     "desc": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code",
     "url": "https://github.com/axtonliu/axton-obsidian-visual-skills"
+  },
+  {
+    "name": "Ai-Agent-Skills",
+    "stars": 1031,
+    "desc": "Curated agent skills library",
+    "url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
+    "category": "Skills Collection"
   },
   {
     "name": "gadievron/raptor",
@@ -534,6 +583,13 @@
     "url": "https://github.com/numman-ali/n-skills"
   },
   {
+    "name": "skills-manager",
+    "stars": 857,
+    "desc": "Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools",
+    "url": "https://github.com/xingkongliang/skills-manager",
+    "category": "Skills Management"
+  },
+  {
     "name": "0xNyk/awesome-hermes-agent",
     "stars": 826,
     "desc": "Curated list of awesome skills, tools, integrations for Hermes Agent by Nous Research",
@@ -588,6 +644,13 @@
     "url": "https://github.com/hyf0/vue-skills"
   },
   {
+    "name": "ClawBio",
+    "stars": 753,
+    "desc": "Bioinformatics-native AI agent skill library. Local-first. Reproducible. Built on OpenClaw",
+    "url": "https://github.com/ClawBio/ClawBio",
+    "category": "Domain-Specific Skills"
+  },
+  {
     "name": "expo/skills",
     "stars": 739,
     "desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
@@ -598,6 +661,13 @@
     "stars": 735,
     "desc": "A collection of agent-optimized React Native skills for AI coding assistants.",
     "url": "https://github.com/callstackincubator/agent-skills"
+  },
+  {
+    "name": "spec_driven_develop",
+    "stars": 700,
+    "desc": "Cross-platform AI agent skill for spec-driven development workflow",
+    "url": "https://github.com/zhu1090093659/spec_driven_develop",
+    "category": "Development Skills"
   },
   {
     "name": "AvdLee/Swift-Concurrency-Agent-Skill",
@@ -646,6 +716,13 @@
     "stars": 521,
     "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting",
     "url": "https://github.com/BrownFineSecurity/iothackbot"
+  },
+  {
+    "name": "flyai-skill",
+    "stars": 520,
+    "desc": "Fly AI agent skill",
+    "url": "https://github.com/alibaba-flyai/flyai-skill",
+    "category": "Development Skills"
   },
   {
     "name": "mliu98/awesome-human-distillation",
@@ -708,6 +785,13 @@
     "url": "https://github.com/tanweai/wooyun-legacy"
   },
   {
+    "name": "awesome-agent-skills",
+    "stars": 464,
+    "desc": "精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具",
+    "url": "https://github.com/JackyST0/awesome-agent-skills",
+    "category": "Skills Collection"
+  },
+  {
     "name": "ast-grep/agent-skill",
     "stars": 461,
     "desc": "",
@@ -718,6 +802,13 @@
     "stars": 459,
     "desc": "A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow",
     "url": "https://github.com/alirezarezvani/claude-code-tresor"
+  },
+  {
+    "name": "Enterprise-ai-scenario-map-skill",
+    "stars": 429,
+    "desc": "咨询AI Agent Skill - 为任何企业自动生成 AI 应用场景地图报告 | Auto-generate AI scenario map reports",
+    "url": "https://github.com/MetaInFLow/Enterprise-ai-scenario-map-skill",
+    "category": "Business Skills"
   },
   {
     "name": "conorluddy/ios-simulator-skill",

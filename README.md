@@ -90,11 +90,11 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 276
-- **Total Skills Analyzed**: 4,200+ skills from 95+ repositories
+- **Total Repositories**: 337
+- **Total Skills Analyzed**: 4,400+ skills from 95+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
-- **Last Updated**: 2026-04-19
+- **Last Updated**: 2026-04-25
 
 ## 🌐 Skills Web
 
@@ -139,7 +139,7 @@ Foundational infrastructure, specifications, and major frameworks for building A
 3. [agentskills/agentskills](https://github.com/agentskills/agentskills) - ⭐ 7,599
    - Specification and documentation for Agent Skills
 
-4. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,276 | 📊 1 skill
+4. [numman-ali/openskills](https://github.com/numman-ali/openskills) - ⭐ 7,337 | 📊 1 skill
    - Universal skills loader for AI coding agents - npm i -g openskills
 
 5. [vercel-labs/skills](https://github.com/vercel-labs/skills) - ⭐ 2,864 | 📊 1 skill
@@ -587,7 +587,7 @@ Tools for managing, installing, syncing, and converting agent skills.
 6. [kasperjunge/agent-resources](https://github.com/kasperjunge/agent-resources) - ⭐ 362
    - A package for Claude Code, Cursor and Github Copilot. Install agent skills from GitHub with a single command.
 
-7. [runkids/skillshare](https://github.com/runkids/skillshare) - ⭐ 276
+7. [runkids/skillshare](https://github.com/runkids/skillshare) - ⭐ 337
    - 📚 Sync skills to all your AI CLI tools with one command across Claude Code, Clawd Bot, OpenCode & more
 
 8. [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - ⭐ 189
