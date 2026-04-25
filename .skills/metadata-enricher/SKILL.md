@@ -94,7 +94,7 @@ def get_metadata(name):
         if result.returncode == 0:
             data = json.loads(result.stdout)
             return {
-                'license': data.get('license', {}).get('spdx_id') or 'Unknown',
+                'license': (data.get('license') or {}).get('spdx_id') or 'Unknown',
                 'language': data.get('language') or 'Unknown',
                 'topics': data.get('topics', []),
                 'description': data.get('description') or '',
