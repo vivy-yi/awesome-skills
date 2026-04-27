@@ -18,10 +18,39 @@
     "url": "https://github.com/affaan-m/everything-claude-code"
   },
   {
+    "name": "abhigyanpatwari/GitNexus",
+    "stars": 30319,
+    "desc": "Zero-Server Code Intelligence Engine — client-side knowledge graph creator that runs entirely in browser. Drop in a GitHub repo or ZIP file and get an interactive knowledge graph with built-in Graph RAG Agent for code exploration.",
+    "url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
     "name": "ComposioHQ/awesome-claude-skills",
     "stars": 27053,
     "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "name": "Agent Skills by Matt Pocock",
+    "description": "Production-grade agent skills for real engineering - TDD, PRD generation, architecture improvement, and git safety. 21 focused skills from a TypeScript educator.",
+    "stars": 24504,
+    "language": "MD",
+    "topics": [
+      "agent-skills",
+      "tdd",
+      "claude-code",
+      "engineering",
+      "productivity"
+    ],
+    "url": "https://github.com/mattpocock/skills",
+    "added_at": "2026-04-27",
+    "category": "engineering"
+  },
+  {
+    "name": "mattpocock/skills",
+    "stars": 24457,
+    "desc": "Agent Skills for real engineers. Straight from Matt Pocock's .claude directory — production-ready skills with real usage data.",
+    "url": "https://github.com/mattpocock/skills"
   },
   {
     "name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -48,6 +77,12 @@
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
   },
   {
+    "name": "gastownhall/beads",
+    "stars": 21739,
+    "desc": "A memory upgrade for your coding agent — provides persistent, structured memory across agent sessions with automatic context summarization and retrieval.",
+    "url": "https://github.com/gastownhall/beads"
+  },
+  {
     "name": "addyosmani/agent-skills",
     "stars": 17553,
     "desc": "Production-grade engineering skills for AI coding agents by Addy Osmani (Google Chrome). 7 slash commands (/spec, /plan, /build, /test, /review, /code-simplify, /ship).",
@@ -70,6 +105,12 @@
     "stars": 14778,
     "desc": "Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
     "url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "name": "trycua/cua",
+    "stars": 14465,
+    "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "url": "https://github.com/trycua/cua"
   },
   {
     "name": "jackwener/opencli",
@@ -2012,30 +2053,6 @@
     "stars": 0,
     "desc": "Full-stack agentic chat interface — React/Vite frontend + C# .NET backend, modular skills",
     "url": "https://github.com/ElijahWN/LocalLLM"
-  },
-  {
-    "name": "mattpocock/skills",
-    "stars": 24457,
-    "desc": "Agent Skills for real engineers. Straight from Matt Pocock's .claude directory — production-ready skills with real usage data.",
-    "url": "https://github.com/mattpocock/skills"
-  },
-  {
-    "name": "abhigyanpatwari/GitNexus",
-    "stars": 30319,
-    "desc": "Zero-Server Code Intelligence Engine — client-side knowledge graph creator that runs entirely in browser. Drop in a GitHub repo or ZIP file and get an interactive knowledge graph with built-in Graph RAG Agent for code exploration.",
-    "url": "https://github.com/abhigyanpatwari/GitNexus"
-  },
-  {
-    "name": "gastownhall/beads",
-    "stars": 21739,
-    "desc": "A memory upgrade for your coding agent — provides persistent, structured memory across agent sessions with automatic context summarization and retrieval.",
-    "url": "https://github.com/gastownhall/beads"
-  },
-  {
-    "name": "trycua/cua",
-    "stars": 14465,
-    "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-    "url": "https://github.com/trycua/cua"
   },
   {
     "name": "JiangShuo2001/tom_harness",

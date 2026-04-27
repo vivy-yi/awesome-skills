@@ -90,11 +90,11 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 337
-- **Total Skills Analyzed**: 4,400+ skills from 95+ repositories
+- **Total Repositories**: 341
+- **Total Skills Analyzed**: 4,500+ skills from 95+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
-- **Last Updated**: 2026-04-25
+- **Last Updated**: 2026-04-27
 
 ## 🌐 Skills Web
 
@@ -277,7 +277,10 @@ Multi-agent workflows and orchestration systems.
 
 Collections of specialized Claude Code skills.
 
-1. [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - ⭐ 8488 ⏰2026-04-08
+1. [mattpocock/skills](https://github.com/mattpocock/skills) - ⭐ 24504 | 📊 21 skills ⏰2026-04-27 🔥
+   - Production-grade agent skills for real engineering. 21 focused skills covering TDD, PRD generation, architecture improvement, git safety, and ubiquitous language. Created by TypeScript educator Matt Pocock. Anti-vibe-coding philosophy with vertical slice methodology.
+
+2. [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - ⭐ 8488 ⏰2026-04-08
    - Karpathy-inspired LLM coding principles as Claude Code plugin: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution. A methodology-driven skill that guides LLM behavior through goals rather than instructions.
 
 2. [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - ⭐ 4251 ⏰2026-04-08

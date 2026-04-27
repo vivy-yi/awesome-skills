@@ -140,6 +140,21 @@
 - Stars 排行榜：全平台 Top 10 和分类排行
 - 场景化组合：TDD 开发、安全项目、企业/团队等最佳组合
 
+### 10. Production-Grade Engineering Skills（生产级工程技能）
+
+| 教程 | 描述 | 阅读时间 |
+|------|------|----------|
+| [mattpocock-skills.md](mattpocock-skills.md) | Matt Pocock 生产级工程技能集 — TDD/PRD/架构改进/Git 安全 | 40 分钟 |
+
+**核心内容**：
+- mattpocock/skills 核心理念：反 vibe coding，工程纪律优先
+- 21 个精选技能分类详解（规划/开发/工具/写作）
+- TDD 垂直切片方法论深度剖析
+- DDD Ubiquitous Language 技能详解
+- Skill 编写方法论（write-a-skill）
+- 与 addyosmani/agent-skills 对比及互补使用建议
+- Git Guardrails、Triage Issue 等安全工具
+
 ---
 
 ## 📖 学习路径
@@ -165,7 +180,9 @@
   │
   ├─→ portable-agent-skills-architecture.md (跨平台可移植)
   │
-  └─→ domain-specific-skills.md (领域专精)
+  ├─→ domain-specific-skills.md (领域专精)
+  │
+  └─→ mattpocock-skills.md (生产级工程)
 ```
 
 ---
@@ -174,6 +191,7 @@
 
 | 日期 | 更新内容 |
 |------|----------|
+| 2026-04-27 | 新增 Matt Pocock's Agent Skills 生产级工程技能教程（40分钟）— TDD 垂直切片 / PRD 生成 / Ubiquitous Language / Git Guardrails / Skill 编写方法论 |
 | 2026-04-21 | 新增 Best Skills 推荐榜单（30分钟）— Stars 排行榜 / 场景化组合 / 跨平台推荐 |
 | 2026-04-21 | 新增 Skills 场景配置指南（35分钟）— 四大 Agentic Tools 场景化技能组合配置 / 决策树 / 快速启动模板 |
 | 2026-04-21 | 新增 Agentic Tools 内置 Skills 三层架构对比 — Claude Code / OpenClaw / Hermes / OpenCode 全方位对比 |
@@ -237,4 +255,4 @@
 
 ---
 
-*整理：墨鉴 | 2026-04-20*
+*整理：墨鉴 | 2026-04-27*
