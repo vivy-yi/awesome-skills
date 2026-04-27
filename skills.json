@@ -2014,6 +2014,30 @@
     "url": "https://github.com/ElijahWN/LocalLLM"
   },
   {
+    "name": "mattpocock/skills",
+    "stars": 24457,
+    "desc": "Agent Skills for real engineers. Straight from Matt Pocock's .claude directory — production-ready skills with real usage data.",
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "stars": 30319,
+    "desc": "Zero-Server Code Intelligence Engine — client-side knowledge graph creator that runs entirely in browser. Drop in a GitHub repo or ZIP file and get an interactive knowledge graph with built-in Graph RAG Agent for code exploration.",
+    "url": "https://github.com/abhigyanpatwari/GitNexus"
+  },
+  {
+    "name": "gastownhall/beads",
+    "stars": 21739,
+    "desc": "A memory upgrade for your coding agent — provides persistent, structured memory across agent sessions with automatic context summarization and retrieval.",
+    "url": "https://github.com/gastownhall/beads"
+  },
+  {
+    "name": "trycua/cua",
+    "stars": 14465,
+    "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "url": "https://github.com/trycua/cua"
+  },
+  {
     "name": "JiangShuo2001/tom_harness",
     "stars": 0,
     "desc": "Lightweight skill-based agent harness for Theory-of-Mind benchmarks. Plan-then-Execute + ReAct",
