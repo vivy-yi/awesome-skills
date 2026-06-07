@@ -1650,6 +1650,12 @@
     "url": "https://github.com/feiskyer/codex-settings"
   },
   {
+    "name": "Xquik-dev/x-twitter-scraper",
+    "stars": 110,
+    "desc": "AI agent skill for X/Twitter search, profile data, follower exports, media downloads, monitors, webhooks, MCP, and posting workflows.",
+    "url": "https://github.com/Xquik-dev/x-twitter-scraper"
+  },
+  {
     "name": "hashicorp/agent-skills",
     "stars": 109,
     "desc": "",

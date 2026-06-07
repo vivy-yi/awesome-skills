@@ -913,6 +913,9 @@ Database and data integration tools.
 
 1. [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - ⭐ 1454
    - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+
+2. [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - ⭐ 110
+   - AI agent skill for X/Twitter search, profile data, follower exports, media downloads, monitors, webhooks, MCP, and posting workflows.
 ---
 
 ### 🌐 Browser & Automation
