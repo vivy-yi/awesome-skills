@@ -1614,6 +1614,12 @@
     "url": "https://github.com/staruhub/ClaudeSkills"
   },
   {
+    "name": "Xquik-dev/x-twitter-scraper",
+    "stars": 113,
+    "desc": "X data skill for tweet search, user lookup, monitoring, webhooks, MCP setup, SDK setup, and confirmation-gated publishing workflows.",
+    "url": "https://github.com/Xquik-dev/x-twitter-scraper"
+  },
+  {
     "name": "VCnoC/Claude-Code-Zen-mcp-Skill-Work",
     "stars": 112,
     "desc": "关于这个事，我简单说两句，你明白就行，总而言之，这个事呢，现在就是这个情况，具体的呢，大家也都看得到，也得出来说那么几句，可能，你听的不是很明白，但是意思就是那么个意思，不知道的你也不用去猜，这种事情见得多了，我只想说懂得都懂，不懂的我也不多解释，毕竟自己知道就好，细细品吧。",
