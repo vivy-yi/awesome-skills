@@ -9,7 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **341** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **343** AI agent skill repositories and frameworks (100+ stars)
 >
 > 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-27
 
@@ -90,7 +90,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 341
+- **Total Repositories**: 343
 - **Total Skills Analyzed**: 4,500+ skills from 95+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
@@ -628,28 +628,31 @@ Content generation, research, and documentation tools.
 3. [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - ⭐ 1237
    - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
 
-4. [huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator) - ⭐ 946
+4. [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - ⭐ 113
+   - X data skill for tweet search, user lookup, monitoring, webhooks, MCP setup, SDK setup, and confirmation-gated publishing workflows.
+
+5. [huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator) - ⭐ 946
    - 这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制
 
-5. [ginobefun/deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill) - ⭐ 255
+6. [ginobefun/deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill) - ⭐ 255
    - A professional Claude AI skill for deep reading analysis
 
-6. [adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill) - ⭐ 497
+7. [adithya-s-k/manim_skill](https://github.com/adithya-s-k/manim_skill) - ⭐ 497
    - Agent skills for Manim to create 3Blue1Brown style animations.
 
-7. [YuJunZhiXue/github-skill-forge](https://github.com/YuJunZhiXue/github-skill-forge) - ⭐ 240
+8. [YuJunZhiXue/github-skill-forge](https://github.com/YuJunZhiXue/github-skill-forge) - ⭐ 240
    - 一个"制造技能的技能"。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。
 
-8. [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) - ⭐ 227
+9. [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator) - ⭐ 227
    - Meta-skill that teaches Claude Code to create complete agents with Claude Skills in a fully autonomous way!
 
-9. [OSU-NLP-Group/SkillWeaver](https://github.com/OSU-NLP-Group/SkillWeaver) - ⭐ 108
+10. [OSU-NLP-Group/SkillWeaver](https://github.com/OSU-NLP-Group/SkillWeaver) - ⭐ 108
    - SkillWeaver is a framework to enable web agent self-improvement through environment exploration and skill synthesis.
 
-10. [InternScience/Awesome-Scientific-Skills](https://github.com/InternScience/Awesome-Scientific-Skills) - ⭐ 278 ⏰2026-03
+11. [InternScience/Awesome-Scientific-Skills](https://github.com/InternScience/Awesome-Scientific-Skills) - ⭐ 278 ⏰2026-03
     - Open, curated collection of Agent Skills for scientific research — clone it, use it, extend it!
 
-11. [fewwwww/awesome-web3-skills](https://github.com/fewwwww/awesome-web3-skills) - ⭐ 107 ⏰2026-03
+12. [fewwwww/awesome-web3-skills](https://github.com/fewwwww/awesome-web3-skills) - ⭐ 107 ⏰2026-03
     - Curated list of awesome skills for agents in Web3 and crypto
 ---
 
