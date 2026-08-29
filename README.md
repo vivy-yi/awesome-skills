@@ -9,7 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-skills?style=social)](https://github.com/vivy-yi/awesome-skills/stargazers)
 [![GitHub Visitors](https://visitor-badge.laobi.icu/badge?page_id=vivy-yi.awesome-skills)](https://github.com/vivy-yi/awesome-skills)
 
-> A curated list of **341** AI agent skill repositories and frameworks (100+ stars)
+> A curated list of **342** AI agent skill repositories and frameworks (100+ stars)
 >
 > 🎯 **For:** Claude Code, Cursor, Copilot, GPT Agents | 📚 **Includes:** Agent frameworks, MCP servers, skills marketplace | ⚡ **Updated:** 2026-04-27
 
@@ -90,7 +90,7 @@ AI agent skills, Claude Code skills, Cursor AI, agent frameworks, MCP servers, a
 
 ## 📊 Statistics
 
-- **Total Repositories**: 341
+- **Total Repositories**: 342
 - **Total Skills Analyzed**: 4,500+ skills from 95+ repositories
 - **Total Categories**: 22
 - **Minimum Stars**: 100
@@ -1028,6 +1028,9 @@ Skills evaluation and benchmarking tools.
 
 1. [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench) - ⭐ 273
    - SkillsBench evaluates how well skills work and how effective agents are at using them
+
+2. [vostride/agent-qa](https://github.com/vostride/agent-qa) - ⭐ 933 | 📊 3 skills
+   - Agent skills for authoring natural-language web, Android, and iOS regression tests, debugging failed runs, and triaging results from reviewable evidence. Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
 
 ---
 ## 📖 深度教程（Tutorials）
